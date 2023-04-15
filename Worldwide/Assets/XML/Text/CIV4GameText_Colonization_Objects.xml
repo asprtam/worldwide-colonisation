@@ -1,0 +1,6475 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_IDLE_CITIZEN</Tag>
+		<English>Idle Citizen:Idle Citizens</English>
+		<French>Citoyen oisif:Citoyens oisifs</French>
+		<German>Unt&#228;tiger B&#252;rger:Unt&#228;tige B&#252;rger</German>
+		<Italian>Bez profesji</Italian>
+		<Spanish>Ciudadano ocioso:Ciudadanos ociosos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_FARMER</Tag>
+		<English>Farmer:Farmers</English>
+		<French>Fermier:Fermiers</French>
+		<German>Bauer:Bauern</German>
+		<Italian>Farmer</Italian>
+		<Spanish>Agricultor:Agricultores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_FISHERMAN</Tag>
+		<English>Fisherman:Fishermen</English>
+		<French>P&#234;cheur:P&#234;cheurs</French>
+		<German>Fischer:Fischer</German>
+		<Italian>Rybak</Italian>
+		<Spanish>Pescador:Pescadores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_LUMBERJACK</Tag>
+		<English>Lumberjack:Lumberjacks</English>
+		<French>B&#251;cheron:B&#251;cherons</French>
+		<German>Holzf&#228;ller:Holzf&#228;ller</German>
+		<Italian>Drwal</Italian>
+		<Spanish>Le&#241;ador:Le&#241;adores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_SILVER_MINER</Tag>
+		<English>Silver Miner:Silver Miners</English>
+		<French>Mineur d'argent:Mineurs d'argent</French>
+		<German>Silberminenarbeiter:Silberminenarbeiter</German>
+		<Italian>Kopacz srebra</Italian>
+		<Spanish>Minero de plata:Mineros de plata</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_COTTON_PLANTER</Tag>
+		<English>Cotton Planter:Cotton Planters</English>
+		<French>Planteur de coton:Planteurs de coton</French>
+		<German>Baumwollpflanzer:Baumwollpflanzer</German>
+		<Italian>Hodowca bawe&#244;ny</Italian>
+		<Spanish>Plantador de algod&#243;n:Plantadores de algod&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_FUR_TRAPPER</Tag>
+		<English>Fur Trapper:Fur Trappers</English>
+		<French>Trappeur:Trappeurs</French>
+		<German>Pelzj&#228;ger:Pelzj&#228;ger</German>
+		<Italian>Traper</Italian>
+		<Spanish>Trampero de pieles:Tramperos de pieles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_SUGAR_PLANTER</Tag>
+		<English>Sugar Planter:Sugar Planters</English>
+		<French>Planteur de sucre:Planteurs de sucre</French>
+		<German>Zuckerrohrpflanzer:Zuckerrohrpflanzer</German>
+		<Italian>Hodowca trzciny cukrowej</Italian>
+		<Spanish>Plantador de az&#250;car:Plantadores de az&#250;car</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_TOBACCO_PLANTER</Tag>
+		<English>Tobacco Planter:Tobacco Planters</English>
+		<French>Planteur de tabac:Planteurs de tabac</French>
+		<German>Tabakpflanzer:Tabakpflanzer</German>
+		<Italian>Hodowca tytoniu</Italian>
+		<Spanish>Plantador de tabaco:Plantadores de tabaco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_ORE_MINER</Tag>
+		<English>Ore Miner:Ore Miners</English>
+		<French>Mineur de fer:Mineurs de fer</French>
+		<German>Eisenminenarbeiter:Eisenminenarbeiter</German>
+		<Italian>G&#243;rnik</Italian>
+		<Spanish>Minero:Mineros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_WEAVER</Tag>
+		<English>Weaver:Weavers</English>
+		<French>Tisserand:Tisserands</French>
+		<German>Weber:Weber</German>
+		<Italian>Tkacz</Italian>
+		<Spanish>Tejedor:Tejedores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_FUR_TRADER</Tag>
+		<English>Coat Maker:Coat Makers</English>
+		<French>Fabriquant de manteaux:Fabriquants de manteaux</French>
+		<German>Pelzh&#228;ndler:Pelzh&#228;ndler</German>
+		<Italian>Ku&#228;nierz</Italian>
+		<Spanish>Confeccionista de abrigos:Confeccionistas de abrigos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_DISTILLER</Tag>
+		<English>Distiller:Distillers</English>
+		<French>Distillateur:Distillateurs</French>
+		<German>Rumbrenner:Rumbrenner</German>
+		<Italian>Gorzelnik</Italian>
+		<Spanish>Destilador:Destiladores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_TOBACCONIST</Tag>
+		<English>Cigar Maker:Cigar Makers</English>
+		<French>Fabricant de cigares:Fabricants de cigares</French>
+		<German>Zigarrendreher:Zigarrendreher</German>
+		<Italian>Fabrykant cygar</Italian>
+		<Spanish>Cigarrero:Cigarreros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_BLACKSMITH</Tag>
+		<English>Blacksmith:Blacksmiths</English>
+		<French>Forgeron:Forgerons</French>
+		<German>Schmied:Schmiede</German>
+		<Italian>Kowal</Italian>
+		<Spanish>Herrero:Herreros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_GUNSMITH</Tag>
+		<English>Gunsmith:Gunsmiths</English>
+		<French>Armurier:Armuriers</French>
+		<German>Waffenschmied:Waffenschmiede</German>
+		<Italian>Rusznikarz</Italian>
+		<Spanish>Armero:Armeros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_RANCHER</Tag>
+		<English>Rancher:Ranchers</English>
+		<French>Propri&#233;taire de ranch:Propri&#233;taires de ranch</French>
+		<German>Rancher:Rancher</German>
+		<Italian>Hodowca koni</Italian>
+		<Spanish>Ranchero:Rancheros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_CARPENTER</Tag>
+		<English>Carpenter:Carpenters</English>
+		<French>Menuisier:Menuisiers</French>
+		<German>Zimmermann:Zimmerleute</German>
+		<Italian>Cie&#228;la</Italian>
+		<Spanish>Carpintero:Carpinteros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_STATESMAN</Tag>
+		<English>Statesman:Statesmen</English>
+		<French>Homme d'Etat:Hommes d'Etat</French>
+		<German>Staatsmann:Staatsm&#228;nner</German>
+		<Italian>Polityk</Italian>
+		<Spanish>Estadista:Estadistas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_PREACHER</Tag>
+		<English>Preacher:Preachers</English>
+		<French>Pr&#233;dicateur:Pr&#233;dicateurs</French>
+		<German>Prediger:Prediger</German>
+		<Italian>Kaznodzieja</Italian>
+		<Spanish>Predicador:Predicadores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_COLONIST</Tag>
+		<English>Colonist:Colonists</English>
+		<French>Colon:Colons</French>
+		<German>Kolonist:Kolonisten</German>
+		<Italian>Kolonista</Italian>
+		<Spanish>Colono:Colonos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_PIONEER</Tag>
+		<English>Pioneer:Pioneers</English>
+		<French>Pionnier:Pionniers</French>
+		<German>Pionier:Pioniere</German>
+		<Italian>Pionier</Italian>
+		<Spanish>Pionero:Pioneros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_SCOUT</Tag>
+		<English>Scout:Scouts</English>
+		<French>Eclaireur:Eclaireurs</French>
+		<German>Sp&#228;her:Sp&#228;her</German>
+		<Italian>Tropiciel</Italian>
+		<Spanish>Batidor:Batidores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_SOLDIER</Tag>
+		<English>Soldier:Soldiers</English>
+		<French>Soldat:Soldats</French>
+		<German>Soldat:Soldaten</German>
+		<Italian>&#203;o&#244;nierz</Italian>
+		<Spanish>Soldado:Soldados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_DRAGOON</Tag>
+		<English>Dragoon:Dragoons</English>
+		<French>Dragon:Dragons</French>
+		<German>Dragoner:Dragoner</German>
+		<Italian>Dragon</Italian>
+		<Spanish>Drag&#243;n:Dragones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_MISSIONARY</Tag>
+		<English>Missionary:Missionaries</English>
+		<French>Missionnaire:Missionnaires</French>
+		<German>Missionar:Missionare</German>
+		<Italian>Misjonarz</Italian>
+		<Spanish>Misionero:Misioneros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_BRAVE</Tag>
+		<English>Brave:Braves</English>
+		<French>Brave:Braves</French>
+		<German>Krieger:Krieger</German>
+		<Italian>Tubylec</Italian>
+		<Spanish>Valiente:Valientes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_MOUNTED_BRAVE</Tag>
+		<English>Mounted Brave:Mounted Braves</English>
+		<French>Cavalier indig&#232;ne:Cavaliers indig&#232;nes</French>
+		<German>Berittener Krieger:Berittene Krieger</German>
+		<Italian>Konny Tubylec</Italian>
+		<Spanish>Valiente montado:Valientes montados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_ARMED_BRAVE</Tag>
+		<English>Armed Brave:Armed Braves</English>
+		<French>Brave arm&#233;:Braves arm&#233;s</French>
+		<German>Bewaffneter Krieger:Bewaffnete Krieger</German>
+		<Italian>Uzbrojony Tubylec</Italian>
+		<Spanish>Valiente armado:Valientes armados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_LUMBER</Tag>
+		<English>Lumber</English>
+		<French>Bois</French>
+		<German>Holz</German>
+		<Italian>Drewno</Italian>
+		<Spanish>Madera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_ORE</Tag>
+		<English>Ore</English>
+		<French>Minerai de fer:Minerais de fer</French>
+		<German>Eisenerz</German>
+		<Italian>Ruda</Italian>
+		<Spanish>Mineral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_SILVER</Tag>
+		<English>Silver</English>
+		<French>Argent</French>
+		<German>Silber</German>
+		<Italian>Srebro</Italian>
+		<Spanish>Plata</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_COTTON</Tag>
+		<English>Cotton</English>
+		<French>Coton</French>
+		<German>Baumwolle</German>
+		<Italian>Bawe&#244;na</Italian>
+		<Spanish>Algod&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_FUR</Tag>
+		<English>Fur</English>
+		<French>Fourrure:Fourrures</French>
+		<German>Pelz</German>
+		<Italian>Sk&#243;ry</Italian>
+		<Spanish>Pieles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_SUGAR</Tag>
+		<English>Sugar</English>
+		<French>Sucre</French>
+		<German>Zucker</German>
+		<Italian>Cukier</Italian>
+		<Spanish>Az&#250;car</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_TOBACCO</Tag>
+		<English>Tobacco</English>
+		<French>Tabac</French>
+		<German>Tabak</German>
+		<Italian>Tyto&#241;</Italian>
+		<Spanish>Tabaco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_TOOLS</Tag>
+		<English>Tools</English>
+		<French>Outil:Outils</French>
+		<German>Werkzeuge</German>
+		<Italian>Narz&#234;dzia</Italian>
+		<Spanish>Herramientas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_CLOTH</Tag>
+		<English>Cloth</English>
+		<French>Tissu:Tissus</French>
+		<German>Stoff</German>
+		<Italian>Tkaniny</Italian>
+		<Spanish>Tejido</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_COATS</Tag>
+		<English>Coats</English>
+		<French>Manteau:Manteaux</French>
+		<German>M&#228;ntel</German>
+		<Italian>Ubrania</Italian>
+		<Spanish>Abrigos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_RUM</Tag>
+		<English>Rum</English>
+		<French>Rhum</French>
+		<German>Rum</German>
+		<Italian>Rum</Italian>
+		<Spanish>Ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_CIGARS</Tag>
+		<English>Cigars</English>
+		<French>Cigare:Cigares</French>
+		<German>Zigarren</German>
+		<Italian>Cygara</Italian>
+		<Spanish>Puros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_HORSES</Tag>
+		<English>Horses</English>
+		<French>Cheval:Chevaux</French>
+		<German>Pferde</German>
+		<Italian>Konie</Italian>
+		<Spanish>Caballos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_TRADE_GOODS</Tag>
+		<English>Trade Goods</English>
+		<French>Marchandise:Marchandises</French>
+		<German>Handelsg&#252;ter</German>
+		<Italian>Towary europejskie</Italian>
+		<Spanish>Mercanc&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_BELLS</Tag>
+		<English>Liberty Bells</English>
+		<French>Cloche de la libert&#233;:Cloches de la libert&#233;</French>
+		<German>Freiheitsglocken</German>
+		<Italian>Dzwony Wolno&#228;ci</Italian>
+		<Spanish>C. de la libertad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_CROSSES</Tag>
+		<English>Crosses</English>
+		<French>Croix:Croix</French>
+		<German>Kreuze</German>
+		<Italian>Krzy&#235;e</Italian>
+		<Spanish>Cruces</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_DESC</Tag>
+		<English>Dutch Colonies</English>
+		<French>Colonies n&#233;erlandaises</French>
+		<German>Holl&#228;nd. Kolonialreich:Holl&#228;ndische Kolonialreich:Holl&#228;ndischen Kolonialreich</German>
+		<Italian>Kolonie niderlandzkie</Italian>
+		<Spanish>Dominio Holand&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_DESC</Tag>
+		<English>Arawak</English>
+		<French>Arawaks</French>
+		<German>Arawak-Reich:Arawak-Reich:Arawak-Reich</German>
+		<Italian>Plemi&#234; Arawak&#243;w</Italian>
+		<Spanish>Pueblo Arahuaco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_DESC</Tag>
+		<English>Tupi</English>
+		<French>Tupis</French>
+		<German>Tupi-Reich:Tupi-Reich:Tupi-Reich</German>
+		<Italian>Plemi&#234; Tupi</Italian>
+		<Spanish>Pueblo Tup&#237;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_DESC</Tag>
+		<English>Cherokee</English>
+		<French>Cherokees</French>
+		<German>Cherokee-Reich:Cherokee-Reich:Cherokee-Reich</German>
+		<Italian>Plemi&#234; Czirokez&#243;w</Italian>
+		<Spanish>Pueblo Cherokee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_DESC</Tag>
+		<English>Iroquois</English>
+		<French>Iroquois</French>
+		<German>Irokesen-Reich:Irokesen-Reich:Irokesen-Reich</German>
+		<Italian>Plemi&#234; Irokez&#243;w</Italian>
+		<Spanish>Pueblo Iroqu&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
+		<English>Sioux</English>
+		<French>Sioux</French>
+		<German>Sioux-Reich:Sioux-Reich:Sioux-Reich</German>
+		<Italian>Plemi&#234; Siuks&#243;w</Italian>
+		<Spanish>Pueblo Sioux</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
+		<English>Apache</English>
+		<French>Apaches</French>
+		<German>Apachen-Reich:Apachen-Reich:Apachen-Reich</German>
+		<Italian>Plemi&#234; Apacz&#243;w</Italian>
+		<Spanish>Pueblo Apache</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_SHORT_DESC</Tag>
+		<English>New Netherlands</English>
+		<French>Nouveaux Pays-Bas</French>
+		<German>Neuniederlande</German>
+		<Italian>Nowe Niderlandy</Italian>
+		<Spanish>Nueva Holanda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_SHORT_DESC</Tag>
+		<English>Arawak</English>
+		<French>Arawaks</French>
+		<German>Arawak-Land</German>
+		<Italian>Arawakowie</Italian>
+		<Spanish>La Tierra Arahauca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_SHORT_DESC</Tag>
+		<English>Tupi</English>
+		<French>Tupis</French>
+		<German>Tupi-Land</German>
+		<Italian>Tupi</Italian>
+		<Spanish>La Tierra Tup&#237;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_SHORT_DESC</Tag>
+		<English>Cherokee</English>
+		<French>Cherokees</French>
+		<German>Cherokee-L.</German>
+		<Italian>Czirokezi</Italian>
+		<Spanish>La Tierra Cherokee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_SHORT_DESC</Tag>
+		<English>Iroquois</English>
+		<French>Iroquois</French>
+		<German>Irokesen-L.</German>
+		<Italian>Irokezi</Italian>
+		<Spanish>La Tierra Iroquesa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
+		<English>Sioux</English>
+		<French>Sioux</French>
+		<German>Sioux-Land</German>
+		<Italian>Siuksowie</Italian>
+		<Spanish>La Tierra Sioux</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_SHORT_DESC</Tag>
+		<English>Apache</English>
+		<French>Apaches</French>
+		<German>Apachen-L.</German>
+		<Italian>Apacze</Italian>
+		<Spanish>La Tierra Apache</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_ADJECTIVE</Tag>
+		<English>Dutch:Dutch</English>
+		<French>n&#233;erlandais:n&#233;erlandaise:n&#233;erlandais:N&#233;erlandais</French>
+		<German>holl&#228;ndisch:holl&#228;ndischen:holl&#228;ndische</German>
+		<Italian>niderlandzki</Italian>
+		<Spanish>holand&#233;s:holand&#233;s:holandeses:holandeses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARAWAK_ADJECTIVE</Tag>
+		<English>Arawak</English>
+		<French>Arawak:Arawak:Arawaks:Arawaks</French>
+		<German>Arawak:Arawak:Arawak</German>
+		<Italian>arawacki</Italian>
+		<Spanish>arahuaco:arahuaca:arahuacos:arahuacas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUPI_ADJECTIVE</Tag>
+		<English>Tupi</English>
+		<French>tupi:tupi:tupis:tupis</French>
+		<German>Tupi:Tupi:Tupi</German>
+		<Italian>tupi</Italian>
+		<Spanish>tup&#237;:tup&#237;:tup&#237;es:tup&#237;es</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHEROKEE_ADJECTIVE</Tag>
+		<English>Cherokee</English>
+		<French>cherokee:cherokee:cherokees:cherokees</French>
+		<German>Cherokee:Cherokee:Cherokee</German>
+		<Italian>czirokeski</Italian>
+		<Spanish>cherokee:cherokee:cherokees:cherokees</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IROQUOIS_ADJECTIVE</Tag>
+		<English>Iroquois</English>
+		<French>Iroquois:Iroquois:Iroquois:Iroquois</French>
+		<German>Irokesisch:irokesischen:irokesischen</German>
+		<Italian>irokeski</Italian>
+		<Spanish>iroqu&#233;s:iroquesa:iroqueses:iroquesas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIOUX_ADJECTIVE</Tag>
+		<English>Sioux</English>
+		<French>Sioux:Sioux:Sioux:Sioux</French>
+		<German>Sioux:Sioux:Sioux</German>
+		<Italian>siuksyjski</Italian>
+		<Spanish>sioux:sioux:sioux:sioux</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_APACHE_ADJECTIVE</Tag>
+		<English>Apache</English>
+		<French>apache:apache:Apaches:Apaches</French>
+		<German>Apachen:Apachen:Apachen</German>
+		<Italian>apacz&#243;w</Italian>
+		<Spanish>apache:apache:apaches:apaches</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COLONIST</Tag>
+		<English>Free Colonist:Free Colonists</English>
+		<French>Colon libre:Colons libres</French>
+		<German>Freier Kolonist:Freie Kolonisten</German>
+		<Italian>Wolny kolonista</Italian>
+		<Spanish>Colono libre:Colonos libres</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CRIMINAL</Tag>
+		<English>Petty Criminal:Petty Criminals</English>
+		<French>D&#233;linquant:D&#233;linquants</French>
+		<German>Kleinkrimineller:Kleinkriminelle</German>
+		<Italian>Skazaniec</Italian>
+		<Spanish>Convicto:Convictos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDENTURED_SERVANT</Tag>
+		<English>Indentured Servant:Indentured Servants</English>
+		<French>Engag&#233;:Engag&#233;s</French>
+		<German>Schuldknecht:Schuldknechte</German>
+		<Italian>Czeladnik</Italian>
+		<Spanish>Siervo por deudas:Siervos por deudas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONVERTED_NATIVE</Tag>
+		<English>Converted Native:Converted Natives</English>
+		<French>Indig&#232;ne converti:Indig&#232;nes convertis</French>
+		<German>Konvertierter Ureinwohner:Konvertierte Ureinwohner</German>
+		<Italian>Nawr&#243;cony tubylec</Italian>
+		<Spanish>Nativo converso:Nativos conversos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MINER</Tag>
+		<English>Expert Ore Miner:Expert Ore Miners</English>
+		<French>Mineur de fer professionnel:Mineurs de fer profesionnels</French>
+		<German>Erfahrener Eisenminenarbeiter:Erfahrene Eisenminenarbeiter</German>
+		<Italian>Sztygar</Italian>
+		<Spanish>Minero experto:Mineros expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RANCHER</Tag>
+		<English>Master Rancher:Master Ranchers</English>
+		<French>Ma&#238;tre propri&#233;taire de ranch:Ma&#238;tres propri&#233;taire de ranchs</French>
+		<German>Meisterrancher:Meisterrancher</German>
+		<Italian>Zarz&#225;dca stadniny</Italian>
+		<Spanish>Maestro ranchero:Maestros rancheros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LUMBERJACK</Tag>
+		<English>Expert Lumberjack:Expert Lumberjacks</English>
+		<French>B&#251;cheron professionnel:B&#251;cherons professionnels</French>
+		<German>Erfahrener Holzf&#228;ller:Erfahrene Holzf&#228;ller</German>
+		<Italian>R&#234;bacz</Italian>
+		<Spanish>Le&#241;ador experto:Le&#241;adores expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TOBACCO_PLANTER</Tag>
+		<English>Expert Tobacco Planter:Expert Tobacco Planters</English>
+		<French>Planteurs de tabac professionnel:Planteurs de tabac professionnels</French>
+		<German>Erfahrener Tabakpflanzer:Erfahrene Tabakpflanzer</German>
+		<Italian>Plantator tytoniu</Italian>
+		<Spanish>Plantador de tabaco experto:Plantadores de tabaco expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COTTON_PLANTER</Tag>
+		<English>Expert Cotton Planter:Expert Cotton Planters</English>
+		<French>Planteur de coton professionnel:Planteurs de coton professionnels</French>
+		<German>Erfahrener Baumwollpflanzer:Erfahrene Baumwollpflanzer</German>
+		<Italian>Plantator bawe&#244;ny</Italian>
+		<Spanish>Algodonero exp.:Plantadores de algod&#243;n expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUGAR_PLANTER</Tag>
+		<English>Expert Sugar Planter:Expert Sugar Planters</English>
+		<French>Planteur de sucre professionnel:Planteurs de sucre professionnels</French>
+		<German>Erfahrener Zuckerrohrpflanzer:Erfahrene Zuckerrohrpflanzer</German>
+		<Italian>Plantator trzciny cukrowej</Italian>
+		<Spanish>Experto en az&#250;car:Expertos en az&#250;car</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FARMER</Tag>
+		<English>Expert Farmer:Expert Farmers</English>
+		<French>Fermier professionnel:Fermiers professionnels</French>
+		<German>Erfahrener Bauer:Erfahrene Bauern</German>
+		<Italian>Plantator</Italian>
+		<Spanish>Agricultor experto:Agricultores expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRAPPER</Tag>
+		<English>Expert Trapper:Expert Trappers</English>
+		<French>Trappeur professionnel:Trappeurs professionnels</French>
+		<German>Erfahrener Pelzj&#228;ger:Erfahrene Pelzj&#228;ger</German>
+		<Italian>Do&#228;wiadczony traper</Italian>
+		<Spanish>Trampero experto:Tramperos expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FISHERMAN</Tag>
+		<English>Expert Fisherman:Expert Fishermen</English>
+		<French>P&#234;cheur professionnel:P&#234;cheurs professionnels</French>
+		<German>Erfahrener Fischer:Erfahrene Fischer</German>
+		<Italian>Do&#228;wiadczony rybak</Italian>
+		<Spanish>Pescador experto:Pescadores expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SILVERMINER</Tag>
+		<English>Expert Silver Miner:Expert Silver Miners</English>
+		<French>Mineur d'argent professionnel:Mineurs d'argent professionnels</French>
+		<German>Erfahrener Silberminenarbeiter:Erfahrene Silberminenarbeiter</German>
+		<Italian>Do&#228;wiadczony kopacz srebra</Italian>
+		<Spanish>Minero de plata experto:Mineros de plata expertos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACKSMITH</Tag>
+		<English>Master Blacksmith:Master Blacksmiths</English>
+		<French>Ma&#238;tre forgeron:Maitres forgerons</French>
+		<German>Meisterschmied:Meisterschmiede</German>
+		<Italian>Mistrz kowalski</Italian>
+		<Spanish>Maestro herrero:Maestros herreros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSMITH</Tag>
+		<English>Master Gunsmith:Master Gunsmiths</English>
+		<French>Ma&#238;tre armurier:Ma&#238;tres armuriers</French>
+		<German>Meisterwaffenschmied:Meisterwaffenschmiede</German>
+		<Italian>Mistrz rusznikarski</Italian>
+		<Spanish>Maestro armero:Maestros armeros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DISTILLER</Tag>
+		<English>Master Distiller:Master Distillers</English>
+		<French>Ma&#238;tre distillateur:Ma&#238;tres distillateurs</French>
+		<German>Meisterrumbrenner:Meisterrumbrenner</German>
+		<Italian>Mistrz gorzelniczy</Italian>
+		<Spanish>Maestro destilador:Maestros destiladores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WEAVER</Tag>
+		<English>Master Weaver:Master Weavers</English>
+		<French>Ma&#238;tre tisserand:Ma&#238;tres tisserands</French>
+		<German>Meisterweber:Meisterweber</German>
+		<Italian>Mistrz tkacki</Italian>
+		<Spanish>Maestro tejedor:Maestros tejedores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TOBACCONIST</Tag>
+		<English>Master Tobacconist:Master Tobacconists</English>
+		<French>Ma&#238;tre marchand de tabac:Ma&#238;tres marchands de tabac</French>
+		<German>Meisterzigarrendreher:Meisterzigarrendreher</German>
+		<Italian>Wytw&#243;rca cygar</Italian>
+		<Spanish>Maestro tabaquero:Maestros tabaqueros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUR_TRADER</Tag>
+		<English>Master Fur Trader:Master Fur Traders</English>
+		<French>Ma&#238;tre fourreur:Ma&#238;tres fourreurs</French>
+		<German>Meisterpelzh&#228;ndler:Meisterpelzh&#228;ndler</German>
+		<Italian>Handlarz sk&#243;rami</Italian>
+		<Spanish>Maestro peletero:Maestros peleteros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARPENTER</Tag>
+		<English>Master Carpenter:Master Carpenters</English>
+		<French>Ma&#238;tre menuisier:Ma&#238;tres menuisiers</French>
+		<German>Meisterzimmermann:Meisterzimmerleute</German>
+		<Italian>Mistrz ciesielski</Italian>
+		<Spanish>Maestro carpintero:Maestros carpinteros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VETERAN</Tag>
+		<English>Veteran Soldier:Veteran Soldiers</English>
+		<French>Soldat v&#233;t&#233;ran:Soldats v&#233;t&#233;rans</French>
+		<German>Kampfveteran:Kampfveteranen</German>
+		<Italian>Weteran</Italian>
+		<Spanish>Soldado veterano:Soldados veteranos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIONEER</Tag>
+		<English>Hardy Pioneer:Hardy Pioneers</English>
+		<French>Pionnier intr&#233;pide:Pionniers intr&#233;pides</French>
+		<German>K&#252;hner Pionier:K&#252;hne Pioniere</German>
+		<Italian>Do&#228;wiadczony pionier</Italian>
+		<Spanish>Pionero avezado:Pioneros avezados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCOUT</Tag>
+		<English>Seasoned Scout:Seasoned Scouts</English>
+		<French>Eclaireur aguerri:Eclaireurs aguerris</French>
+		<German>Routinierter Sp&#228;her:Routinierte Sp&#228;her</German>
+		<Italian>Do&#228;wiadczony tropiciel</Italian>
+		<Spanish>Batidor curtido:Batidores curtidos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PREACHER</Tag>
+		<English>Firebrand Preacher:Firebrand Preachers</English>
+		<French>Pr&#233;dicateur exalt&#233;:Pr&#233;dicateurs exalt&#233;s</French>
+		<German>Hetzprediger:Hetzprediger</German>
+		<Italian>P&#244;omienny kaznodzieja</Italian>
+		<Spanish>Predicador exaltado:Predicadores exaltados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STATESMAN</Tag>
+		<English>Elder Statesman:Elder Statesmen</English>
+		<French>Homme d'Etat aguerri:Hommes d'Etat aguerris</French>
+		<German>Weiser Staatsmann:Weise Staatsm&#228;nner</German>
+		<Italian>M&#225;&#235; stanu</Italian>
+		<Spanish>Estadista mayor:Estadistas mayores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY</Tag>
+		<English>Jesuit Missionary:Jesuit Missionaries</English>
+		<French>Missionnaire j&#233;suite:Missionnaires j&#233;suites</French>
+		<German>Jesuitenmissionar:Jesuitenmissionare</German>
+		<Italian>Jezuita</Italian>
+		<Spanish>Misionero jesuita:Misioneros jesuit. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL</Tag>
+		<English>Caravel:Caravels</English>
+		<French>Caravelle:Caravelles</French>
+		<German>Karavelle:Karavellen</German>
+		<Italian>Karawela</Italian>
+		<Spanish>Carabela:Carabelas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEON</Tag>
+		<English>Galleon:Galleons</English>
+		<French>Galion:Galions</French>
+		<German>Galeone:Galeonen</German>
+		<Italian>Galeon</Italian>
+		<Spanish>Gale&#243;n:Galeones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FRIGATE</Tag>
+		<English>Frigate:Frigates</English>
+		<French>Fr&#233;gate:Fr&#233;gates</French>
+		<German>Fregatte:Fregatten</German>
+		<Italian>Fregata</Italian>
+		<Spanish>Fragata:Fragatas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERCHANTMAN</Tag>
+		<English>Merchantman:Merchantmen</English>
+		<French>Navire marchand:Navires marchands</French>
+		<German>Kauffahrer:Kauffahrer</German>
+		<Italian>Statek handlowy</Italian>
+		<Spanish>Nav&#237;o mercante:Nav&#237;os mercantes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRIVATEER</Tag>
+		<English>Privateer:Privateers</English>
+		<French>Corsaire:Corsaires</French>
+		<German>Freibeuter:Freibeuter</German>
+		<Italian>Korsarz</Italian>
+		<Spanish>Corsario:Corsarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHIP_OF_THE_LINE</Tag>
+		<English>Ship of the Line:Ships of the Line</English>
+		<French>Galion de guerre:Galions de guerre</French>
+		<German>Linienschiff:Linienschiffe</German>
+		<Italian>Okr&#234;t liniowy</Italian>
+		<Spanish>Corbeta:Corbetas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAN_O_WAR</Tag>
+		<English>Man-o-War:Man-o-Wars</English>
+		<French>Vaisseau de guerre:Vaisseaux de guerre</French>
+		<German>Schlachtschiff:Schlachtschiffe</German>
+		<Italian>Man-o-War</Italian>
+		<Spanish>Buque de guerra:Buques de guerra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NATIVE</Tag>
+		<English>Native:Natives</English>
+		<French>Indig&#232;ne:Indig&#232;nes</French>
+		<German>Ureinwohner:Ureinwohner</German>
+		<Italian>Tubylec</Italian>
+		<Spanish>Nativo:Nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AFRICAN_NATIVE</Tag>
+		<English>Native:Natives</English>
+		<French>Indig&#232;ne:Indig&#232;nes</French>
+		<German>Ureinwohner:Ureinwohner</German>
+		<Italian>Tubylec</Italian>
+		<Spanish>Nativo:Nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CANNON</Tag>
+		<English>Cannon:Cannons</English>
+		<French>Canon:Canons</French>
+		<German>Kanone:Kanonen</German>
+		<Italian>Bombarda</Italian>
+		<Spanish>Ca&#241;&#243;n:Ca&#241;ones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WAGON_TRAIN</Tag>
+		<English>Wagon Train:Wagon Trains</English>
+		<French>Convoi de chariots:Convois de chariots</French>
+		<German>Planwagenkonvoi:Planwagenkonvois</German>
+		<Italian>Karawana</Italian>
+		<Spanish>Caravana de carromatos:Caravanas de carromatos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOOD</Tag>
+		<English>Food</English>
+		<French>Nourriture</French>
+		<German>Nahrung</German>
+		<Italian>&#203;ywno&#228;&#226;</Italian>
+		<Spanish>Alimentos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LUMBER</Tag>
+		<English>Lumber</English>
+		<French>Bois</French>
+		<German>Holz</German>
+		<Italian>Deski</Italian>
+		<Spanish>Madera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORE</Tag>
+		<English>Ore</English>
+		<French>Minerai de fer:Minerais de fer</French>
+		<German>Eisenerz</German>
+		<Italian>Ruda &#235;elaza</Italian>
+		<Spanish>Mineral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SILVER</Tag>
+		<English>Silver</English>
+		<French>Argent</French>
+		<German>Silber</German>
+		<Italian>Srebro</Italian>
+		<Spanish>Plata</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COTTON</Tag>
+		<English>Cotton</English>
+		<French>Coton</French>
+		<German>Baumwolle</German>
+		<Italian>Bawe&#244;na</Italian>
+		<Spanish>Algod&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FUR</Tag>
+		<English>Fur</English>
+		<French>Fourrure:Fourrures</French>
+		<German>Pelz</German>
+		<Italian>Sk&#243;ry</Italian>
+		<Spanish>Pieles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUGAR</Tag>
+		<English>Sugar</English>
+		<French>Sucre</French>
+		<German>Zucker</German>
+		<Italian>Cukier</Italian>
+		<Spanish>Az&#250;car</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TOBACCO</Tag>
+		<English>Tobacco</English>
+		<French>Tabac</French>
+		<German>Tabak</German>
+		<Italian>Tyto&#241;</Italian>
+		<Spanish>Tabaco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TOOLS</Tag>
+		<English>Tools</English>
+		<French>Outil:Outils</French>
+		<German>Werkzeuge</German>
+		<Italian>Narz&#234;dzia</Italian>
+		<Spanish>Herramientas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUSKETS</Tag>
+		<English>Guns</English>
+		<French>Mousquet:Mousquets</French>
+		<German>Musketen</German>
+		<Italian>Bro&#241;</Italian>
+		<Spanish>Mosquetes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLOTH</Tag>
+		<English>Cloth</English>
+		<French>Tissu:Tissus</French>
+		<German>Stoff</German>
+		<Italian>Tkaniny</Italian>
+		<Spanish>Tejido</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COATS</Tag>
+		<English>Coats</English>
+		<French>Manteau:Manteaux</French>
+		<German>M&#228;ntel</German>
+		<Italian>Ubrania</Italian>
+		<Spanish>Abrigos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUM</Tag>
+		<English>Rum</English>
+		<French>Rhum</French>
+		<German>Rum</German>
+		<Italian>Rum</Italian>
+		<Spanish>Ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CIGARS</Tag>
+		<English>Cigars</English>
+		<French>Cigare:Cigares</French>
+		<German>Zigarren</German>
+		<Italian>Cygara</Italian>
+		<Spanish>Puros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSES</Tag>
+		<English>Horses</English>
+		<French>Cheval:Chevaux</French>
+		<German>Pferde</German>
+		<Italian>Konie</Italian>
+		<Spanish>Caballos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRADE_GOODS</Tag>
+		<English>Trade Goods</English>
+		<French>Marchandise:Marchandises</French>
+		<German>Handelsg&#252;ter</German>
+		<Italian>Towary europejskie</Italian>
+		<Spanish>Mercanc&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOWNHALL</Tag>
+		<English>Town Hall</English>
+		<French>H&#244;tel de ville:H&#244;tels de ville</French>
+		<German>Rathaus</German>
+		<Italian>Ratusz</Italian>
+		<Spanish>Ayuntamiento:Ayuntamientos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOLHOUSE</Tag>
+		<English>Schoolhouse</English>
+		<French>&#201;cole:Ecoles</French>
+		<German>Schule</German>
+		<Italian>Szko&#244;a</Italian>
+		<Spanish>Escuela:Escuelas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_COLLEGE</Tag>
+		<English>College</English>
+		<French>Coll&#232;ge:Coll&#232;ges</French>
+		<German>Hochschule</German>
+		<Italian>Kolegium</Italian>
+		<Spanish>Colegio universitario:Colegios universitarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNIVERSITY</Tag>
+		<English>University</English>
+		<French>Universit&#233;:Universit&#233;s</French>
+		<German>Universit&#228;t</German>
+		<Italian>Uniwersytet</Italian>
+		<Spanish>Universidad:Universidades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLACKSMITH_HOUSE</Tag>
+		<English>Blacksmith's House</English>
+		<French>Atelier du forgeron:Ateliers de forgeron</French>
+		<German>Schmiede</German>
+		<Italian>Dom kowala</Italian>
+		<Spanish>Casa del herrero:Casas del herrero</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLACKSMITH_SHOP</Tag>
+		<English>Blacksmith's Shop</English>
+		<French>Echoppe du forgeron:Echoppes de forgeron</French>
+		<German>Schmiedebetrieb</German>
+		<Italian>Ku&#233;nia</Italian>
+		<Spanish>Herrer&#237;a:Herrer&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRONWORKS</Tag>
+		<English>Ironworks</English>
+		<French>Usine sid&#233;rurgique:Usines sid&#233;rurgiques</French>
+		<German>Eisenh&#252;tte</German>
+		<Italian>Huta</Italian>
+		<Spanish>Fundici&#243;n:Fundiciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STOCKADE</Tag>
+		<English>Stockade</English>
+		<French>Palissade:Palissades</French>
+		<German>Palisade</German>
+		<Italian>Palisada</Italian>
+		<Spanish>Empalizada:Empalizadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORT</Tag>
+		<English>Fort</English>
+		<French>Fort:Forts</French>
+		<German>Fort</German>
+		<Italian>Fort</Italian>
+		<Spanish>Fuerte:Fuertes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FORTRESS</Tag>
+		<English>Fortress</English>
+		<French>Forteresse:Forteresses</French>
+		<German>Festung</German>
+		<Italian>Forteca</Italian>
+		<Spanish>Fortaleza:Fortalezas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARMORY</Tag>
+		<English>Armory</English>
+		<French>Armurerie:Armureries</French>
+		<German>Waffenkammer</German>
+		<Italian>Zbrojownia</Italian>
+		<Spanish>Polvor&#237;n:Polvorines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGAZINE</Tag>
+		<English>Magazine</English>
+		<French>Magasin:Magasins</French>
+		<German>Magazin</German>
+		<Italian>Magazyn</Italian>
+		<Spanish>Arsenal:Arsenales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARSENAL</Tag>
+		<English>Arsenal</English>
+		<French>Arsenal:Arsenaux</French>
+		<German>Arsenal</German>
+		<Italian>Arsena&#244;</Italian>
+		<Spanish>F&#225;brica de armas:F&#225;bricas de armas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DOCK</Tag>
+		<English>Dock</English>
+		<French>Docks</French>
+		<German>Dock</German>
+		<Italian>Dok</Italian>
+		<Spanish>Muelle:Muelles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DRYDOCK</Tag>
+		<English>Drydock</English>
+		<French>Cale s&#232;che:Cales s&#232;ches</French>
+		<German>Trockendock</German>
+		<Italian>Suchy dok</Italian>
+		<Spanish>Dique seco:Diques secos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHIPYARD</Tag>
+		<English>Shipyard</English>
+		<French>Chantier naval:Chantiers navals</French>
+		<German>Schiffswerft</German>
+		<Italian>Stocznia</Italian>
+		<Spanish>Astillero:Astilleros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHURCH</Tag>
+		<English>Church</English>
+		<French>Eglise:Eglises</French>
+		<German>Kirche</German>
+		<Italian>Ko&#228;ci&#243;&#244;</Italian>
+		<Spanish>Iglesia:Iglesias</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CATHEDRAL</Tag>
+		<English>Cathedral</English>
+		<French>Cath&#233;drale:Cath&#233;drales</French>
+		<German>Kathedrale</German>
+		<Italian>Katedra</Italian>
+		<Spanish>Catedral:Catedrales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PRINTING_PRESS</Tag>
+		<English>Printing Press</English>
+		<French>Imprimerie:Imprimeries</French>
+		<German>Druckerpresse</German>
+		<Italian>Drukarnia</Italian>
+		<Spanish>Imprenta:Imprentas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NEWSPAPER</Tag>
+		<English>Newspaper</English>
+		<French>Journal:Journaux</French>
+		<German>Zeitung</German>
+		<Italian>Redakcja gazety</Italian>
+		<Spanish>Peri&#243;dico:Peri&#243;dicos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOBACCONIST_HOUSE</Tag>
+		<English>Tobacconist's House</English>
+		<French>Atelier du marchand de tabac:Ateliers de marchand de tabac</French>
+		<German>Tabakhaus</German>
+		<Italian>Dom wytw&#243;rcy cygar</Italian>
+		<Spanish>Casa del tabaquero:Casas del tabaquero</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAVERS_HOUSE</Tag>
+		<English>Weaver's House</English>
+		<French>Atelier du tisserand:Ateliers de tisserand</French>
+		<German>Weberei</German>
+		<Italian>Dom tkacza</Italian>
+		<Spanish>Casa del tejedor:Casas del tejedor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERS_HOUSE</Tag>
+		<English>Rum Distiller's House</English>
+		<French>Atelier du distillateur:Ateliers de distillateur</French>
+		<German>Rumbrennerei</German>
+		<Italian>Dom gorzelnika</Italian>
+		<Spanish>Casa del destilador de ron:Casas del destilador de ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUR_TRADERS_HOUSE</Tag>
+		<English>Fur Trader's House</English>
+		<French>Atelier du fourreur:Ateliers de fourreur</French>
+		<German>Pelzh&#228;ndlerh&#252;tte</German>
+		<Italian>Dom ku&#228;nierza</Italian>
+		<Spanish>Casa del peletero:Casas del peletero</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPENTER_SHOP</Tag>
+		<English>Carpenter's Shop</English>
+		<French>Echoppe du menuisier:Echoppes de menuisier</French>
+		<German>Zimmereibetrieb</German>
+		<Italian>Warsztat ciesielski</Italian>
+		<Spanish>Ebanister&#237;a:Ebanister&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LUMBER_MILL</Tag>
+		<English>Lumber Mill</English>
+		<French>Scierie:Scierie</French>
+		<German>S&#228;gewerk</German>
+		<Italian>Tartak</Italian>
+		<Spanish>Aserradero:Aserraderos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WAREHOUSE</Tag>
+		<English>Warehouse</English>
+		<French>Entrep&#244;t:Entrep&#244;ts</French>
+		<German>Lagerhaus</German>
+		<Italian>Sk&#244;ad</Italian>
+		<Spanish>Almac&#233;n:Almacenes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE</Tag>
+		<English>Stable</English>
+		<French>Etable:Etables</French>
+		<German>Stallungen</German>
+		<Italian>Stajnia</Italian>
+		<Spanish>Establo:Establos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOBACCONIST_SHOP</Tag>
+		<English>Tobacconist's Shop</English>
+		<French>Echoppe du marchand de tabac:Echoppes de marchand de tabac</French>
+		<German>Tabakwarenbetrieb</German>
+		<Italian>Trafika</Italian>
+		<Spanish>Tabaquer&#237;a:Tabaquer&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CIGAR_FACTORY</Tag>
+		<English>Cigar Factory</English>
+		<French>Usine de cigares:Usines de cigares</French>
+		<German>Zigarrenfabrik</German>
+		<Italian>Manufaktura cygar</Italian>
+		<Spanish>F&#225;brica de puros:F&#225;bricas de puros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAVERS_SHOP</Tag>
+		<English>Weaver's Shop</English>
+		<French>Echoppe du tisserand:Echoppes de tisserand</French>
+		<German>Webereibetrieb</German>
+		<Italian>Warsztat tkacki</Italian>
+		<Spanish>Tejedur&#237;a:Tejedur&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEXTILE_MILL</Tag>
+		<English>Textile Mill</English>
+		<French>Usine textile:Usines textiles</French>
+		<German>Textilfabrik</German>
+		<Italian>Tkalnia</Italian>
+		<Spanish>Taller textil:Talleres textiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERY</Tag>
+		<English>Rum Distillery</English>
+		<French>Distillerie de rhum:Distilleries de rhum</French>
+		<German>Rumbrennereibetrieb</German>
+		<Italian>Gorzelnia rumu</Italian>
+		<Spanish>Destiler&#237;a de ron:Destiler&#237;as de ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RUM_FACTORY</Tag>
+		<English>Rum Factory</English>
+		<French>Usine de rhum:Usines de rhum</French>
+		<German>Rumfabrik</German>
+		<Italian>Destylarnia rumu</Italian>
+		<Spanish>F&#225;brica de ron:F&#225;bricas de ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUR_TRADING_POST</Tag>
+		<English>Fur Trading Post</English>
+		<French>Comptoir des fourrures:Comptoirs de traite des fourrures</French>
+		<German>Pelzhandelsposten</German>
+		<Italian>Faktoria</Italian>
+		<Spanish>Peleter&#237;a:Peleter&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUR_FACTORY</Tag>
+		<English>Coat Factory</English>
+		<French>Usine de manteaux:Usines de manteaux</French>
+		<German>Mantelfabrik</German>
+		<Italian>Szwalnia</Italian>
+		<Spanish>F&#225;brica de abrigos:F&#225;bricas de abrigos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RANCH</Tag>
+		<English>Ranch</English>
+		<French>Ranch:Ranchs</French>
+		<German>Ranch</German>
+		<Italian>Ranczo</Italian>
+		<Spanish>Rancho:Ranchos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WAREHOUSE_EXPANSION</Tag>
+		<English>Warehouse Expansion</English>
+		<French>Extension d'entrep&#244;t:Extensions d'entrep&#244;t</French>
+		<German>Lagerhauserweiterung</German>
+		<Italian>Powi&#234;kszony sk&#244;ad</Italian>
+		<Spanish>Almac&#233;n ampliado:Almacenes ampliados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALUNIT_YIELD_CARGO</Tag>
+		<English>Goods</English>
+		<French>Biens</French>
+		<German>G&#252;ter</German>
+		<Italian>Towary</Italian>
+		<Spanish>Mercanc&#237;a:Mercanc&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_PATRICK_HENRY</Tag>
+		<English>Patrick Henry</English>
+		<French>Patrick Henry</French>
+		<German>Patrick Henry</German>
+		<Italian>Patrick Henry</Italian>
+		<Spanish>Patrick Henry</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_BEN_FRANKLIN</Tag>
+		<English>Ben Franklin</English>
+		<French>Benjamin Franklin</French>
+		<German>Ben Franklin</German>
+		<Italian>Beniamin Franklin</Italian>
+		<Spanish>Benjamin Franklin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_THOMAS_PAINE</Tag>
+		<English>Thomas Paine</English>
+		<French>Thomas Paine</French>
+		<German>Thomas Paine</German>
+		<Italian>Thomas Paine</Italian>
+		<Spanish>Thomas Paine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_JAY</Tag>
+		<English>John Jay</English>
+		<French>John Jay</French>
+		<German>John Jay</German>
+		<Italian>John Jay</Italian>
+		<Spanish>John Jay</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_BETSY_ROSS</Tag>
+		<English>Betsy Ross</English>
+		<French>Betsy Ross</French>
+		<German>Betsy Ross</German>
+		<Italian>Betsy Ross</Italian>
+		<Spanish>Betsy Ross</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_JACOB_ASTOR</Tag>
+		<English>John Jacob Astor</English>
+		<French>John Jacob Astor</French>
+		<German>John Jacob Astor</German>
+		<Italian>John Jacob Astor</Italian>
+		<Spanish>John Jacob Astor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ALEXANDER_HAMILTON</Tag>
+		<English>Alexander Hamilton</English>
+		<French>Alexander Hamilton</French>
+		<German>Alexander Hamilton</German>
+		<Italian>Alexander Hamilton</Italian>
+		<Spanish>Alexander Hamilton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_PETER_MINUIT</Tag>
+		<English>Peter Minuit</English>
+		<French>Peter Minuit</French>
+		<German>Peter Minuit</German>
+		<Italian>Peter Minuit</Italian>
+		<Spanish>Peter Minuit</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JAN_DE_WITT</Tag>
+		<English>Jan de Witt</English>
+		<French>Jan de Witt</French>
+		<German>Jan de Witt</German>
+		<Italian>Jan de Witt</Italian>
+		<Spanish>Jan de Witt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ELI_WHITNEY</Tag>
+		<English>Eli Whitney</English>
+		<French>Eli Whitney</French>
+		<German>Eli Whitney</German>
+		<Italian>Eli Whitney</Italian>
+		<Spanish>Eli Whitney</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_SMITH</Tag>
+		<English>John Smith</English>
+		<French>John Smith</French>
+		<German>John Smith</German>
+		<Italian>John Smith</Italian>
+		<Spanish>John Smith</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JACQUES_MARQUETTE</Tag>
+		<English>Jacques Marquette</English>
+		<French>Jacques Marquette</French>
+		<German>Jacques Marquette</German>
+		<Italian>Jacques Marquette</Italian>
+		<Spanish>Jacques Marquette</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_PEDRO_ALVARES_CABRAL</Tag>
+		<English>Pedro Alvares Cabral</English>
+		<French>Pedro &#193;lvares Cabral</French>
+		<German>Pedro &#193;lvares Cabral</German>
+		<Italian>Pedro Alvares Cabral</Italian>
+		<Spanish>Pedro &#193;lvares Cabral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JUAN_PONCE_DE_LEON</Tag>
+		<English>Juan Ponce de Leon</English>
+		<French>Juan Ponce de Le&#243;n</French>
+		<German>Juan Ponce de Le&#243;n</German>
+		<Italian>Juan Ponce de Leon</Italian>
+		<Spanish>Juan Ponce de Le&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_LEWIS_AND_CLARK</Tag>
+		<English>Lewis and Clark</English>
+		<French>Lewis et Clark</French>
+		<German>Lewis und Clark</German>
+		<Italian>Lewis i Clark</Italian>
+		<Spanish>Lewis y Clark</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_GONZALO_JIMENEZ_DE_QUESADA</Tag>
+		<English>Gonzalo Jimenez de Quesada</English>
+		<French>Gonzalo Jim&#233;nez de Quesada</French>
+		<German>Gonzalo Jim&#233;nez de Quesada</German>
+		<Italian>Gonzalo Jimenez de Quesada</Italian>
+		<Spanish>Gonzalo Jim&#233;nez de Quesada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_WILLIAM_PENN</Tag>
+		<English>William Penn</English>
+		<French>William Penn</French>
+		<German>William Penn</German>
+		<Italian>William Penn</Italian>
+		<Spanish>William Penn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_WILLIAM_BREWSTER</Tag>
+		<English>William Brewster</English>
+		<French>William Brewster</French>
+		<German>William Brewster</German>
+		<Italian>William Brewster</Italian>
+		<Spanish>William Brewster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JUAN_DE_SEPULVEDA</Tag>
+		<English>Juan de Sepulveda</English>
+		<French>Juan de Sep&#250;lveda</French>
+		<German>Juan de Sep&#250;lveda</German>
+		<Italian>Juan Gines de Sepulveda</Italian>
+		<Spanish>Juan Gin&#233;s de Sep&#250;lveda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_HAVARD</Tag>
+		<English>John Harvard</English>
+		<French>John Harvard</French>
+		<German>John Harvard</German>
+		<Italian>John Harvard</Italian>
+		<Spanish>John Harvard</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_HERNAN_CORTES</Tag>
+		<English>Hernan Cortes</English>
+		<French>Hern&#225;n Cort&#233;s</French>
+		<German>Hern&#225;n Cort&#233;s</German>
+		<Italian>Hernan Cortes</Italian>
+		<Spanish>Hern&#225;n Cort&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_MAQUIS_DE_LA_FAYETTE</Tag>
+		<English>Marquis de La Fayette</English>
+		<French>Le marquis de La Fayette</French>
+		<German>Marquis de La Fayette</German>
+		<Italian>Markiz de La Fayette</Italian>
+		<Spanish>Marqu&#233;s de La Fayette</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ETHAN_ALLEN</Tag>
+		<English>Ethan Allen</English>
+		<French>Ethan Allen</French>
+		<German>Ethan Allen</German>
+		<Italian>Ethan Allen</Italian>
+		<Spanish>Ethan Allen</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_FRANCISCO_DE_CORONADO</Tag>
+		<English>Francisco de Coronado</English>
+		<French>Francisco de Coronado</French>
+		<German>Francisco de Coronado</German>
+		<Italian>Francisco de Coronado</Italian>
+		<Spanish>Francisco de Coronado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_FRANCISCO_PIZARRO</Tag>
+		<English>Francisco Pizarro</English>
+		<French>Francisco Pizarro</French>
+		<German>Francisco Pizarro</German>
+		<Italian>Francisco Pizarro</Italian>
+		<Spanish>Francisco Pizarro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_GABRIEL_LALLEMANT</Tag>
+		<English>Gabriel Lallemant</English>
+		<French>Gabriel Lallemant</French>
+		<German>Gabriel Lallemant</German>
+		<Italian>Gabriel Lallemant</Italian>
+		<Spanish>Gabriel Lallemant</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_CHIEF_POWHATAN</Tag>
+		<English>Chief Powhatan</English>
+		<French>Chef Powhatan</French>
+		<German>H&#228;uptling Powhatan</German>
+		<Italian>W&#243;dz Powhatan</Italian>
+		<Spanish>Jefe Powhatan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JUAN_DE_BERMUDEZ</Tag>
+		<English>Juan de Bermudez</English>
+		<French>Juan de Berm&#250;dez</French>
+		<German>Juan de Berm&#250;dez</German>
+		<Italian>Juan de Bermudez</Italian>
+		<Spanish>Juan de Berm&#250;dez</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_ROLFE</Tag>
+		<English>John Rolfe</English>
+		<French>John Rolfe</French>
+		<German>John Rolfe</German>
+		<Italian>John Rolfe</Italian>
+		<Spanish>John Rolfe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_VACO_NUNEZ_DE_BALBOA</Tag>
+		<English>Vasco Nunez de Balboa</English>
+		<French>Vasco N&#250;&#241;ez de Balboa</French>
+		<German>Vasco N&#250;&#241;ez de Balboa</German>
+		<Italian>Vasco Nunez de Balboa</Italian>
+		<Spanish>Vasco N&#250;&#241;ez de Balboa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ADAM_SMITH</Tag>
+		<English>Adam Smith</English>
+		<French>Adam Smith</French>
+		<German>Adam Smith</German>
+		<Italian>Adam Smith</Italian>
+		<Spanish>Adam Smith</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_CYRUS_MCCORMICK</Tag>
+		<English>Cyrus McCormick</English>
+		<French>Cyrus McCormick</French>
+		<German>Cyrus McCormick</German>
+		<Italian>Cyrus McCormick</Italian>
+		<Spanish>Cyrus McCormick</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_PAUL_CHOMEDEY_DE_MAISONNEUVE</Tag>
+		<English>Paul Chomedey de Maisonneuve</English>
+		<French>Paul Chomedey de Maisonneuve</French>
+		<German>Paul Chomedey de Maisonneuve</German>
+		<Italian>Paul Chomedey de Maisonneuve</Italian>
+		<Spanish>de Maisonneuve</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_WASHINGTON_IRVING</Tag>
+		<English>Washington Irving</English>
+		<French>Washington Irving</French>
+		<German>Washington Irving</German>
+		<Italian>Waszyngton Irving</Italian>
+		<Spanish>Washington Irving</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ALEXIS_DE_TOCQUEVILLE</Tag>
+		<English>Alexis de Tocqueville</English>
+		<French>Alexis de Tocqueville</French>
+		<German>Alexis de Tocqueville</German>
+		<Italian>Alexis de Tocqueville</Italian>
+		<Spanish>Alexis de Tocqueville</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_NATHANIAL_HAWTHORNE</Tag>
+		<English>Nathaniel Hawthorne</English>
+		<French>Nathaniel Hawthorne</French>
+		<German>Nathaniel Hawthorne</German>
+		<Italian>Nathaniel Hawthorne</Italian>
+		<Spanish>Nathaniel Hawthorne</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_SOR_JUANA</Tag>
+		<English>Sor Juana</English>
+		<French>Sor Juana</French>
+		<German>Sor Juana</German>
+		<Italian>Sor Juana</Italian>
+		<Spanish>Sor Juana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_GREGORIO_DE_MATTOS_E_GUERRA</Tag>
+		<English>Gregorio de Mattos e Guerra</English>
+		<French>Gregorio de Mattos e Guerra</French>
+		<German>Greg&#243;rio de Mattos e Guerra</German>
+		<Italian>Gregorio de Mattos e Guerra</Italian>
+		<Spanish>Greg. de Matos e Guerra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_THOMAS_HOOKER</Tag>
+		<English>Thomas Hooker</English>
+		<French>Thomas Hooker</French>
+		<German>Thomas Hooker</German>
+		<Italian>Thomas Hooker</Italian>
+		<Spanish>Thomas Hooker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ROGER_WILLIAMS</Tag>
+		<English>Roger Williams</English>
+		<French>Roger Williams</French>
+		<German>Roger Williams</German>
+		<Italian>Roger Williams</Italian>
+		<Spanish>Roger Williams</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_GIOVANNI_DA_VERRAZANO</Tag>
+		<English>Giovanni da Verrazano</English>
+		<French>Giovanni da Verrazano</French>
+		<German>Giovanni da Verrazano</German>
+		<Italian>Giovanni da Verrazano</Italian>
+		<Spanish>Giovanni da Verrazano</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_DEIGO_VELAZQUEZ_DE_CUELLAR</Tag>
+		<English>Diego Velazquez de Cuellar</English>
+		<French>Diego Vel&#225;zquez de Cu&#233;llar</French>
+		<German>Diego Vel&#225;zquez de Cu&#233;llar</German>
+		<Italian>Diego Velasquez de Cuellar</Italian>
+		<Spanish>Diego Vel&#225;zquez de Cu&#233;llar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_ALEXANDER_VON_HUMBOLDT</Tag>
+		<English>Alexander von Humboldt</English>
+		<French>Alexander von Humboldt</French>
+		<German>Alexander von Humboldt</German>
+		<Italian>Alexander von Humboldt</Italian>
+		<Spanish>Alexander von Humboldt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_LORD_BALTIMORE</Tag>
+		<English>Lord Baltimore</English>
+		<French>Lord Baltimore</French>
+		<German>Lord Baltimore</German>
+		<Italian>Lord Baltimore</Italian>
+		<Spanish>Lord Baltimore</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_WINTHROP</Tag>
+		<English>John Winthrop</English>
+		<French>John Winthrop</French>
+		<German>John Winthrop</German>
+		<Italian>John Winthrop</Italian>
+		<Spanish>John Winthrop</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_DOM_PEDRO_I</Tag>
+		<English>Dom Pedro I</English>
+		<French>Pierre Ier du Br&#233;sil</French>
+		<German>Dom Pedro I.</German>
+		<Italian>Dom Pedro I</Italian>
+		<Spanish>Dom Pedro I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_SAMUEL_ADAMS</Tag>
+		<English>Samuel Adams</English>
+		<French>Samuel Adams</French>
+		<German>Samuel Adams</German>
+		<Italian>Samuel Adams</Italian>
+		<Spanish>Samuel Adams</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JAMES_MADISON</Tag>
+		<English>James Madison</English>
+		<French>James Madison</French>
+		<German>James Madison</German>
+		<Italian>James Madison</Italian>
+		<Spanish>James Madison</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_HERNADO_DE_SOTO</Tag>
+		<English>Hernando de Soto</English>
+		<French>Hernando de Soto</French>
+		<German>Hernando de Soto</German>
+		<Italian>Hernando de Soto</Italian>
+		<Spanish>Hernando de Soto</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_JOHN_PAUL_JONES</Tag>
+		<English>John Paul Jones</English>
+		<French>John Paul Jones</French>
+		<German>John Paul Jones</German>
+		<Italian>John Paul Jones</Italian>
+		<Spanish>John Paul Jones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POCAHONTAS</Tag>
+		<English>Pocahontas</English>
+		<French>Pocahontas</French>
+		<German>Pocahontas</German>
+		<Italian>Pocahontas</Italian>
+		<Spanish>Pocahontas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_BARTOLOME_DE_LAS_CASAS</Tag>
+		<English>Bartolome de las Casas</English>
+		<French>Bartolom&#233; de Las Casas</French>
+		<German>Bartolom&#233; de las Casas</German>
+		<Italian>Bartolome de las Casas</Italian>
+		<Spanish>Fray Bartolom&#233; de las Casas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ADAMS</Tag>
+		<English>John Adams</English>
+		<French>John Adams</French>
+		<German>John Adams</German>
+		<Italian>John Adams</Italian>
+		<Spanish>John Adams</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOLIVAR</Tag>
+		<English>Simon Bolivar</English>
+		<French>Simon Bolivar</French>
+		<German>Sim&#243;n Bol&#237;var</German>
+		<Italian>Simon Bolivar</Italian>
+		<Spanish>Sim&#243;n Bol&#237;var</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SAN_MARTIN</Tag>
+		<English>Jose de San Martin</English>
+		<French>Jos&#233; de San Martin</French>
+		<German>Jos&#233; de San Mart&#237;n</German>
+		<Italian>Jose de San Martin</Italian>
+		<Spanish>Jos&#233; de San Mart&#237;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHAMPLAIN</Tag>
+		<English>Samuel de Champlain</English>
+		<French>Samuel de Champlain</French>
+		<German>Samuel de Champlain</German>
+		<Italian>Samuel de Champlain</Italian>
+		<Spanish>Samuel de Champlain</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_STUYVESANT</Tag>
+		<English>Peter Stuyvesant</English>
+		<French>Peter Stuyvesant</French>
+		<German>Peter Stuyvesant</German>
+		<Italian>Peter Stuyvesant</Italian>
+		<Spanish>Peter Stuyvesant</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRONTENAC</Tag>
+		<English>Louis de Frontenac</English>
+		<French>Louis de Frontenac</French>
+		<German>Louis de Frontenac</German>
+		<Italian>Louis de Frontenac</Italian>
+		<Spanish>Conde de Frontenac</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DONCK</Tag>
+		<English>Adriaen van der Donck</English>
+		<French>Adriaen van der Donck</French>
+		<German>Adriaen van der Donck</German>
+		<Italian>Adriaen van der Donck</Italian>
+		<Spanish>Adriaen van der Donck</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CUNHAMBEBE</Tag>
+		<English>Cunhambebe</English>
+		<French>Cunhambebe</French>
+		<German>Cunhambebe</German>
+		<Italian>Cunhambebe</Italian>
+		<Spanish>Cunhambebe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AGUEYBANA</Tag>
+		<English>Agueybana</English>
+		<French>Ag&#252;eyban&#225;</French>
+		<German>Ag&#252;eyban&#225;</German>
+		<Italian>Agueybana</Italian>
+		<Spanish>Ag&#252;eyban&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANGAS_COLORADAS</Tag>
+		<English>Mangas Coloradas</English>
+		<French>Mangas Coloradas</French>
+		<German>Mangas Coloradas</German>
+		<Italian>Mangas Coloradas</Italian>
+		<Spanish>Mangas Coloradas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LOGAN</Tag>
+		<English>Logan</English>
+		<French>Logan</French>
+		<German>Logan</German>
+		<Italian>Logan</Italian>
+		<Spanish>Logan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OCONOSTOTA</Tag>
+		<English>Oconostota</English>
+		<French>Oconostota</French>
+		<German>Oconostota</German>
+		<Italian>Oconostota</Italian>
+		<Spanish>Oconostota</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ENGLISH_KING</Tag>
+		<English>King of England</English>
+		<French>Roi d'Angleterre</French>
+		<German>K&#246;nig von England</German>
+		<Italian>Kr&#243;l Anglii</Italian>
+		<Spanish>El rey de Inglaterra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRENCH_KING</Tag>
+		<English>King of France</English>
+		<French>Roi de France</French>
+		<German>K&#246;nig von Frankreich</German>
+		<Italian>Kr&#243;l Francji</Italian>
+		<Spanish>El rey de Francia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SPANISH_KING</Tag>
+		<English>King of Spain</English>
+		<French>Roi d'Espagne</French>
+		<German>K&#246;nig von Spanien</German>
+		<Italian>Kr&#243;l Hiszpanii</Italian>
+		<Spanish>El rey de Espa&#241;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DUTCH_KING</Tag>
+		<English>King of Netherlands</English>
+		<French>Roi des Pays-Bas</French>
+		<German>K&#246;nig der Niederlande</German>
+		<Italian>Kr&#243;l Niderland&#243;w</Italian>
+		<Spanish>El rey de Holanda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SULTAN</Tag>
+		<English>Sultan</English>
+		<French>Roi d'Espagne</French>
+		<German>K&#246;nig von Spanien</German>
+		<Italian>Su&#244;tan Osma&#241;ski</Italian>
+		<Spanish>El rey de Espa&#241;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TUR</Tag>
+		<English>Sultan</English>
+		<French>Roi d'Espagne</French>
+		<German>K&#246;nig von Spanien</German>
+		<Italian>Yusuf Burhan Pasha</Italian>
+		<Spanish>El rey de Espa&#241;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_DESC</Tag>
+		<English>English Empire</English>
+		<French>Empire anglais</French>
+		<German>Englisches Reich:Englische Reich:Englischen Reich</German>
+		<Italian>Kr&#243;lestwo Anglii</Italian>
+		<Spanish>Dominio Ingl&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_EUROPE_DESC</Tag>
+		<English>French Empire</English>
+		<French>L'Empire fran&#231;ais</French>
+		<German>Franz&#246;sisches Reich:Franz&#246;sische Reich:Franz&#246;sischen Reich</German>
+		<Italian>Kr&#243;lestwo Francji</Italian>
+		<Spanish>Imperio Franc&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_EUROPE_DESC</Tag>
+		<English>Spanish Empire</English>
+		<French>Empire espagnol</French>
+		<German>Spanisches Reich:Spanische Reich:Spanischen Reich</German>
+		<Italian>Kr&#243;lestwo Hiszpanii</Italian>
+		<Spanish>Imperio Espa&#241;ol</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_EUROPE_DESC</Tag>
+		<English>Dutch Empire</English>
+		<French>Empire n&#233;erlandais</French>
+		<German>Holl&#228;ndisches Reich:Holl&#228;ndische Reich:Holl&#228;ndischen Reich</German>
+		<Italian>Kr&#243;lestwo Niderland&#243;w</Italian>
+		<Spanish>Imperio Espa&#241;ol</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_TOLERANT</Tag>
+		<English>Tolerant</English>
+		<French>Tol&#233;rant:Tol&#233;rante</French>
+		<German>Tolerant</German>
+		<Italian>Tolerancyjny</Italian>
+		<Spanish>Tolerante:Tolerante</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CONQUISTADORS</Tag>
+		<English>Conquistador</English>
+		<French>Conquistador:Conquistador</French>
+		<German>Eroberer</German>
+		<Italian>Ekspansjonistyczny</Italian>
+		<Spanish>Conquistador:Conquistadora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_COOPERATIVE</Tag>
+		<English>Cooperative</English>
+		<French>Coop&#233;ratif:Coop&#233;rative</French>
+		<German>Kooperativ</German>
+		<Italian>Pomocny</Italian>
+		<Spanish>Servicial:Servicial</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MERCANTILE</Tag>
+		<English>Mercantile</English>
+		<French>Commer&#231;ant:Commer&#231;ante</French>
+		<German>Gesch&#228;ftst&#252;chtig</German>
+		<Italian>Merkantylny</Italian>
+		<Spanish>Mercantilista:Mercantilista</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_LIBERTARIAN</Tag>
+		<English>Libertarian</English>
+		<French>Libertaire:Libertaire</French>
+		<German>Libert&#228;r</German>
+		<Italian>Libertaria&#241;ski</Italian>
+		<Spanish>Libertario:Libertaria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_DISCIPLINED</Tag>
+		<English>Disciplined</English>
+		<French>Disciplin&#233;:Disciplin&#233;e</French>
+		<German>Diszipliniert</German>
+		<Italian>Zdyscyplinowany</Italian>
+		<Spanish>Disciplinado:Disciplinada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_DETERMINED</Tag>
+		<English>Determined</English>
+		<French>D&#233;termin&#233;:D&#233;termin&#233;e</French>
+		<German>Entschlossen</German>
+		<Italian>Zdeterminowany</Italian>
+		<Spanish>Decidido:Decidida</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_RESOURCEFUL</Tag>
+		<English>Resourceful</English>
+		<French>Ing&#233;nieux:Ing&#233;nieuse</French>
+		<German>Einfallsreich</German>
+		<Italian>Pomys&#244;owy</Italian>
+		<Spanish>Ingenioso:Ingeniosa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ENTERPRISING</Tag>
+		<English>Enterprising</English>
+		<French>Entreprenant:Entreprenante</French>
+		<German>K&#252;hn</German>
+		<Italian>Przedsi&#234;biorczy</Italian>
+		<Spanish>Emprendedor:Emprendedora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_SHORT_DESC</Tag>
+		<English>England</English>
+		<French>Anglais</French>
+		<German>England</German>
+		<Italian>Anglia</Italian>
+		<Spanish>Inglaterra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_EUROPE_SHORT_DESC</Tag>
+		<English>France</English>
+		<French>Fran&#231;ais</French>
+		<German>Frankreich</German>
+		<Italian>Francja</Italian>
+		<Spanish>Dominio Franc&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_EUROPE_SHORT_DESC</Tag>
+		<English>Spain</English>
+		<French>Espagnols</French>
+		<German>Spanien</German>
+		<Italian>Hiszpania</Italian>
+		<Spanish>Espa&#241;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_EUROPE_SHORT_DESC</Tag>
+		<English>The Netherlands</English>
+		<French>N&#233;erlandais</French>
+		<German>Holland</German>
+		<Italian>Niderlandy</Italian>
+		<Spanish>Holanda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_COLONIAL</Tag>
+		<English>Colonial</English>
+		<French>Colonial:Coloniale:Coloniaux:Coloniales</French>
+		<German>Kolonial</German>
+		<Italian>Era kolonizacji</Italian>
+		<Spanish>Colonialismo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS1</Tag>
+		<English>New Petersburg</English>
+		<French>New Petersburg</French>
+		<German>New Petersburg</German>
+		<Italian>Nowyj Pietrograd</Italian>
+		<Spanish>New Petersburg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS2</Tag>
+		<English>Jekaterinburg</English>
+		<French>Jekaterinburg</French>
+		<German>Jekaterinburg</German>
+		<Italian>Jekaterinburg</Italian>
+		<Spanish>Jekaterinburg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS3</Tag>
+		<English>Chaparsk</English>
+		<French>Chaparsk</French>
+		<German>Chaparsk</German>
+		<Italian>Chaparsk</Italian>
+		<Spanish>Chaparsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS4</Tag>
+		<English>Deretsk</English>
+		<French>Deretsk</French>
+		<German>Deretsk</German>
+		<Italian>Deretsk</Italian>
+		<Spanish>Deretsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS5</Tag>
+		<English>Kalurodvinsk</English>
+		<French>Kalurodvinsk</French>
+		<German>Kalurodvinsk</German>
+		<Italian>Kalurodvinsk</Italian>
+		<Spanish>Kalurodvinsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS6</Tag>
+		<English>Grodnoye</English>
+		<French>Grodnoye</French>
+		<German>Grodnoye</German>
+		<Italian>Grodnoye</Italian>
+		<Spanish>Grodnoye</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS7</Tag>
+		<English>Novoaysk</English>
+		<French>Novoaysk</French>
+		<German>Novoaysk</German>
+		<Italian>Novoaysk</Italian>
+		<Spanish>Novoaysk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS8</Tag>
+		<English>Zareznogorsk</English>
+		<French>Zareznogorsk</French>
+		<German>Zareznogorsk</German>
+		<Italian>Zareznogorsk</Italian>
+		<Spanish>Zareznogorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS9</Tag>
+		<English>Toshchensk</English>
+		<French>Toshchensk</French>
+		<German>Toshchensk</German>
+		<Italian>Toshchensk</Italian>
+		<Spanish>Toshchensk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUS10</Tag>
+		<English>Armanza</English>
+		<French>Armanza</French>
+		<German>Armanza</German>
+		<Italian>Armanza</Italian>
+		<Spanish>Armanza</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SHENZHEN</Tag>
+		<English>Shenzhen</English>
+		<French>Shenzhen</French>
+		<German>Shenzhen</German>
+		<Italian>Shenzhen</Italian>
+		<Spanish>Shenzhen</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_BEIJING</Tag>
+		<English>New Beijing</English>
+		<French>New Beijing</French>
+		<German>New Beijing</German>
+		<Italian>Nowy Beijing</Italian>
+		<Spanish>New Beijing</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_HANGZHOU</Tag>
+		<English>New Hangzhou</English>
+		<French>New Hangzhou</French>
+		<German>New Hangzhou</German>
+		<Italian>Nowe Hangzhou</Italian>
+		<Spanish>New Hangzhou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_SHANGHAI</Tag>
+		<English>New Shanghai</English>
+		<French>New Shanghai</French>
+		<German>New Shanghai</German>
+		<Italian>Nowy Szanghaj</Italian>
+		<Spanish>New Shanghai</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_GUANGZHOU</Tag>
+		<English>New Guangzhou</English>
+		<French>New Guangzhou</French>
+		<German>New Guangzhou</German>
+		<Italian>Nowe Guangzhou</Italian>
+		<Spanish>New Guangzhou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_QINGDAO</Tag>
+		<English>New Qingdao</English>
+		<French>New Qingdao</French>
+		<German>New Qingdao</German>
+		<Italian>Nowe Qingdao</Italian>
+		<Spanish>New Qingdao</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_DALIAN</Tag>
+		<English>New Dalian</English>
+		<French>New Dalian</French>
+		<German>New Dalian</German>
+		<Italian>Nowy Dalian</Italian>
+		<Spanish>New Dalian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_CHENGDU</Tag>
+		<English>New Chengdu</English>
+		<French>New Chengdu</French>
+		<German>New Chengdu</German>
+		<Italian>Nowe Chengdu</Italian>
+		<Spanish>New Chengdu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_TIANJIN</Tag>
+		<English>New Tianjin</English>
+		<French>New Tianjin</French>
+		<German>New Tianjin</German>
+		<Italian>Nowy Tianjin</Italian>
+		<Spanish>New Tianjin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_QUANZHOU</Tag>
+		<English>New Quanzhou</English>
+		<French>New Quanzhou</French>
+		<German>New Quanzhou</German>
+		<Italian>Nowe Quanzhou</Italian>
+		<Spanish>New Quanzhou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_FUZHOU</Tag>
+		<English>New Fuzhou</English>
+		<French>New Fuzhou</French>
+		<German>New Fuzhou</German>
+		<Italian>Nowe Fuzhou</Italian>
+		<Spanish>New Fuzhou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_XIAN</Tag>
+		<English>New XiAn</English>
+		<French>New XiAn</French>
+		<German>New XiAn</German>
+		<Italian>Nowy Xian</Italian>
+		<Spanish>New Xian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_NANJING</Tag>
+		<English>New Nanjing</English>
+		<French>New Nanjing</French>
+		<German>New Nanjing</German>
+		<Italian>Nowy Nanjing</Italian>
+		<Spanish>New Nanjing</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_CHAOZHOU</Tag>
+		<English>New Chaozhou</English>
+		<French>New Chaozhou</French>
+		<German>New Chaozhou</German>
+		<Italian>Nowe Chaozhou</Italian>
+		<Spanish>New Chaozhou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_NINGPO</Tag>
+		<English>New Ningpo</English>
+		<French>New Ningpo</French>
+		<German>New Ningpo</German>
+		<Italian>Nowe Ningpo</Italian>
+		<Spanish>New Ningpo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_WUXI</Tag>
+		<English>New Wuxi</English>
+		<French>New Wuxi</French>
+		<German>New Wuxi</German>
+		<Italian>Nowe Wuxi</Italian>
+		<Spanish>New Wuxi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_CHONGQING</Tag>
+		<English>New Chongqing</English>
+		<French>New Chongqing</French>
+		<German>New Chongqing</German>
+		<Italian>Nowy Chongqing</Italian>
+		<Spanish>New Chongqing</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_SHENYANG</Tag>
+		<English>New Shenyang</English>
+		<French>New Shenyang</French>
+		<German>New Shenyang</German>
+		<Italian>Nowy Shenyang</Italian>
+		<Spanish>New Shenyang</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_HARBIN</Tag>
+		<English>New Harbin</English>
+		<French>New Harbin</French>
+		<German>New Harbin</German>
+		<Italian>Nowy Harbin</Italian>
+		<Spanish>New Harbin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_KAIFENG</Tag>
+		<English>New Kaifeng</English>
+		<French>New Kaifeng</French>
+		<German>New Kaifeng</German>
+		<Italian>Nowy Kaifeng</Italian>
+		<Spanish>New Kaifeng</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_LUOYANG</Tag>
+		<English>New Luoyang</English>
+		<French>New Luoyang</French>
+		<German>New Luoyang</German>
+		<Italian>Nowy Luoyang</Italian>
+		<Spanish>New Luoyang</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_WUHAN</Tag>
+		<English>New Wuhan</English>
+		<French>New Wuhan</French>
+		<German>New Wuhan</German>
+		<Italian>Nowy Wuhan</Italian>
+		<Spanish>New Wuhan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_JAMESTOWN</Tag>
+		<English>Jamestown</English>
+		<French>Jamestown</French>
+		<German>Jamestown</German>
+		<Italian>Jamestown</Italian>
+		<Spanish>Jamestown</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PLYMOUTH</Tag>
+		<English>Plymouth</English>
+		<French>Plymouth</French>
+		<German>Plymouth</German>
+		<Italian>Plymouth</Italian>
+		<Spanish>Plymouth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ROANOKE</Tag>
+		<English>Roanoke</English>
+		<French>Roanoke</French>
+		<German>Roanoke</German>
+		<Italian>Roanoke</Italian>
+		<Spanish>Roanoke</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BATBADOS</Tag>
+		<English>Barbados</English>
+		<French>La Barbade</French>
+		<German>Barbados</German>
+		<Italian>Barbados</Italian>
+		<Spanish>Barbados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PENOBSCOT</Tag>
+		<English>Penobscot</English>
+		<French>Penobscot</French>
+		<German>Penobscot</German>
+		<Italian>Penobscot</Italian>
+		<Spanish>Penobscot</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BOSTON</Tag>
+		<English>Boston</English>
+		<French>Boston</French>
+		<German>Boston</German>
+		<Italian>Boston</Italian>
+		<Spanish>Boston</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BALTIMORE</Tag>
+		<English>Baltimore</English>
+		<French>Baltimore</French>
+		<German>Baltimore</German>
+		<Italian>Baltimore</Italian>
+		<Spanish>Baltimore</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PROVIDENCE</Tag>
+		<English>Providence</English>
+		<French>Providence</French>
+		<German>Providence</German>
+		<Italian>Providence</Italian>
+		<Spanish>Providence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HARFORD</Tag>
+		<English>Hartford</English>
+		<French>Hartford</French>
+		<German>Hartford</German>
+		<Italian>Hartford</Italian>
+		<Spanish>Hartford</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_HAVEN</Tag>
+		<English>New Haven</English>
+		<French>New Haven</French>
+		<German>New Haven</German>
+		<Italian>New Haven</Italian>
+		<Spanish>New Haven</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_YORK</Tag>
+		<English>New York</English>
+		<French>New-York</French>
+		<German>New York</German>
+		<Italian>Nowy Jork</Italian>
+		<Spanish>Nueva York</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ALBANY</Tag>
+		<English>Albany</English>
+		<French>Albany</French>
+		<German>Albany</German>
+		<Italian>Albany</Italian>
+		<Spanish>Albany</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_JERSEY</Tag>
+		<English>New Jersey</English>
+		<French>New Jersey</French>
+		<German>New Jersey</German>
+		<Italian>New Jersey</Italian>
+		<Spanish>Nueva Jersey</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHARLESTON</Tag>
+		<English>Charleston</English>
+		<French>Charleston</French>
+		<German>Charleston</German>
+		<Italian>Charleston</Italian>
+		<Spanish>Charleston</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PHILADELPHIA</Tag>
+		<English>Philadelphia</English>
+		<French>Philadelphie</French>
+		<German>Philadelphia</German>
+		<Italian>Filadelfia</Italian>
+		<Spanish>Filadelfia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_PORT</Tag>
+		<English>Newport</English>
+		<French>Newport</French>
+		<German>Newport</German>
+		<Italian>Newport</Italian>
+		<Spanish>Newport</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_YORKTOWN</Tag>
+		<English>Yorktown</English>
+		<French>Yorktown</French>
+		<German>Yorktown</German>
+		<Italian>Yorktown</Italian>
+		<Spanish>Yorktown</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ANNAPOLIS</Tag>
+		<English>Annapolis</English>
+		<French>Annapolis</French>
+		<German>Annapolis</German>
+		<Italian>Annapolis</Italian>
+		<Spanish>Annapolis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HALIFAX</Tag>
+		<English>Halifax</English>
+		<French>Halifax</French>
+		<German>Halifax</German>
+		<Italian>Halifax</Italian>
+		<Spanish>Halifax</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LEXINGTON</Tag>
+		<English>Lexington</English>
+		<French>Lexington</French>
+		<German>Lexington</German>
+		<Italian>Lexington</Italian>
+		<Spanish>Lexington</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAVANNAH</Tag>
+		<English>Savannah</English>
+		<French>Savannah</French>
+		<German>Savannah</German>
+		<Italian>Savannah</Italian>
+		<Spanish>Savannah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WILLIAMSBURG</Tag>
+		<English>Williamsburg</English>
+		<French>Williamsburg</French>
+		<German>Williamsburg</German>
+		<Italian>Williamsburg</Italian>
+		<Spanish>Williamsburg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NORFOLK</Tag>
+		<English>Norfolk</English>
+		<French>Norfolk</French>
+		<German>Norfolk</German>
+		<Italian>Norfolk</Italian>
+		<Spanish>Norfolk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CONCORD</Tag>
+		<English>Concord</English>
+		<French>Concord</French>
+		<German>Concord</German>
+		<Italian>Concord</Italian>
+		<Spanish>Concord</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WILMINGTON</Tag>
+		<English>Wilmington</English>
+		<French>Wilmington</French>
+		<German>Wilmington</German>
+		<Italian>Wilmington</Italian>
+		<Spanish>Wilmington</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CAMDEN</Tag>
+		<English>Camden</English>
+		<French>Camden</French>
+		<German>Camden</German>
+		<Italian>Camden</Italian>
+		<Spanish>Camden</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SPRINGFIELD</Tag>
+		<English>Springfield</English>
+		<French>Springfield</French>
+		<German>Springfield</German>
+		<Italian>Springfield</Italian>
+		<Spanish>Springfield</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEWPORT_NEWS</Tag>
+		<English>Newport News</English>
+		<French>Newport News</French>
+		<German>Newport News</German>
+		<Italian>Newport News</Italian>
+		<Spanish>Newport News</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ANTIGUA</Tag>
+		<English>Antigua</English>
+		<French>Antigua</French>
+		<German>Antigua</German>
+		<Italian>Antigua</Italian>
+		<Spanish>Antigua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RUPERT_HOUSE</Tag>
+		<English>Rupert House</English>
+		<French>Rupert House</French>
+		<German>Rupert House</German>
+		<Italian>Fort Rupert</Italian>
+		<Spanish>Rupert House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KINGSTON</Tag>
+		<English>Kingston</English>
+		<French>Kingston</French>
+		<German>Kingston</German>
+		<Italian>Kingston</Italian>
+		<Spanish>Kingston</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OTTAWA</Tag>
+		<English>Ottawa</English>
+		<French>Ottawa</French>
+		<German>Ottawa</German>
+		<Italian>Ottawa</Italian>
+		<Spanish>Ottawa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_QUEBEC</Tag>
+		<English>Quebec</English>
+		<French>Qu&#233;bec</French>
+		<German>Qu&#233;bec</German>
+		<Italian>Quebec</Italian>
+		<Spanish>Quebec</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MONTREAL</Tag>
+		<English>Montreal</English>
+		<French>Montr&#233;al</French>
+		<German>Montreal</German>
+		<Italian>Montreal</Italian>
+		<Spanish>Montreal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUADELOUPE</Tag>
+		<English>Guadeloupe</English>
+		<French>Guadeloupe</French>
+		<German>Guadeloupe</German>
+		<Italian>Gwadelupa</Italian>
+		<Spanish>Guadalupe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CAYENNE</Tag>
+		<English>Cayenne</English>
+		<French>Cayenne</French>
+		<German>Cayenne</German>
+		<Italian>Cayenne</Italian>
+		<Spanish>Cayena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ST_LOUIS</Tag>
+		<English>St. Louis</English>
+		<French>Saint-Louis</French>
+		<German>St. Louis</German>
+		<Italian>St. Louis</Italian>
+		<Spanish>St. Louis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MARTINIQUE</Tag>
+		<English>Martinique</English>
+		<French>Martinique</French>
+		<German>Martinique</German>
+		<Italian>Martynika</Italian>
+		<Spanish>Martinica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORT_ROYAL</Tag>
+		<English>Port Royal</English>
+		<French>Port Royal</French>
+		<German>Port Royal</German>
+		<Italian>Port Royal</Italian>
+		<Spanish>Port Royal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORT_AU_PRINCE</Tag>
+		<English>Port au Prince</English>
+		<French>Port-au-Prince</French>
+		<German>Port-au-Prince</German>
+		<Italian>Port au Prince</Italian>
+		<Spanish>Puerto Pr&#237;ncipe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TROIS_RIVIERES</Tag>
+		<English>Trois Rivieres</English>
+		<French>Trois-Rivi&#232;res</French>
+		<German>Trois-Rivi&#232;res</German>
+		<Italian>Trois Rivieres</Italian>
+		<Spanish>Trois-Rivi&#232;res</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_ORLEANS</Tag>
+		<English>New Orleans</English>
+		<French>La Nouvelle-Orl&#233;ans</French>
+		<German>New Orleans</German>
+		<Italian>Nowy Orlean</Italian>
+		<Spanish>Nueva Orleans</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CAROLINE</Tag>
+		<English>Fort Caroline</English>
+		<French>Fort Caroline</French>
+		<German>Fort Caroline</German>
+		<Italian>Fort Caroline</Italian>
+		<Spanish>Fuerte Carolina</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_DETROIT</Tag>
+		<English>Fort Detroit</English>
+		<French>Fort D&#233;troit</French>
+		<German>Fort Detroit</German>
+		<Italian>Fort Detroit</Italian>
+		<Spanish>Fuerte Detroit</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_FRONTENAC</Tag>
+		<English>Fort Frontenac</English>
+		<French>Fort Frontenac</French>
+		<German>Fort Frontenac</German>
+		<Italian>Fort Frontenac</Italian>
+		<Spanish>Fuerte Frontenac</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_PONTCHARTAIN</Tag>
+		<English>Fort Pontchartain</English>
+		<French>Fort Pontchartain</French>
+		<German>Fort Pontchartain</German>
+		<Italian>Fort Pontchartain</Italian>
+		<Spanish>Fuerte Pontchartain</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_TADOUSSAC</Tag>
+		<English>Fort Tadoussac</English>
+		<French>Fort Tadoussac</French>
+		<German>Fort Tadoussac</German>
+		<Italian>Fort Tadoussac</Italian>
+		<Spanish>Fuerte Tadoussac</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CANADA</Tag>
+		<English>Fort Canada</English>
+		<French>Fort Canada</French>
+		<German>Fort Canada</German>
+		<Italian>Fort Canada</Italian>
+		<Spanish>Fuerte Canad&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_NIAGRA</Tag>
+		<English>Fort Niagara</English>
+		<French>Fort Niagara</French>
+		<German>Fort Niagara</German>
+		<Italian>Fort Niagara</Italian>
+		<Spanish>Fuerte Ni&#225;gara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CREVECOEUR</Tag>
+		<English>Fort Crevecoeur</English>
+		<French>Fort Cr&#232;vecoeur</French>
+		<German>Fort Cr&#232;vecoeur</German>
+		<Italian>Fort Crevecoeur</Italian>
+		<Spanish>Fuerte Cr&#232;vecoeur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ROQUELAI</Tag>
+		<English>Fort Roquelai</English>
+		<French>Fort Roquelai</French>
+		<German>Fort Roquelai</German>
+		<Italian>Fort Roquelai</Italian>
+		<Spanish>Fuerte Roquelai</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_LAGUILLE</Tag>
+		<English>Fort Laguille</English>
+		<French>Fort Laguille</French>
+		<German>Fort Laguille</German>
+		<Italian>Fort Laguille</Italian>
+		<Spanish>Fuerte Laguille</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_BREST</Tag>
+		<English>Fort Brest</English>
+		<French>Fort Brest</French>
+		<German>Fort Brest</German>
+		<Italian>Fort Brest</Italian>
+		<Spanish>Fuerte Brest</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_RICHELIEU</Tag>
+		<English>Fort Richelieu</English>
+		<French>Fort Richelieu</French>
+		<German>Fort Richelieu</German>
+		<Italian>Fort Richelieu</Italian>
+		<Spanish>Fuerte Richelieu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_LOUIS</Tag>
+		<English>Fort Louis</English>
+		<French>Fort Louis</French>
+		<German>Fort Louis</German>
+		<Italian>Fort Louis</Italian>
+		<Spanish>Fuerte Louis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_PRUDHOME</Tag>
+		<English>Fort Prudhome</English>
+		<French>Fort Prudhome</French>
+		<German>Fort Prudhome</German>
+		<Italian>Fort Prudhome</Italian>
+		<Spanish>Fuerte Prudhome</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_SANDOUSKI</Tag>
+		<English>Fort Sandouski</English>
+		<French>Fort Sandouski</French>
+		<German>Fort Sandouski</German>
+		<Italian>Fort Sandouski</Italian>
+		<Spanish>Fuerte Sandouski</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_DU_QUESNE</Tag>
+		<English>Fort du Quesne</English>
+		<French>Fort du Quesne</French>
+		<German>Fort du Quesne</German>
+		<Italian>Fort du Quesne</Italian>
+		<Spanish>Fuerte du Quesne</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ERIE</Tag>
+		<English>Fort Erie</English>
+		<French>Fort Erie</French>
+		<German>Fort Erie</German>
+		<Italian>Fort Erie</Italian>
+		<Spanish>Fuerte Erie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_MAUREPAS</Tag>
+		<English>Fort Maurepas</English>
+		<French>Fort Maurepas</French>
+		<German>Fort Maurepas</German>
+		<Italian>Fort Maurepas</Italian>
+		<Spanish>Fuerte Maurepas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_FRANCOIS_XAVIER</Tag>
+		<English>Fort Francois Xavier</English>
+		<French>Fort Francois Xavier</French>
+		<German>Fort Francois Xavier</German>
+		<Italian>Fort Francois Xavier</Italian>
+		<Spanish>Fuerte Fran&#231;ois Xavier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ST_MICHEL</Tag>
+		<English>Fort St. Michel</English>
+		<French>Fort Saint-Michel</French>
+		<German>Fort St. Michel</German>
+		<Italian>Fort St. Michel</Italian>
+		<Spanish>Fuerte St. Michel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CHICAGO</Tag>
+		<English>Fort Chicago</English>
+		<French>Fort Chicago</French>
+		<German>Fort Chicago</German>
+		<Italian>Fort Chicago</Italian>
+		<Spanish>Fuerte Chicago</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_DE_FRANCE</Tag>
+		<English>Fort-de-France</English>
+		<French>Fort-de-France</French>
+		<German>Fort-de-France</German>
+		<Italian>Fort-de-France</Italian>
+		<Spanish>Fort-de-France</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_FRANCES</Tag>
+		<English>Fort Frances</English>
+		<French>Fort Frances</French>
+		<German>Fort Frances</German>
+		<Italian>Fort Frances</Italian>
+		<Spanish>Fuerte Frances</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ST_JOSEPH</Tag>
+		<English>Fort St. Joseph</English>
+		<French>Fort Saint-Joseph</French>
+		<German>Fort St. Joseph</German>
+		<Italian>Fort St. Joseph</Italian>
+		<Spanish>Fuerte St. Joseph</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_MIANNIS</Tag>
+		<English>Fort Miannis</English>
+		<French>Fort Miannis</French>
+		<German>Fort Miannis</German>
+		<Italian>Fort Miannis</Italian>
+		<Spanish>Fuerte Miannis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ORLEANS</Tag>
+		<English>Fort Orleans</English>
+		<French>Fort Orl&#233;ans</French>
+		<German>Fort Orleans</German>
+		<Italian>Fort Orleans</Italian>
+		<Spanish>Fuerte Orleans</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ST_IGNACE</Tag>
+		<English>Fort St. Ignace</English>
+		<French>Fort Saint-Ignace</French>
+		<German>Fort St. Ignace</German>
+		<Italian>Fort St. Ignace</Italian>
+		<Spanish>Fuerte san Ignacio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_LE_ROCHER</Tag>
+		<English>Fort Le Rocher</English>
+		<French>Fort LeRocher</French>
+		<German>Fort Le Rocher</German>
+		<Italian>Fort Le Rocher</Italian>
+		<Spanish>Fuerte Le Rocher</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_MIYAMIS</Tag>
+		<English>Fort Miyamis</English>
+		<French>Fort Miyamis</French>
+		<German>Fort Miyamis</German>
+		<Italian>Fort Miyamis</Italian>
+		<Spanish>Fuerte Miyamis</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ROSALIE</Tag>
+		<English>Fort Rosalie</English>
+		<French>Fort Rosalie</French>
+		<German>Fort Rosalie</German>
+		<Italian>Fort Rosalie</Italian>
+		<Spanish>Fuerte Rosalie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_BALISE</Tag>
+		<English>Fort Balise</English>
+		<French>Fort Balise</French>
+		<German>Fort Balise</German>
+		<Italian>Fort Balise</Italian>
+		<Spanish>Fuerte Balise</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CONDE</Tag>
+		<English>Fort Conde</English>
+		<French>Fort Conde</French>
+		<German>Fort Cond&#233;</German>
+		<Italian>Fort Conde</Italian>
+		<Spanish>Fuerte Conde</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_PENSACOLA</Tag>
+		<English>Fort Pensacola</English>
+		<French>Fort Pensacola</French>
+		<German>Fort Pensacola</German>
+		<Italian>Fort Pensacola</Italian>
+		<Spanish>Fuerte Pensacola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_TOULOUSE</Tag>
+		<English>Fort Toulouse</English>
+		<French>Fort Toulouse</French>
+		<German>Fort Toulouse</German>
+		<Italian>Fort Toulouse</Italian>
+		<Spanish>Fuerte Toulouse</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ISABELLA</Tag>
+		<English>Isabella</English>
+		<French>Isabella</French>
+		<German>Isabella</German>
+		<Italian>Isabella</Italian>
+		<Spanish>Isabel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTO_DOMINGO</Tag>
+		<English>Santo Domingo</English>
+		<French>Santo Domingo</French>
+		<German>Santo Domingo</German>
+		<Italian>Santo Domingo</Italian>
+		<Spanish>Santo Domingo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_SALVADOR</Tag>
+		<English>San Salvador</English>
+		<French>San Salvador</French>
+		<German>San Salvador</German>
+		<Italian>San Salvador</Italian>
+		<Spanish>San Salvador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VERACRUZ</Tag>
+		<English>Veracruz</English>
+		<French>Veracruz</French>
+		<German>Veracruz</German>
+		<Italian>Veracruz</Italian>
+		<Spanish>Veracruz</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAVANA</Tag>
+		<English>Havana</English>
+		<French>La Havane</French>
+		<German>Havanna</German>
+		<Italian>Hawana</Italian>
+		<Spanish>La Habana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TRINIDAD</Tag>
+		<English>Trinidad</English>
+		<French>Trinidad</French>
+		<German>Trinidad</German>
+		<Italian>Trinidad</Italian>
+		<Spanish>Trinidad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_JUAN</Tag>
+		<English>San Juan</English>
+		<French>San Juan</French>
+		<German>San Juan</German>
+		<Italian>San Juan</Italian>
+		<Spanish>San Juan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PANAMA</Tag>
+		<English>Panama</English>
+		<French>Panama</French>
+		<German>Panama</German>
+		<Italian>Panama</Italian>
+		<Spanish>Panam&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CARTEJENA</Tag>
+		<English>Cartejena</English>
+		<French>Cartag&#232;ne</French>
+		<German>Cartagena</German>
+		<Italian>Cartejena</Italian>
+		<Spanish>Cartagena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ST_AUGUSTINE</Tag>
+		<English>St. Augustine</English>
+		<French>Saint Augustin</French>
+		<German>St. Augustine</German>
+		<Italian>St. Augustine</Italian>
+		<Spanish>San Agust&#237;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LIMA</Tag>
+		<English>Lima</English>
+		<French>Lima</French>
+		<German>Lima</German>
+		<Italian>Lima</Italian>
+		<Spanish>Lima</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BUENOS_AIRES</Tag>
+		<English>Buenos Aires</English>
+		<French>Buenos Aires</French>
+		<German>Buenos Aires</German>
+		<Italian>Buenos Aires</Italian>
+		<Spanish>Buenos Aires</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUATEMALA</Tag>
+		<English>Guatemala</English>
+		<French>Guat&#233;mala</French>
+		<German>Guatemala</German>
+		<Italian>Gwatemala</Italian>
+		<Spanish>Guatemala</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HONDURAS</Tag>
+		<English>Honduras</English>
+		<French>Honduras</French>
+		<German>Honduras</German>
+		<Italian>Honduras</Italian>
+		<Spanish>Honduras</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_POTOSI</Tag>
+		<English>Potosi</English>
+		<French>Potosi</French>
+		<German>Potos&#237;</German>
+		<Italian>Potosi</Italian>
+		<Spanish>Potos&#237;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUADALAJARA</Tag>
+		<English>Guadalajara</English>
+		<French>Guadalajara</French>
+		<German>Guadalajara</German>
+		<Italian>Guadalajara</Italian>
+		<Spanish>Guadalajara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ASCUNCION</Tag>
+		<English>Asuncion</English>
+		<French>Asunci&#243;n</French>
+		<German>Asunci&#243;n</German>
+		<Italian>Asuncion</Italian>
+		<Spanish>Asunci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MANAGUA</Tag>
+		<English>Managua</English>
+		<French>Managua</French>
+		<German>Managua</German>
+		<Italian>Managua</Italian>
+		<Spanish>Managua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_COSTA_RICA</Tag>
+		<English>Costa Rica</English>
+		<French>Costa Rica</French>
+		<German>Costa Rica</German>
+		<Italian>Costa Rica</Italian>
+		<Spanish>Costa Rica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTA_FE</Tag>
+		<English>Santa Fe</English>
+		<French>Santa F&#233;</French>
+		<German>Santa Fe</German>
+		<Italian>Santa Fe</Italian>
+		<Spanish>Santa Fe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LOS_ANGELES</Tag>
+		<English>Los Angeles</English>
+		<French>Los Angeles</French>
+		<German>Los Angeles</German>
+		<Italian>Los Angeles</Italian>
+		<Spanish>Los &#193;ngeles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BOGOTA</Tag>
+		<English>Bogota</English>
+		<French>Bogota</French>
+		<German>Bogot&#225;</German>
+		<Italian>Bogota</Italian>
+		<Spanish>Bogot&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CORPUS_CHRISTI</Tag>
+		<English>Corpus Christi</English>
+		<French>Corpus Christi</French>
+		<German>Corpus Christi</German>
+		<Italian>Corpus Christi</Italian>
+		<Spanish>Corpus Christi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ACAPULCO</Tag>
+		<English>Acapulco</English>
+		<French>Acapulco</French>
+		<German>Acapulco</German>
+		<Italian>Acapulco</Italian>
+		<Spanish>Acapulco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTA_MARTA</Tag>
+		<English>Santa Marta</English>
+		<French>Santa Marta</French>
+		<German>Santa Marta</German>
+		<Italian>Santa Marta</Italian>
+		<Spanish>Santa Marta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_AGOSTIN</Tag>
+		<English>San Agostin</English>
+		<French>San Agostin</French>
+		<German>San Agost&#237;n</German>
+		<Italian>San Agostin</Italian>
+		<Spanish>San Agust&#237;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CARACAS</Tag>
+		<English>Caracas</English>
+		<French>Caracas</French>
+		<German>Caracas</German>
+		<Italian>Caracas</Italian>
+		<Spanish>Caracas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOBAGO</Tag>
+		<English>Tobago</English>
+		<French>Tobago</French>
+		<German>Tobago</German>
+		<Italian>Tobago</Italian>
+		<Spanish>Tobago</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_FRANCISCO</Tag>
+		<English>San Francisco</English>
+		<French>San Francisco</French>
+		<German>San Francisco</German>
+		<Italian>San Francisco</Italian>
+		<Spanish>San Francisco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_DIEGO</Tag>
+		<English>San Diego</English>
+		<French>San Diego</French>
+		<German>San Diego</German>
+		<Italian>San Diego</Italian>
+		<Spanish>San Diego</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_ANGELO</Tag>
+		<English>San Angelo</English>
+		<French>San Angelo</French>
+		<German>San Angelo</German>
+		<Italian>San Angelo</Italian>
+		<Spanish>San &#193;ngelo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_EL_PASO</Tag>
+		<English>El Paso</English>
+		<French>El Paso</French>
+		<German>El Paso</German>
+		<Italian>El Paso</Italian>
+		<Spanish>El Paso</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CANCUN</Tag>
+		<English>Cancun</English>
+		<French>Canc&#250;n</French>
+		<German>Canc&#250;n</German>
+		<Italian>Cancun</Italian>
+		<Spanish>Canc&#250;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VALPARAISO</Tag>
+		<English>Valparaiso</English>
+		<French>Valparaiso</French>
+		<German>Valpara&#237;so</German>
+		<Italian>Valparaiso</Italian>
+		<Spanish>Valpara&#237;so</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CONCEPCION</Tag>
+		<English>Concepcion</English>
+		<French>Concepci&#243;n</French>
+		<German>Concepci&#243;n</German>
+		<Italian>Concepcion</Italian>
+		<Spanish>Concepci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LA_PLATA</Tag>
+		<English>La Plata</English>
+		<French>La Plata</French>
+		<German>La Plata</German>
+		<Italian>La Plata</Italian>
+		<Spanish>La Plata</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_AMSTERDAM</Tag>
+		<English>New Amsterdam</English>
+		<French>La Nouvelle-Amsterdam</French>
+		<German>Neu-Amsterdam</German>
+		<Italian>Nowy Amsterdam</Italian>
+		<Spanish>Nueva &#193;msterdam</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ORANGE</Tag>
+		<English>Fort Orange</English>
+		<French>Fort Orange</French>
+		<German>Fort Orange</German>
+		<Italian>Fort Orange</Italian>
+		<Spanish>Fuerte Orange</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_NASSAU</Tag>
+		<English>Fort Nassau</English>
+		<French>Fort Nassau</French>
+		<German>Fort Nassau</German>
+		<Italian>Fort Nassau</Italian>
+		<Spanish>Fuerte Nassau</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEW_HOLLAND</Tag>
+		<English>New Holland</English>
+		<French>Nouvelle-Hollande</French>
+		<German>New Holland</German>
+		<Italian>Nowa Holandia</Italian>
+		<Spanish>Ciudad de Nueva Holanda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VLISSINGEN</Tag>
+		<English>Vlissingen</English>
+		<French>Flessingue</French>
+		<German>Vlissingen</German>
+		<Italian>Vlissingen</Italian>
+		<Spanish>Vlissingen</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CURACAO</Tag>
+		<English>Curacao</English>
+		<French>Cura&#231;ao</French>
+		<German>Cura&#231;ao</German>
+		<Italian>Curacao</Italian>
+		<Spanish>Cura&#231;ao</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RECIFE</Tag>
+		<English>Recife</English>
+		<French>Recife</French>
+		<German>Recife</German>
+		<Italian>Recife</Italian>
+		<Spanish>Recife</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BAHIA</Tag>
+		<English>Bahia</English>
+		<French>Bahia</French>
+		<German>Bahia</German>
+		<Italian>Bahia</Italian>
+		<Spanish>Bah&#237;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PARAMARIBO</Tag>
+		<English>Paramaribo</English>
+		<French>Paramaribo</French>
+		<German>Paramaribo</German>
+		<Italian>Paramaribo</Italian>
+		<Spanish>Paramaribo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PERNAMBUCO</Tag>
+		<English>Pernambuco</English>
+		<French>Pernambouc</French>
+		<German>Pernambuco</German>
+		<Italian>Pernambuco</Italian>
+		<Spanish>Pernambuco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ST_MARTIN</Tag>
+		<English>St. Martin</English>
+		<French>Saint-Martin</French>
+		<German>St. Martin</German>
+		<Italian>St. Martin</Italian>
+		<Spanish>San Mart&#237;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ST_EUSTATIUS</Tag>
+		<English>St. Eustatius</English>
+		<French>Saint-Eustache</French>
+		<German>St. Eustatius</German>
+		<Italian>St. Eustatius</Italian>
+		<Spanish>St. Eustatius</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ESSEQUIBO</Tag>
+		<English>Essequibo</English>
+		<French>Essequibo</French>
+		<German>Essequibo</German>
+		<Italian>Essequibo</Italian>
+		<Spanish>Essequibo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BERBICE</Tag>
+		<English>Berbice</English>
+		<French>Berbice</French>
+		<German>Berbice</German>
+		<Italian>Berbice</Italian>
+		<Spanish>Berbice</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SURINAM</Tag>
+		<English>Surinam</English>
+		<French>Surinam</French>
+		<German>Surinam</German>
+		<Italian>Surinam</Italian>
+		<Spanish>Surinam</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PARAIBA</Tag>
+		<English>Paraiba</English>
+		<French>Para&#237;ba</French>
+		<German>Paraiba</German>
+		<Italian>Paraiba</Italian>
+		<Spanish>Para&#237;ba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BONAIRE</Tag>
+		<English>Bonaire</English>
+		<French>Bonaire</French>
+		<German>Bonaire</German>
+		<Italian>Bonaire</Italian>
+		<Spanish>Bonaire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WILLEMSTAD</Tag>
+		<English>Willemstad</English>
+		<French>Willemstad</French>
+		<German>Willemstad</German>
+		<Italian>Willemstad</Italian>
+		<Spanish>Willemstad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ARUBA</Tag>
+		<English>Aruba</English>
+		<French>Aruba</French>
+		<German>Aruba</German>
+		<Italian>Aruba</Italian>
+		<Spanish>Aruba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTA_CATHARINA</Tag>
+		<English>Santa Catharina</English>
+		<French>Santa Catarina</French>
+		<German>Santa Catarina</German>
+		<Italian>Santa Catharina</Italian>
+		<Spanish>Santa Catarina</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SABA</Tag>
+		<English>Saba</English>
+		<French>Saba</French>
+		<German>Saba</German>
+		<Italian>Saba</Italian>
+		<Spanish>Saba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_UTRECHT</Tag>
+		<English>Utrecht</English>
+		<French>Utrecht</French>
+		<German>Utrecht</German>
+		<Italian>Utrecht</Italian>
+		<Spanish>Utrecht</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAARLEM</Tag>
+		<English>Haarlem</English>
+		<French>Haarlem</French>
+		<German>Haarlem</German>
+		<Italian>Haarlem</Italian>
+		<Spanish>Haarlem</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAPPANS</Tag>
+		<English>Tappans</English>
+		<French>Tappans</French>
+		<German>Tappans</German>
+		<Italian>Tappans</Italian>
+		<Spanish>Tappans</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HOBOKEN</Tag>
+		<English>Hoboken</English>
+		<French>Hoboken</French>
+		<German>Hoboken</German>
+		<Italian>Hoboken</Italian>
+		<Spanish>Hoboken</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RENSSELAERSWYCK</Tag>
+		<English>Rensselaerswyck</English>
+		<French>Rensselaerswyck</French>
+		<German>Rensselaerswyck</German>
+		<Italian>Rensselaerswyck</Italian>
+		<Spanish>Rensselaerswyck</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEDERHORST</Tag>
+		<English>Nederhorst</English>
+		<French>Nederhorst</French>
+		<German>Nederhorst</German>
+		<Italian>Nederhorst</Italian>
+		<Spanish>Nederhorst</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CRISTINA</Tag>
+		<English>Fort Cristina</English>
+		<French>Fort Cristina</French>
+		<German>Fort Cristina</German>
+		<Italian>Fort Cristina</Italian>
+		<Spanish>Fuerte Cristina</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GOTTENBURGH</Tag>
+		<English>Gottenburgh</English>
+		<French>Gottenburgh</French>
+		<German>Gottenburgh</German>
+		<Italian>Gottenburgh</Italian>
+		<Spanish>Gotemburgo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_KASIMIRIS</Tag>
+		<English>Fort Kasimiris</English>
+		<French>Fort Kasimiris</French>
+		<German>Fort Kasimiris</German>
+		<Italian>Fort Kasimiris</Italian>
+		<Spanish>Fuerte Kasimiris</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_ELSENBURGH</Tag>
+		<English>Fort Elsenburgh</English>
+		<French>Fort Elsenburgh</French>
+		<German>Fort Elsenburgh</German>
+		<Italian>Fort Elsenburgh</Italian>
+		<Spanish>Fuerte Elsenburgh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NAIACK</Tag>
+		<English>Naiack</English>
+		<French>Naiack</French>
+		<German>Naiack</German>
+		<Italian>Naiack</Italian>
+		<Spanish>Naiack</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SY_ARA</Tag>
+		<English>Sy Ara</English>
+		<French>Sy Ara</French>
+		<German>Sy Ara</German>
+		<Italian>Sy Ara</Italian>
+		<Spanish>Sy Ara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PARA</Tag>
+		<English>Para</English>
+		<French>Para</French>
+		<German>Para</German>
+		<Italian>Para</Italian>
+		<Spanish>Para</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAUBATE</Tag>
+		<English>Taubate</English>
+		<French>Taubat&#233;</French>
+		<German>Taubat&#233;</German>
+		<Italian>Taubate</Italian>
+		<Spanish>Taubate</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PARANA</Tag>
+		<English>Parana</English>
+		<French>Paran&#225;</French>
+		<German>Paran&#225;</German>
+		<Italian>Parana</Italian>
+		<Spanish>Paran&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOCANTINS</Tag>
+		<English>Tocantins</English>
+		<French>Tocantins</French>
+		<German>Tocantins</German>
+		<Italian>Tocantins</Italian>
+		<Spanish>Tocantins</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUAPORE</Tag>
+		<English>Guapore</English>
+		<French>Guapor&#233;</French>
+		<German>Guapor&#233;</German>
+		<Italian>Guapore</Italian>
+		<Spanish>Guapor&#233;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIAUY</Tag>
+		<English>Piauy</English>
+		<French>Piauy</French>
+		<German>Piauy</German>
+		<Italian>Piauy</Italian>
+		<Spanish>Piauy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SIRI_JIBE</Tag>
+		<English>Siri Jibe</English>
+		<French>Siri Jibe</French>
+		<German>Siri Jibe</German>
+		<Italian>Siri Jibe</Italian>
+		<Spanish>Siri Jibe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BORIKEN</Tag>
+		<English>Boriken</English>
+		<French>Boriken</French>
+		<German>Boriken</German>
+		<Italian>Boriken</Italian>
+		<Spanish>Borik&#233;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CUBANACAN</Tag>
+		<English>Cubanacan</English>
+		<French>Cubanacan</French>
+		<German>Cubanacan</German>
+		<Italian>Cubanacan</Italian>
+		<Spanish>Cubanac&#225;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAITI</Tag>
+		<English>Haiti</English>
+		<French>Ha&#239;ti</French>
+		<German>Haiti</German>
+		<Italian>Haiti</Italian>
+		<Spanish>Hait&#237;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KISKEYA</Tag>
+		<English>Kiskeya</English>
+		<French>Kiskeya</French>
+		<German>Kiskeya</German>
+		<Italian>Kiskeya</Italian>
+		<Spanish>Kiskeya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_JAMAICA</Tag>
+		<English>Jamaica</English>
+		<French>La Jama&#239;que</French>
+		<German>Jamaica</German>
+		<Italian>Jamaica</Italian>
+		<Spanish>Jamaica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ARAKAKA</Tag>
+		<English>Arakaka</English>
+		<French>Arakaka</French>
+		<German>Arakaka</German>
+		<Italian>Arakaka</Italian>
+		<Spanish>Arakaka</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IMATAKA</Tag>
+		<English>Imataka</English>
+		<French>Imataka</French>
+		<German>Imataka</German>
+		<Italian>Imataka</Italian>
+		<Spanish>Imataka</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUANABA</Tag>
+		<English>Guanaba</English>
+		<French>Guanaba</French>
+		<German>Guanaba</German>
+		<Italian>Guanaba</Italian>
+		<Spanish>Guanaba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LIGUANEA</Tag>
+		<English>Liguanea</English>
+		<French>Liguanea</French>
+		<German>Liguanea</German>
+		<Italian>Liguanea</Italian>
+		<Spanish>Liguanea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_AMAKURA</Tag>
+		<English>Amakura</English>
+		<French>Amakura</French>
+		<German>Amakura</German>
+		<Italian>Amakura</Italian>
+		<Spanish>Amakura</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TEEHACH</Tag>
+		<English>Teehach</English>
+		<French>Teehach</French>
+		<German>Teehach</German>
+		<Italian>Teehach</Italian>
+		<Spanish>Teehach</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TICHIOG</Tag>
+		<English>Tichiog</English>
+		<French>Tichiog</French>
+		<German>Tichiog</German>
+		<Italian>Tichiog</Italian>
+		<Spanish>Tichiog</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KIIS_CHIINTIIDN</Tag>
+		<English>Kiis Chiintiidn</English>
+		<French>Kiis Chiintiidn</French>
+		<German>Kiis Chiintiidn</German>
+		<Italian>Kiis Chiintiidn</Italian>
+		<Spanish>Kiis Chiintiidn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TS_TSSKIDN</Tag>
+		<English>Ts Tsskidn</English>
+		<French>Ts Tsskidn</French>
+		<German>Ts Tsskidn</German>
+		<Italian>Ts Tsskidn</Italian>
+		<Spanish>Ts Tsskidn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DZI_LIKESILAN</Tag>
+		<English>Dzi Likesilan</English>
+		<French>Dzi Likesilan</French>
+		<German>Dzi Likesilan</German>
+		<Italian>Dzi Likesilan</Italian>
+		<Spanish>Dzi Likesilan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TSEBAINASTI</Tag>
+		<English>Tsebainasti</English>
+		<French>Tsebainasti</French>
+		<German>Tsebainasti</German>
+		<Italian>Tsebainasti</Italian>
+		<Spanish>Tsebainasti</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAKIY</Tag>
+		<English>Hakiy</English>
+		<French>Hakiy</French>
+		<German>Hakiy</German>
+		<Italian>Hakiy</Italian>
+		<Spanish>Hakiy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NALEEI_DANAKAIY</Tag>
+		<English>Naleei Danakaiy</English>
+		<French>Naleei Danakaiy</French>
+		<German>Naleei Danakaiy</German>
+		<Italian>Naleei Danakaiy</Italian>
+		<Spanish>Naleei Danakaiy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ISANTI</Tag>
+		<English>Isanti</English>
+		<French>Isanti</French>
+		<German>Isanti</German>
+		<Italian>Isanti</Italian>
+		<Spanish>Isanti</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IHANKTOWAN</Tag>
+		<English>Ihanktowan</English>
+		<French>Ihanktowan</French>
+		<German>Ihanktowan</German>
+		<Italian>Ihanktowan</Italian>
+		<Spanish>Ihanktowan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TETON</Tag>
+		<English>Teton</English>
+		<French>Teton</French>
+		<German>Teton</German>
+		<Italian>Teton</Italian>
+		<Spanish>Teton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MDEWAKANTONWAN</Tag>
+		<English>Mdewakantonwan</English>
+		<French>Mdewakantonwan</French>
+		<German>Mdewakantonwan</German>
+		<Italian>Mdewakantonwan</Italian>
+		<Spanish>Mdewakantonwan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OGLALA</Tag>
+		<English>Oglala</English>
+		<French>Oglala</French>
+		<German>Oglala</German>
+		<Italian>Oglala</Italian>
+		<Spanish>Oglala</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SISITOWAN</Tag>
+		<English>Sisitowan</English>
+		<French>Sisitowan</French>
+		<German>Sisitowan</German>
+		<Italian>Sisitowan</Italian>
+		<Spanish>Sisitowan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ITAZIPACOLA</Tag>
+		<English>Itazipacola</English>
+		<French>Itazipacola</French>
+		<German>Itazipacola</German>
+		<Italian>Itazipacola</Italian>
+		<Spanish>Itazipacola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WAHPEKUTE</Tag>
+		<English>Wahpekute</English>
+		<French>Wahpekute</French>
+		<German>Wahpekute</German>
+		<Italian>Wahpekute</Italian>
+		<Spanish>Wahpekute</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WAHPETOWAN</Tag>
+		<English>Wahpetowan</English>
+		<French>Wahpetowan</French>
+		<German>Wahpetowan</German>
+		<Italian>Wahpetowan</Italian>
+		<Spanish>Wahpetowan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ASSINIBOINE</Tag>
+		<English>Assiniboine</English>
+		<French>Assiniboine</French>
+		<German>Assiniboine</German>
+		<Italian>Assiniboine</Italian>
+		<Spanish>Assiniboine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_STONEY</Tag>
+		<English>Stoney</English>
+		<French>Stoney</French>
+		<German>Stoney</German>
+		<Italian>Stoney</Italian>
+		<Spanish>Stoney</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HUNKPAPA</Tag>
+		<English>Hunkpapa</English>
+		<French>Hunkapa</French>
+		<German>Hunkpapa</German>
+		<Italian>Hunkpapa</Italian>
+		<Spanish>Hunkpapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SIHASAPA</Tag>
+		<English>Sihasapa</English>
+		<French>Sihasapa</French>
+		<German>Sihasapa</German>
+		<Italian>Sihasapa</Italian>
+		<Spanish>Sihasapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MINNICONJOU</Tag>
+		<English>Minniconjou</English>
+		<French>Minniconjou</French>
+		<German>Minniconjou</German>
+		<Italian>Minniconjou</Italian>
+		<Spanish>Minniconjou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SICANGU</Tag>
+		<English>Sicangu</English>
+		<French>Sicangu</French>
+		<German>Sicangu</German>
+		<Italian>Sicangu</Italian>
+		<Spanish>Sicangu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OOHENONPA</Tag>
+		<English>Oohenonpa</English>
+		<French>Oohenonpa</French>
+		<German>Oohenonpa</German>
+		<Italian>Oohenonpa</Italian>
+		<Spanish>Oohenonpa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KITUWAH</Tag>
+		<English>Kituwah</English>
+		<French>Kituwah</French>
+		<German>Kituwah</German>
+		<Italian>Kituwah</Italian>
+		<Spanish>Kituwah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GREAT_HIWASSEE</Tag>
+		<English>Great Hiwassee</English>
+		<French>Grand Hiwassee</French>
+		<German>Great Hiwassee</German>
+		<Italian>Ayuhwasi Egwaha</Italian>
+		<Spanish>Great Hiwassee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TUSKEGEE</Tag>
+		<English>Tuskegee</English>
+		<French>Tuskegee</French>
+		<German>Tuskegee</German>
+		<Italian>Tuskegee</Italian>
+		<Spanish>Tuskegee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TELLICO</Tag>
+		<English>Tellico</English>
+		<French>Tellico</French>
+		<German>Tellico</German>
+		<Italian>Tellico</Italian>
+		<Spanish>Tellico</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KEOWEE</Tag>
+		<English>Keowee</English>
+		<French>Keowee</French>
+		<German>Keowee</German>
+		<Italian>Keowee</Italian>
+		<Spanish>Keowee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAHLEQUAH</Tag>
+		<English>Tahlequah</English>
+		<French>Tahlequah</French>
+		<German>Tahlequah</German>
+		<Italian>Tahlequah</Italian>
+		<Spanish>Tahlequah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEQUASSEE</Tag>
+		<English>Nequassee</English>
+		<French>Nequassee</French>
+		<German>Nequassee</German>
+		<Italian>Nequassee</Italian>
+		<Spanish>Nequassee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOMOTLEY</Tag>
+		<English>Tomotley</English>
+		<French>Tomotley</French>
+		<German>Tomotley</German>
+		<Italian>Tomotley</Italian>
+		<Spanish>Tomotley</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KULSETSIYI</Tag>
+		<English>Kulsetsiyi</English>
+		<French>Kulsetsiyi</French>
+		<German>Kulsetsiyi</German>
+		<Italian>Kulsetsiyi</Italian>
+		<Spanish>Kulsetsiyi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TANASI</Tag>
+		<English>Tanasi</English>
+		<French>Tanasi</French>
+		<German>Tanasi</German>
+		<Italian>Tanasi</Italian>
+		<Spanish>Tanasi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOQUA</Tag>
+		<English>Toqua</English>
+		<French>Toqua</French>
+		<German>Toqua</German>
+		<Italian>Toqua</Italian>
+		<Spanish>Toqua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DUGILUYI</Tag>
+		<English>Dugiluyi</English>
+		<French>Dugiluyi</French>
+		<German>Dugiluyi</German>
+		<Italian>Dugiluyi</Italian>
+		<Spanish>Dugiluyi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ONODOWAHAGH</Tag>
+		<English>Onodowahagh</English>
+		<French>Onodowahagh</French>
+		<German>Onodowahagh</German>
+		<Italian>Onodowahagh</Italian>
+		<Spanish>Onodowahagh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUYOHKOHNYOH</Tag>
+		<English>Guyohkohnyon</English>
+		<French>Guyohkohnyon</French>
+		<German>Guyohkohnyon</German>
+		<Italian>Guyohkohnyon</Italian>
+		<Spanish>Guyohkohnyon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ONODAGEGA</Tag>
+		<English>Onondagega</English>
+		<French>Onondagega</French>
+		<German>Onondagega</German>
+		<Italian>Onondagega</Italian>
+		<Spanish>Onondagega</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ONEYOTEKAONO</Tag>
+		<English>Oneyotekaono</English>
+		<French>Oneyotekaono</French>
+		<German>Oneyotekaono</German>
+		<Italian>Oneyotekaono</Italian>
+		<Spanish>Oneyotekaono</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KANIENKEHAKA</Tag>
+		<English>Kanienkehaka</English>
+		<French>Kanienkehaka</French>
+		<German>Kanienkehaka</German>
+		<Italian>Kanienkehaka</Italian>
+		<Spanish>Kanienkehaka</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SKA_RHU_REH</Tag>
+		<English>Ska-Ruh-Reh</English>
+		<French>Ska-Ruh-Reh</French>
+		<German>Ska-Ruh-Reh</German>
+		<Italian>Ska-Ruh-Reh</Italian>
+		<Spanish>Ska-Ruh-Reh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TYENDINAGA</Tag>
+		<English>Tyendinaga</English>
+		<French>Tyendinaga</French>
+		<German>Tyendinaga</German>
+		<Italian>Tyendinaga</Italian>
+		<Spanish>Tyendinaga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HOCHELAGA</Tag>
+		<English>Hochelaga</English>
+		<French>Hochelaga</French>
+		<German>Hochelaga</German>
+		<Italian>Hochelaga</Italian>
+		<Spanish>Hochelaga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WAHTA</Tag>
+		<English>Wahta</English>
+		<French>Wahta</French>
+		<German>Wahta</German>
+		<Italian>Wahta</Italian>
+		<Spanish>Wahta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SCHENECTADY</Tag>
+		<English>Schenectady</English>
+		<French>Schenectady</French>
+		<German>Schenectady</German>
+		<Italian>Schenectady</Italian>
+		<Spanish>Schenectady</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GANIENKEH</Tag>
+		<English>Ganienkeh</English>
+		<French>Ganienkeh</French>
+		<German>Ganienkeh</German>
+		<Italian>Ganienkeh</Italian>
+		<Spanish>Ganienkeh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KANATSIOHAREKE</Tag>
+		<English>Kanatsiohareke</English>
+		<French>Kanatsiohareke</French>
+		<German>Kanatsiohareke</German>
+		<Italian>Kanatsiohareke</Italian>
+		<Spanish>Kanatsiohareke</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_LIGHT_FOREST</Tag>
+		<English>Light Forest</English>
+		<French>For&#234;t clairsem&#233;e:For&#234;ts clairsem&#233;es</French>
+		<German>Lichter Wald</German>
+		<Italian>Las</Italian>
+		<Spanish>Bosque disperso:Bosques dispersos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERRAIN_MARSH</Tag>
+		<English>Marsh</English>
+		<French>Marais:Marais</French>
+		<German>Sumpf</German>
+		<Italian>Moczary</Italian>
+		<Spanish>Pantano:Pantanos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHERCATEGORY_MILITARY</Tag>
+		<English>Military</English>
+		<French>Science militaire</French>
+		<German>Milit&#228;r</German>
+		<Italian>Armia</Italian>
+		<Spanish>Militar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHERCATEGORY_TRADE</Tag>
+		<English>Trade</English>
+		<French>Commerce</French>
+		<German>Handel</German>
+		<Italian>Handel</Italian>
+		<Spanish>Intercambio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHERCATEGORY_EXPLORATION</Tag>
+		<English>Exploration</English>
+		<French>Exploration</French>
+		<German>Erkundung</German>
+		<Italian>Odkrycia</Italian>
+		<Spanish>Exploraci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHERCATEGORY_POLITICS</Tag>
+		<English>Politics</English>
+		<French>Politique</French>
+		<German>Politik</German>
+		<Italian>Polityka</Italian>
+		<Spanish>Pol&#237;tica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHERCATEGORY_RELIGION</Tag>
+		<English>Religion</English>
+		<French>Religion</French>
+		<German>Religion</German>
+		<Italian>Religia</Italian>
+		<Spanish>Religi&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_BELLS</Tag>
+		<English>Liberty Bell Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux Cloches de la libert&#233;</French>
+		<German>Freiheitsglockengeb&#228;ude</German>
+		<Italian>Dzwony Wolno&#228;ci</Italian>
+		<Spanish>Edificio de Campanas de la libertad:Edificios de Campanas de la libertad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_HAMMERS</Tag>
+		<English>Carpentry Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s &#224; la charpente</French>
+		<German>Zimmereigeb&#228;ude</German>
+		<Italian>Ciesielstwo </Italian>
+		<Spanish>Edificio de Carpinter&#237;a:Edificios de Carpinter&#237;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_COATS</Tag>
+		<English>Coat Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux manteaux</French>
+		<German>Mantelgeb&#228;ude</German>
+		<Italian>Handel futrami</Italian>
+		<Spanish>Edificio de Abrigos:Edificios de Abrigos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_CLOTH</Tag>
+		<English>Cloth Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux tissus</French>
+		<German>Webereigeb&#228;ude</German>
+		<Italian>Wyr&#243;b p&#244;&#243;tna - tkanin</Italian>
+		<Spanish>Edificio de Tejido:Edificios de Tejido</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_RUM</Tag>
+		<English>Rum Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s au rhum</French>
+		<German>Rumbrennergeb&#228;ude</German>
+		<Italian>Gorzelnictwo</Italian>
+		<Spanish>Edificio de Ron:Edificios de Ron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_CIGARS</Tag>
+		<English>Cigar Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux cigares</French>
+		<German>Zigarrengeb&#228;ude</German>
+		<Italian>Wyr&#243;b cygar</Italian>
+		<Spanish>Edificio de Puros:Edificios de Puros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_TOOLS</Tag>
+		<English>Tools Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux outils</French>
+		<German>Werkzeuggeb&#228;ude</German>
+		<Italian>Produkcja narz&#234;dzi</Italian>
+		<Spanish>Edificio de Herramientas:Edificios de Herramientas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_CROSSES</Tag>
+		<English>Religious Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s &#224; la religion</French>
+		<German>Religionsgeb&#228;ude</German>
+		<Italian>Budowle religijne</Italian>
+		<Spanish>Edificio religioso:Edificios religiosos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_MUSKETS</Tag>
+		<English>Armory Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux armes</French>
+		<German>Waffengeb&#228;ude</German>
+		<Italian>Zbrojownie</Italian>
+		<Spanish>Edificio de Mosquetes:Edificios de Mosquetes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_HORSES</Tag>
+		<English>Horse Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s aux chevaux</French>
+		<German>Pferdegeb&#228;ude</German>
+		<Italian>Stajnie</Italian>
+		<Spanish>Edificio de Caballos:Edificios de Caballos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_DOCK</Tag>
+		<English>Docks</English>
+		<French>Docks</French>
+		<German>Hafenanlagen</German>
+		<Italian>Doki</Italian>
+		<Spanish>Muelle:Muelles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_WAREHOUSE</Tag>
+		<English>Warehouses</English>
+		<French>Entrep&#244;t:Entrep&#244;ts</French>
+		<German>Lagergeb&#228;ude</German>
+		<Italian>Sk&#244;ady</Italian>
+		<Spanish>Almac&#233;n:Almacenes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_EDUCATION</Tag>
+		<English>Education Buildings</English>
+		<French>B&#226;timents d&#233;di&#233;s &#224; l'&#233;ducation</French>
+		<German>Bildungsgeb&#228;ude</German>
+		<Italian>Budowle edukacyjne</Italian>
+		<Spanish>Edificio de Educaci&#243;n:Edificios de Educaci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALBUILDING_WALLS</Tag>
+		<English>Fortifications</English>
+		<French>Fortifications</French>
+		<German>Befestigungen</German>
+		<Italian>Fortyfikacje</Italian>
+		<Spanish>Fortificaci&#243;n:Fortificaciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TREASURE</Tag>
+		<English>Treasure</English>
+		<French>Tr&#233;sor:Tr&#233;sors</French>
+		<German>Schatz</German>
+		<Italian>W&#243;z ze z&#244;otem</Italian>
+		<Spanish>Tesoro:Tesoros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC</Tag>
+		<English>English Colonies</English>
+		<French>Colonies anglaises</French>
+		<German>Englisches Kolonialreich:Englische Kolonialreich:Englischen Kolonialreich</German>
+		<Italian>Kolonie angielskie</Italian>
+		<Spanish>Dominio Ingl&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
+		<English>New England</English>
+		<French>Nouvelle-Angleterre</French>
+		<German>Neuengland</German>
+		<Italian>Nowa Anglia</Italian>
+		<Spanish>Nueva Inglaterra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_DESC</Tag>
+		<English>French Colonies</English>
+		<French>Colonies fran&#231;aises</French>
+		<German>Franz. Kolonialreich:Franz&#246;sische Kolonialreich:Franz&#246;sischen Kolonialreich</German>
+		<Italian>Kolonie francuskie</Italian>
+		<Spanish>Dominio Franc&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
+		<English>New France</English>
+		<French>Nouvelle-France</French>
+		<German>Neufrankreich</German>
+		<Italian>Nowa Francja</Italian>
+		<Spanish>Nueva Francia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_DESC</Tag>
+		<English>Spanish Colonies</English>
+		<French>Colonies espagnoles</French>
+		<German>Spanisches Kolonialreich:Spanische Kolonialreich:Spanischen Kolonialreich</German>
+		<Italian>Kolonie hiszpa&#241;skie</Italian>
+		<Spanish>Dominio Espa&#241;ol</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
+		<English>New Spain</English>
+		<French>Nouvelle-Espagne</French>
+		<German>Neuspanien</German>
+		<Italian>Nowa Hiszpania</Italian>
+		<Spanish>Nueva Espa&#241;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_ADJECTIVE</Tag>
+		<English>English:English</English>
+		<French>anglais:anglaise:anglais:anglaises</French>
+		<German>Englisch:englischen:englische</German>
+		<Italian>angielski</Italian>
+		<Spanish>ingl&#233;s:ingl&#233;s:ingleses:ingleses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_EUROPE_ADJECTIVE</Tag>
+		<English>French:French</English>
+		<French>fran&#231;ais:fran&#231;aise:fran&#231;ais:fran&#231;aises</French>
+		<German>Franz&#246;sisch:franz&#246;sischen:franz&#246;sische</German>
+		<Italian>francuski</Italian>
+		<Spanish>franc&#233;s:franc&#233;s:franceses:francesas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_EUROPE_ADJECTIVE</Tag>
+		<English>Spanish:Spanish</English>
+		<French>espagnol:espagnole:espagnols:espagnoles</French>
+		<German>spanische:spanischen:spanische</German>
+		<Italian>hiszpa&#241;ski</Italian>
+		<Spanish>espa&#241;ol:espa&#241;ol:espa&#241;oles:espa&#241;olas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUTCH_EUROPE_ADJECTIVE</Tag>
+		<English>Dutch:Dutch</English>
+		<French>n&#233;erlandais:n&#233;erlandaise:n&#233;erlandais:N&#233;erlandais</French>
+		<German>holl&#228;ndisch:holl&#228;ndischen:holl&#228;ndische</German>
+		<Italian>niderlandzki</Italian>
+		<Spanish>holand&#233;s:holandesa:holandeses:holandesas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POINT_EXPLORATION</Tag>
+		<English>Exploration Points</English>
+		<French>Site d'exploration:Sites d'exploration</French>
+		<German>Erkundungspunkte</German>
+		<Italian>Punkty odkry&#226;</Italian>
+		<Spanish>Puntos de exploraci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POINT_RELIGION</Tag>
+		<English>Religion Points</English>
+		<French>Site religieux:Sites religieux</French>
+		<German>Religionspunkte</German>
+		<Italian>Punkty religii</Italian>
+		<Spanish>Puntos de religi&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POINT_TRADE</Tag>
+		<English>Trade Points</English>
+		<French>Site de commerce:Sites de commerce</French>
+		<German>Handelspunkte</German>
+		<Italian>Punkty handlu</Italian>
+		<Spanish>Puntos de intercambio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POINT_MILITARY</Tag>
+		<English>Military Points</English>
+		<French>Site militaire:Sites militaires</French>
+		<German>Milit&#228;rpunkte</German>
+		<Italian>Punkty wojskowo&#228;ci</Italian>
+		<Spanish>Puntos militares</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FATHER_POINT_POLITICAL</Tag>
+		<English>Political Points</English>
+		<French>Site politique:Sites politiques</French>
+		<German>Politikpunkte</German>
+		<Italian>Punkty polityki</Italian>
+		<Spanish>Puntos de pol&#237;tica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_REVOLUTION</Tag>
+		<English>Independence</English>
+		<French>Ind&#233;pendance</French>
+		<German>Unabh&#228;ngigkeit</German>
+		<Italian>Niepodleg&#244;o&#228;&#226;</Italian>
+		<Spanish>por independencia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_DOMINATION</Tag>
+		<English>Domination</English>
+		<French>Ind&#233;pendance</French>
+		<German>Unabh&#228;ngigkeit</German>
+		<Italian>Dominacja</Italian>
+		<Spanish>por independencia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONQUEST</Tag>
+		<English>Conquest</English>
+		<French>Ind&#233;pendance</French>
+		<German>Unabh&#228;ngigkeit</German>
+		<Italian>Podb&#243;j</Italian>
+		<Spanish>por independencia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVICOPTION_SLAVERY</Tag>
+		<English>Stance on Slavery</English>
+		<French>Position sur l'esclavage</French>
+		<German>Haltung zu Sklaverei</German>
+		<Italian>Stosunek do niewolnictwa</Italian>
+		<Spanish>Postura sobre la esclavitud</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVICOPTION_ELECTION</Tag>
+		<English>Stance on Elections</English>
+		<French>Position sur les &#233;lections</French>
+		<German>Haltung zu Wahlen</German>
+		<Italian>Stosunek do w&#244;adzy</Italian>
+		<Spanish>Postura sobre las elecciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVICOPTION_NATIVES</Tag>
+		<English>Stance on Natives</English>
+		<French>Position sur les indig&#232;nes</French>
+		<German>Haltung zu Ureinwohnern</German>
+		<Italian>Stosunek do tubylc&#243;w</Italian>
+		<Spanish>Postura sobre los nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVICOPTION_RELIGION</Tag>
+		<English>Stance on Religion</English>
+		<French>Position sur la religion</French>
+		<German>Haltung zur Religion</German>
+		<Italian>Stosunek do religii</Italian>
+		<Spanish>Postura sobre la religi&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVICOPTION_SECURITY</Tag>
+		<English>Stance on Land Security</English>
+		<French>Position sur la s&#233;curit&#233; du territoire</French>
+		<German>Haltung zur[NEWLINE]Sicherung von[NEWLINE]Grundbesitz</German>
+		<Italian>Stosunek do prawa do broni</Italian>
+		<Spanish>Postura sobre la seguridad terrestre</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FREEDOM</Tag>
+		<English>All Men Are Free</English>
+		<French>Tous les hommes sont libres</French>
+		<German>Alle Menschen sind frei</German>
+		<Italian>Wszyscy ludzie s&#225; wolni</Italian>
+		<Spanish>Todos los hombres son libres</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SLAVERY</Tag>
+		<English>Slavery</English>
+		<French>Esclavage</French>
+		<German>Sklaverei</German>
+		<Italian>Niewolnictwo</Italian>
+		<Spanish>Esclavitud</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MONARCHY</Tag>
+		<English>Monarchy</English>
+		<French>Monarchie</French>
+		<German>Monarchie</German>
+		<Italian>Monarchia</Italian>
+		<Spanish>Monarqu&#237;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ELECTIONS</Tag>
+		<English>Elections</English>
+		<French>Elections</French>
+		<German>Wahlen</German>
+		<Italian>Wybory</Italian>
+		<Spanish>Elecciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MANIFEST_DESTINY</Tag>
+		<English>Manifest Destiny</English>
+		<French>Destin&#233;e manifeste</French>
+		<German>Offenkundige Bestimmung</German>
+		<Italian>Boski nakaz</Italian>
+		<Spanish>Destino manifiesto</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NATIVE_RIGHTS</Tag>
+		<English>Native Rights</English>
+		<French>Droits des indig&#232;nes</French>
+		<German>Rechte der Ureinwohner</German>
+		<Italian>Prawa Indian</Italian>
+		<Spanish>Derechos de los nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SEPARATION_CHURCH_STATE</Tag>
+		<English>Separation of Church and State</English>
+		<French>S&#233;paration de l'Eglise et de l'Etat</French>
+		<German>Trennung von Kirche und Staat</German>
+		<Italian>Rozdzia&#244; pa&#241;stwa i ko&#228;cio&#244;a</Italian>
+		<Spanish>Separaci&#243;n entre Iglesia y Estado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_THEOCRACY</Tag>
+		<English>Theocracy</English>
+		<French>Th&#233;ocratie</French>
+		<German>Theokratie</German>
+		<Italian>Teokracja</Italian>
+		<Spanish>Teocracia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_BEAR_ARMS</Tag>
+		<English>Right to Bear Arms</English>
+		<French>Droit de poss&#233;der des armes</French>
+		<German>Recht auf Waffenbesitz</German>
+		<Italian>Prawo do broni</Italian>
+		<Spanish>Derecho a llevar armas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CONTROLLED_ARMS</Tag>
+		<English>Controlled Arms</English>
+		<French>Armes contr&#244;l&#233;es</French>
+		<German>Waffenkontrolle</German>
+		<Italian>Ograniczone prawo do broni</Italian>
+		<Spanish>Armas controladas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_GOODY_HUT</Tag>
+		<English>Ancient Ruins</English>
+		<French>Ruines antiques</French>
+		<German>Antike Ruinen</German>
+		<Italian>Staro&#235;ytne ruiny</Italian>
+		<Spanish>Ruinas antiguas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_HOSTILE_NATIVES</Tag>
+		<English>Hostile Natives</English>
+		<French>Indig&#232;ne hostile:Indig&#232;nes hostiles</French>
+		<German>Feindselige Ureinwohner</German>
+		<Italian>Wrodzy tubylcy</Italian>
+		<Spanish>Nativos hostiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_BURIAL_GROUNDS</Tag>
+		<English>Burial Grounds</English>
+		<French>Cimeti&#232;re:Cimeti&#232;res</French>
+		<German>Grabst&#228;tten</German>
+		<Italian>Cmentarzysko Indian</Italian>
+		<Spanish>T&#250;mulos funerarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOODY_HEALING</Tag>
+		<English>Ancient Medicine</English>
+		<French>M&#233;decine traditionnelle</French>
+		<German>Traditionelle Medizin</German>
+		<Italian>Medycyna plemienna</Italian>
+		<Spanish>Medicina antigua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_LODGE</Tag>
+		<English>Lodge</English>
+		<French>Abri:Abris</French>
+		<German>Lagerplatz</German>
+		<Italian>Chata my&#228;liwska</Italian>
+		<Spanish>Pabell&#243;n:Pabellones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MILITARISTIC</Tag>
+		<English>Militaristic</English>
+		<French>Militariste:Militariste</French>
+		<German>Militaristisch</German>
+		<Italian>Wojowniczy</Italian>
+		<Spanish>Militarista:Militarista</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_PROFESSIONS</Tag>
+		<English>Professions</English>
+		<French>Profession:Professions</French>
+		<German>Berufe</German>
+		<Italian>Profesje</Italian>
+		<Spanish>Profesiones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_ECONOMY</Tag>
+		<English>Economy</English>
+		<French>Economie</French>
+		<German>&#214;konomie</German>
+		<Italian>Ekonomia</Italian>
+		<Spanish>Econom&#237;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_EUROPE</Tag>
+		<English>Europe</English>
+		<French>Europe</French>
+		<German>Europa</German>
+		<Italian>Europa</Italian>
+		<Spanish>Europa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_SETTLEMENTS</Tag>
+		<English>Settlements</English>
+		<French>Colonie:Colonies</French>
+		<German>Siedlungen</German>
+		<Italian>Osady</Italian>
+		<Spanish>Asentamientos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_BUILDINGS</Tag>
+		<English>Buildings</English>
+		<French>B&#226;timent:B&#226;timents</French>
+		<German>Geb&#228;ude</German>
+		<Italian>Budowle</Italian>
+		<Spanish>Edificios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_UNITS</Tag>
+		<English>Units</English>
+		<French>Unit&#233;:Unit&#233;s</French>
+		<German>Einheiten</German>
+		<Italian>Jednostki</Italian>
+		<Spanish>Unidades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_PROMOTIONS</Tag>
+		<English>Promotions</English>
+		<French>Promotion:Promotions</French>
+		<German>Bef&#246;rderungen</German>
+		<Italian>Awanse</Italian>
+		<Spanish>Ascensos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_LIBERTY</Tag>
+		<English>Liberty Bells, Revolution and Victory</English>
+		<French>Cloches de la libert&#233;, R&#233;volution et Victoire</French>
+		<German>Freiheitsglocken, Revolution und Sieg</German>
+		<Italian>Dzwony wolno&#228;ci, Rewolucja i Zwyci&#234;stwo</Italian>
+		<Spanish>Libertad, revoluci&#243;n y victoria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_PRODUCTION</Tag>
+		<English>Production</English>
+		<French>Production</French>
+		<German>Produktion</German>
+		<Italian>Produkcja</Italian>
+		<Spanish>Producci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_VISIBILITY</Tag>
+		<English>Visibility and Exploration</English>
+		<French>Visibilit&#233; et Exploration</French>
+		<German>Sicht und Erkundung</German>
+		<Italian>Odkrywanie terenu</Italian>
+		<Spanish>Visibilidad y exploraci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FOOD</Tag>
+		<English>Food</English>
+		<French>Nourriture</French>
+		<German>Nahrung</German>
+		<Italian>&#203;ywno&#228;&#226;</Italian>
+		<Spanish>Alimentos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GREAT_GENERALS</Tag>
+		<English>Great Generals</English>
+		<French>G&#233;n&#233;raux illustres</French>
+		<German>Gro&#223;e Gener&#228;le</German>
+		<Italian>Wielcy wodzowie</Italian>
+		<Spanish>Grandes generales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_SPECIALISTS</Tag>
+		<English>Specialists</English>
+		<French>Sp&#233;cialistes</French>
+		<German>Spezialisten</German>
+		<Italian>Specjali&#228;ci</Italian>
+		<Spanish>Especialistas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_IMMIGRATION</Tag>
+		<English>Immigration</English>
+		<French>Immigration</French>
+		<German>Immigration</German>
+		<Italian>Imigracja</Italian>
+		<Spanish>Inmigraci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TRANSPORT</Tag>
+		<English>Transport</English>
+		<French>Transport</French>
+		<German>Transport</German>
+		<Italian>Transport</Italian>
+		<Spanish>Transporte</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_MOVEMENT</Tag>
+		<English>Movement</English>
+		<French>Mouvement</French>
+		<German>Fortbewegung</German>
+		<Italian>Poruszanie si&#234;</Italian>
+		<Spanish>Movimiento</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_MISSIONARIES</Tag>
+		<English>Missionaries</English>
+		<French>Missionaires</French>
+		<German>Missionare</German>
+		<Italian>Misjonarze</Italian>
+		<Spanish>Misioneros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TREASURE</Tag>
+		<English>Treasury</English>
+		<French>Tr&#233;sor</French>
+		<German>Schatzkammer</German>
+		<Italian>Skarbiec</Italian>
+		<Spanish>Tesoro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_LEADERS</Tag>
+		<English>Leaders</English>
+		<French>Dirigeants</French>
+		<German>Staatsoberh&#228;upter</German>
+		<Italian>Przyw&#243;dcy</Italian>
+		<Spanish>L&#237;deres</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_COMBAT</Tag>
+		<English>Combat</English>
+		<French>Combat</French>
+		<German>Kampf</German>
+		<Italian>Walka</Italian>
+		<Spanish>Combate</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_DIPLOMACY</Tag>
+		<English>Diplomacy</English>
+		<French>Diplomatie</French>
+		<German>Diplomatie</German>
+		<Italian>Dyplomacja</Italian>
+		<Spanish>Diplomacia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_WAR</Tag>
+		<English>War</English>
+		<French>Guerre</French>
+		<German>Krieg</German>
+		<Italian>Wojna</Italian>
+		<Spanish>Guerra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_BORDERS</Tag>
+		<English>Borders</English>
+		<French>Fronti&#232;res</French>
+		<German>Grenzen</German>
+		<Italian>Granice</Italian>
+		<Spanish>Fronteras</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FATHERS</Tag>
+		<English>Founding Fathers</English>
+		<French>P&#232;res fondateurs</French>
+		<German>Gr&#252;nderv&#228;ter</German>
+		<Italian>Ojcowie Za&#244;o&#235;yciele</Italian>
+		<Spanish>Padres fundadores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_IMPROVEMENTS</Tag>
+		<English>Improvements</English>
+		<French>Am&#233;liorations</French>
+		<German>Modernisierungen</German>
+		<Italian>Ulepszenia</Italian>
+		<Spanish>Mejoras</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_NATIVES</Tag>
+		<English>Natives</English>
+		<French>Indig&#232;nes</French>
+		<German>Ureinwohner</German>
+		<Italian>Tubylcy</Italian>
+		<Spanish>Nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TRADE</Tag>
+		<English>Trade</English>
+		<French>Commerce</French>
+		<German>Handel</German>
+		<Italian>Handel</Italian>
+		<Spanish>Intercambio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TRAINING</Tag>
+		<English>Schoolhouses, Colleges and Universities</English>
+		<French>Ecoles, coll&#232;ges et universit&#233;s</French>
+		<German>Schulen, Hochschulen und Universit&#228;ten</German>
+		<Italian>Szkolnictwo</Italian>
+		<Spanish>Escuelas, Colegios y Universidades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_CITIES</Tag>
+		<English>Settlements</English>
+		<French>Colonies</French>
+		<German>Siedlungen</German>
+		<Italian>Osady</Italian>
+		<Spanish>Asentamientos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PROSPEROUS</Tag>
+		<English>Prosperous</English>
+		<French>Prosp&#232;re:Prosp&#232;re</French>
+		<German>Erfolgreich</German>
+		<Italian>Zasobny</Italian>
+		<Spanish>Pr&#243;spero:Pr&#243;spera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_IMPRESSIONABLE</Tag>
+		<English>Impressionable</English>
+		<French>Impressionable:Impressionable</French>
+		<German>Beeinflussbar</German>
+		<Italian>&#212;atwowierny</Italian>
+		<Spanish>Impresionable:Impresionable</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_INDULGENT</Tag>
+		<English>Indulgent</English>
+		<French>Indulgent:Indulgente</French>
+		<German>Nachsichtig</German>
+		<Italian>Pob&#244;a&#235;liwy</Italian>
+		<Spanish>Indulgente:Indulgente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MENTOR</Tag>
+		<English>Mentor</English>
+		<French>Mentor:Mentor</French>
+		<German>Mentor</German>
+		<Italian>Mentor</Italian>
+		<Spanish>Mentor:Mentora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_GRACIOUS</Tag>
+		<English>Gracious</English>
+		<French>Courtois:Courtoise</French>
+		<German>Gro&#223;m&#252;tig</German>
+		<Italian>&#212;askawy</Italian>
+		<Spanish>Cort&#233;s:Cort&#233;s</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_LANGLADE</Tag>
+		<English>Charles Michel de Langlade</English>
+		<French>Charles Michel de Langlade</French>
+		<German>Charles Michel de Langlade</German>
+		<Italian>Charles Michel de Langlade</Italian>
+		<Spanish>Charles Michel de Langlade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_BRADDOCK</Tag>
+		<English>Edward Braddock</English>
+		<French>Edward Braddock</French>
+		<German>Edward Braddock</German>
+		<Italian>Edward Braddock</Italian>
+		<Spanish>Edward Braddock</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MALGUE</Tag>
+		<English>Paul Marin de la Malgue</English>
+		<French>Paul Marin de la Malgue</French>
+		<German>Paul Marin de la Malgue</German>
+		<Italian>Paul Marin de la Malgue</Italian>
+		<Spanish>Paul Marin de la Malgue</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_TANACHARISON</Tag>
+		<English>Tanacharison</English>
+		<French>Tanacharison</French>
+		<German>Tanacharison</German>
+		<Italian>Tanacharison</Italian>
+		<Spanish>Tanacharison</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_PHILIP</Tag>
+		<English>King Philip</English>
+		<French>Le roi Philippe</French>
+		<German>King Philip</German>
+		<Italian>Metacom</Italian>
+		<Spanish>Rey Felipe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_BELLECOMBE</Tag>
+		<English>Guillaume de Bellecombe</English>
+		<French>Guillaume de Bellecombe</French>
+		<German>Guillaume de Bellecombe</German>
+		<Italian>Guillaume de Bellecombe</Italian>
+		<Spanish>Guillaume de Bellecombe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_PUTNAM</Tag>
+		<English>Israel Putnam</English>
+		<French>Isra&#235;l Putnam</French>
+		<German>Israel Putnam</German>
+		<Italian>Israel Putnam</Italian>
+		<Spanish>Israel Putnam</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ROCHAMBEAU</Tag>
+		<English>Comte de Rochambeau</English>
+		<French>Comte de Rochambeau</French>
+		<German>Comte de Rochambeau</German>
+		<Italian>Comte de Rochambeau</Italian>
+		<Spanish>Conde de Rochambeau</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GREENE</Tag>
+		<English>Nathaniel Greene</English>
+		<French>Nathaniel Greene</French>
+		<German>Nathaniel Greene</German>
+		<Italian>Nathaniel Greene</Italian>
+		<Spanish>Nathanael Greene</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GALVEZ</Tag>
+		<English>Horatio Gates</English>
+		<French>Horatio Gates</French>
+		<German>Horatio Gates</German>
+		<Italian>Horatio Gates</Italian>
+		<Spanish>Horatio Gates</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_HIGGINS</Tag>
+		<English>Bernardo de Galvez</English>
+		<French>Bernardo de G&#225;lvez</French>
+		<German>Bernardo de G&#225;lvez</German>
+		<Italian>Bernardo de Galvez</Italian>
+		<Spanish>Bernardo de G&#225;lvez</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_CARRERA</Tag>
+		<English>Bernardo O' Higgins</English>
+		<French>Bernardo O' Higgins</French>
+		<German>Bernardo O' Higgins</German>
+		<Italian>Bernardo O' Higgins</Italian>
+		<Spanish>Bernardo O' Higgins</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_RUYTER</Tag>
+		<English>Jose Miguel Carrera</English>
+		<French>Jos&#233; Miguel Carrera</French>
+		<German>Jos&#233; Miguel Carrera</German>
+		<Italian>Jose Miguel Carrera</Italian>
+		<Spanish>Jos&#233; Miguel Carrera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_AUITZOTL</Tag>
+		<English>Auitzotl</English>
+		<French>Auitzotl</French>
+		<German>Au&#237;tzotl</German>
+		<Italian>Auitzotl</Italian>
+		<Spanish>Auitzotl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_DE_WITT</Tag>
+		<English>Cornelis de Witt</English>
+		<French>Cornelius de Wit</French>
+		<German>Cornelis de Witt</German>
+		<Italian>Cornelius de Witt</Italian>
+		<Spanish>Cornelis de Witt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_KNOX</Tag>
+		<English>Henry Knox</English>
+		<French>Henry Knox</French>
+		<German>Henry Knox</German>
+		<Italian>Henry Knox</Italian>
+		<Spanish>Henry Knox</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_BELGRANO</Tag>
+		<English>Manuel Belgrano</English>
+		<French>Manuel Belgrano</French>
+		<German>Manuel Belgrano</German>
+		<Italian>Manuel Belgrano</Italian>
+		<Spanish>Manuel Belgrano</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MENDOZA</Tag>
+		<English>Cristobal Mendoza</English>
+		<French>Crist&#243;bal Mendoza</French>
+		<German>Cristobal Mendoza</German>
+		<Italian>Cristobal Mendoza</Italian>
+		<Spanish>Crist&#243;bal Mendoza</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_LOUVERTURE</Tag>
+		<English>Toussaint L'ouverture</English>
+		<French>Toussaint L'ouverture</French>
+		<German>Toussaint L'Ouverture</German>
+		<Italian>Toussaint L'ouverture</Italian>
+		<Spanish>Toussaint Louverture</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_SANTA_ANNA</Tag>
+		<English>Antonio Lopez de Santa Anna</English>
+		<French>Antonio L&#243;pez de Santa Anna</French>
+		<German>Antonio L&#243;pez de Santa Anna</German>
+		<Italian>Antonio Lopez de Santa Anna</Italian>
+		<Spanish>Antonio L&#243;pez de Santa Anna</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_HIDALGO</Tag>
+		<English>Miguel Hidalgo</English>
+		<French>Miguel Hidalgo</French>
+		<German>Miguel Hidalgo</German>
+		<Italian>Miguel Hidalgo</Italian>
+		<Spanish>Miguel Hidalgo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MACKENZIE</Tag>
+		<English>William Lyon Mackenzie</English>
+		<French>William Lyon Mackenzie</French>
+		<German>William Lyon Mackenzie</German>
+		<Italian>William Lyon Mackenzie</Italian>
+		<Spanish>William Lyon Mackenzie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_COCHRANE</Tag>
+		<English>Thomas Cochrane</English>
+		<French>Thomas Cochrane</French>
+		<German>Thomas Cochrane</German>
+		<Italian>Thomas Cochrane</Italian>
+		<Spanish>Thomas Cochrane</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ARNOLD</Tag>
+		<English>Benedict Arnold</English>
+		<French>Benedict Arnold</French>
+		<German>Benedict Arnold</German>
+		<Italian>Benedict Arnold</Italian>
+		<Spanish>Benedict Arnold</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_DISCOVERY</Tag>
+		<English>Discovery</English>
+		<French>D&#233;couverte</French>
+		<German>Entdeckung</German>
+		<Italian>Era odkry&#226;</Italian>
+		<Spanish>Descubrimiento</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_EXPANSION</Tag>
+		<English>Expansion</English>
+		<French>Expansion</French>
+		<German>Expansion</German>
+		<Italian>Era ekspansji</Italian>
+		<Spanish>Expansi&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ERA_INDEPENDENCE</Tag>
+		<English>Independence</English>
+		<French>Ind&#233;pendance</French>
+		<German>Unabh&#228;ngigkeit</German>
+		<Italian>Era wojen wyzwole&#241;czych</Italian>
+		<Spanish>Independencia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_STUDENT</Tag>
+		<English>Student</English>
+		<French>Etudiant</French>
+		<German>Student</German>
+		<Italian>Ucze&#241;</Italian>
+		<Spanish>Estudiante</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_EDUCATION</Tag>
+		<English>Education</English>
+		<French>Education</French>
+		<German>Bildung</German>
+		<Italian>Edukacja</Italian>
+		<Spanish>Educaci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EUROPE_EAST</Tag>
+		<English>East</English>
+		<French>Est</French>
+		<German>Osten</German>
+		<Italian>Wsch&#243;d</Italian>
+		<Spanish>Este</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EUROPE_WEST</Tag>
+		<English>West</English>
+		<French>Ouest</French>
+		<German>Westen</German>
+		<Italian>Zach&#243;d</Italian>
+		<Spanish>Oeste</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EUROPE_SOUTH</Tag>
+		<English>South</English>
+		<French>Sud</French>
+		<German>S&#252;den</German>
+		<Italian>Po&#244;udnie</Italian>
+		<Spanish>Sur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EUROPE_NORTH</Tag>
+		<English>North</English>
+		<French>Nord</French>
+		<German>Norden</German>
+		<Italian>P&#243;&#244;noc</Italian>
+		<Spanish>Norte</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TRADE_ROUTE</Tag>
+		<English>Import/Export</English>
+		<French>Import/Export</French>
+		<German>Import/Export</German>
+		<Italian>Import/Eksport</Italian>
+		<Spanish>Importaci&#243;n y exportaci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_COTTON</Tag>
+		<English>Cotton</English>
+		<French>Coton</French>
+		<German>Baumwolle</German>
+		<Italian>Bawe&#244;na</Italian>
+		<Spanish>Algod&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_TOBACCO</Tag>
+		<English>Tobacco</English>
+		<French>Tabac</French>
+		<German>Tabak</German>
+		<Italian>Tyto&#241;</Italian>
+		<Spanish>Tabaco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_TOOLS</Tag>
+		<English>Tools</English>
+		<French>Outils</French>
+		<German>Werkzeuge</German>
+		<Italian>Narz&#234;dzia</Italian>
+		<Spanish>Herramientas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GUNS</Tag>
+		<English>Guns</English>
+		<French>Armes &#224; feu</French>
+		<German>Schusswaffen</German>
+		<Italian>Bro&#241; palna</Italian>
+		<Spanish>Armas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_NEW_WORLD</Tag>
+		<English>The New World</English>
+		<French>Le Nouveau Monde</French>
+		<German>Die Neue Welt</German>
+		<Italian>Nowy &#196;wiat</Italian>
+		<Spanish>El Nuevo Mundo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_YIELD_MUSKETS</Tag>
+		<English>Guns</English>
+		<French>Arme &#224; feu:Armes &#224; feu</French>
+		<German>Schusswaffen</German>
+		<Italian>Muszkiety</Italian>
+		<Spanish>Arma:Armas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_STABLE</Tag>
+		<English>Horse Pasture</English>
+		<French>P&#226;turage:P&#226;turages</French>
+		<German>Pferdeweide</German>
+		<Italian>Pastwisko</Italian>
+		<Spanish>Pastizal para caballos:Pastizales para caballos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROFESSION_ARMED_MOUNTED_BRAVE</Tag>
+		<English>Armed Mounted Brave:Armed Mounted Braves</English>
+		<French>Cavalier indig&#232;ne arm&#233;:Cavaliers indig&#232;nes arm&#233;s</French>
+		<German>Bewaffneter berittener Krieger:Bewaffnete berittene Krieger</German>
+		<Italian>Uzbrojony konny Tubylec</Italian>
+		<Spanish>Valiente montado armado:Valientes montados armados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_CIV</Tag>
+		<English>Colonies / Natives</English>
+		<French>Colonies / Indig&#232;nes</French>
+		<German>Kolonien / Ureinwohner</German>
+		<Italian>Kolonie / Indianie</Italian>
+		<Spanish>Colonias/nativos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIABUYU</Tag>
+		<English>Piabuyu</English>
+		<French>Piabuyu</French>
+		<German>Piabuyu</German>
+		<Italian>Piabuyu</Italian>
+		<Spanish>Piabuyu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TUPINAMBA</Tag>
+		<English>Tupinamba</English>
+		<French>Tupinamba</French>
+		<German>Tupinamba</German>
+		<Italian>Tupinamba</Italian>
+		<Spanish>Tupinamba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAMOYO</Tag>
+		<English>Tamoyo</English>
+		<French>Tamoyo</French>
+		<German>Tamoyo</German>
+		<Italian>Tamoyo</Italian>
+		<Spanish>Tamoyo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PEABIRU</Tag>
+		<English>Peabiru</English>
+		<French>Peabiru</French>
+		<German>Peabiru</German>
+		<Italian>Peabiru</Italian>
+		<Spanish>Peabiru</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TUPINIQUIM</Tag>
+		<English>Tupiniquim</English>
+		<French>Tupiniquim</French>
+		<German>Tupiniquim</German>
+		<Italian>Tupiniquim</Italian>
+		<Spanish>Tupiniquim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAPE_AVIRU</Tag>
+		<English>Tape Aviru</English>
+		<French>Tape Aviru</French>
+		<German>Tape Aviru</German>
+		<Italian>Tape Aviru</Italian>
+		<Spanish>Tape Avir&#250;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OMAGUA</Tag>
+		<English>Omagua</English>
+		<French>Omagua</French>
+		<German>Omagua</German>
+		<Italian>Omagua</Italian>
+		<Spanish>Omagua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_COCAMA</Tag>
+		<English>Cocama</English>
+		<French>Cocama</French>
+		<German>Cocama</German>
+		<Italian>Cocama</Italian>
+		<Spanish>Cocama</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NHEHGATU</Tag>
+		<English>Nhehgatu</English>
+		<French>Nhehgatu</French>
+		<German>Nhehgatu</German>
+		<Italian>Nhehgatu</Italian>
+		<Spanish>Nhengatu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_POTIGUARA</Tag>
+		<English>Potiguara</English>
+		<French>Potiguara</French>
+		<German>Potiguara</German>
+		<Italian>Potiguara</Italian>
+		<Spanish>Potiguara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IERE</Tag>
+		<English>Iere</English>
+		<French>Iere</French>
+		<German>Iere</German>
+		<Italian>Iere</Italian>
+		<Spanish>Iere</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MALLIOUHANA</Tag>
+		<English>Malliouhana</English>
+		<French>Malliouhana</French>
+		<German>Malliouhana</German>
+		<Italian>Malliouhana</Italian>
+		<Spanish>Malliouhana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ALOI</Tag>
+		<English>Aloi</English>
+		<French>Aloi</French>
+		<German>Aloi</German>
+		<Italian>Aloi</Italian>
+		<Spanish>Aloi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OCANMANRU</Tag>
+		<English>Ocanmanru</English>
+		<French>Ocanmanru</French>
+		<German>Ocanmanru</German>
+		<Italian>Ocanmanru</Italian>
+		<Spanish>Ocanmanru</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LIAMUGUA</Tag>
+		<English>Liamugua</English>
+		<French>Liamugua</French>
+		<German>Liamugua</German>
+		<Italian>Liamugua</Italian>
+		<Spanish>Liamugua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ATABEI</Tag>
+		<English>Atabei</English>
+		<French>Atabei</French>
+		<German>Atabei</German>
+		<Italian>Atabei</Italian>
+		<Spanish>Atabei</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WAITUKUBULI</Tag>
+		<English>Waitukubuli</English>
+		<French>Waitukubuli</French>
+		<German>Waitukubuli</German>
+		<Italian>Waitukubuli</Italian>
+		<Spanish>Waitukubuli</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ICHIROUGANAIM</Tag>
+		<English>Ichirouganaim</English>
+		<French>Ichirouganaim</French>
+		<German>Ichirouganaim</German>
+		<Italian>Ichirouganaim</Italian>
+		<Spanish>Ichirouganaim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KALAOUCERA</Tag>
+		<English>Kalaoucera</English>
+		<French>Kalaoucera</French>
+		<German>Kalaoucera</German>
+		<Italian>Kalaoucera</Italian>
+		<Spanish>Kalaoucera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OUALICHE</Tag>
+		<English>Oualiche</English>
+		<French>Oualiche</French>
+		<German>Oualiche</German>
+		<Italian>Oualiche</Italian>
+		<Spanish>Oualiche</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOULOUKAERA</Tag>
+		<English>Touloukaera</English>
+		<French>Touloukaera</French>
+		<German>Touloukaera</German>
+		<Italian>Touloukaera</Italian>
+		<Spanish>Touloukaera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IYANOLA</Tag>
+		<English>Iyanola</English>
+		<French>Iyanola</French>
+		<German>Iyanola</German>
+		<Italian>Iyanola</Italian>
+		<Spanish>Iyanola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OUALIE</Tag>
+		<English>Oualie</English>
+		<French>Oualie</French>
+		<German>Oualie</German>
+		<Italian>Oualie</Italian>
+		<Spanish>Oualie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAIROUN</Tag>
+		<English>Hairoun</English>
+		<French>Hairoun</French>
+		<German>Hairoun</German>
+		<Italian>Hairoun</Italian>
+		<Spanish>Hairoun</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WADADLI</Tag>
+		<English>Wadadli</English>
+		<French>Wadadli</French>
+		<German>Wadadli</German>
+		<Italian>Wadadli</Italian>
+		<Spanish>Wadadli</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BIGAGOTEEL</Tag>
+		<English>Chichiil Bidagoteel</English>
+		<French>Chichiil Bidagoteel</French>
+		<German>Chichiil Bidagoteel</German>
+		<Italian>Chichiil Bidagoteel</Italian>
+		<Spanish>Chich&#237;il Bidagoteel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TIIS_TSEBA</Tag>
+		<English>Tiiis Tseba</English>
+		<French>Tiiis Tseba</French>
+		<German>Tiiis Tseba</German>
+		<Italian>Tiiis Tseba</Italian>
+		<Spanish>Tiis Tseb&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NAGONLTIN</Tag>
+		<English>Nagonltin</English>
+		<French>Nagonltin</French>
+		<German>Nagonltin</German>
+		<Italian>Nagonltin</Italian>
+		<Spanish>Nagonltin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHICHIIL_DA_KIZH</Tag>
+		<English>Chichiil da'kizh</English>
+		<French>Chichiil da'kizh</French>
+		<German>Chichiil da'kizh</German>
+		<Italian>Chichiil da'kizh</Italian>
+		<Spanish>Chich&#237;il da'kizh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IZEE_DIGHIN</Tag>
+		<English>Izee Dighin</English>
+		<French>Izee Dighin</French>
+		<German>Izee Dighin</German>
+		<Italian>Izee Dighin</Italian>
+		<Spanish>Izee Dighin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TS_DADLIT_AS</Tag>
+		<English>Ts Dadlit'as</English>
+		<French>Ts Dadlit'as</French>
+		<German>Ts Dadlit'as</German>
+		<Italian>Ts Dadlit'as</Italian>
+		<Spanish>Ts Dadlit'as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_T_EDN</Tag>
+		<English>T' Edn</English>
+		<French>T' Edn</French>
+		<German>T' Edn</German>
+		<Italian>T' Edn</Italian>
+		<Spanish>T'Edn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TSE_NANESNASDZ</Tag>
+		<English>Tse Nanesnasdz</English>
+		<French>Tse Nanesnasdz</French>
+		<German>Tse Nanesnasdz</German>
+		<Italian>Tse Nanesnasdz</Italian>
+		<Spanish>Tse Nanesnasdz</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TS_YA_KIH_NASTL</Tag>
+		<English>Ts Ya Kih Nastl</English>
+		<French>Ts Ya Kih Nastl</French>
+		<German>Ts Ya Kih Nastl</German>
+		<Italian>Ts Ya Kih Nastl</Italian>
+		<Spanish>Ts Ya Kih Nastl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IYAH_HAJIN</Tag>
+		<English>Iyah Hajin</English>
+		<French>Iyah Hajin</French>
+		<German>Iyah Hajin</German>
+		<Italian>Iyah Hajin</Italian>
+		<Spanish>Iyah Hajin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_T_NADIDOH</Tag>
+		<English>T' Nadidoh</English>
+		<French>T' Nadidoh</French>
+		<German>T' Nadidoh</German>
+		<Italian>T' Nadidoh</Italian>
+		<Spanish>T' Nadidoh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MA_BIJAA_DASLAA</Tag>
+		<English>Ma' Bijaa Daslaa</English>
+		<French>Ma' Bijaa Daslaa</French>
+		<German>Ma' Bijaa Daslaa</German>
+		<Italian>Ma' Bijaa Daslaa</Italian>
+		<Spanish>Ma' Bijaa Daslaa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TSE_DASN</Tag>
+		<English>Tse Das'n</English>
+		<French>Tse Das'n</French>
+		<German>Tse Das'n</German>
+		<Italian>Tse Das'n</Italian>
+		<Spanish>Tse Das'n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DIB_TUD</Tag>
+		<English>Dib Tud</English>
+		<French>Dib Tud</French>
+		<German>Dib Tud</German>
+		<Italian>Dib Tud</Italian>
+		<Spanish>Dib Tud</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TSE_YE_GOCHA</Tag>
+		<English>Tse Ye Gocha</English>
+		<French>Tse Ye Gocha</French>
+		<German>Tse Ye Gocha</German>
+		<Italian>Tse Ye Gocha</Italian>
+		<Spanish>Tse Ye Gocha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_YOO_GOLIN</Tag>
+		<English>Yoo Golin</English>
+		<French>Yoo Golin</French>
+		<German>Yoo Golin</German>
+		<Italian>Yoo Golin</Italian>
+		<Spanish>Yoo Golin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WASHBIDI_BIT</Tag>
+		<English>Washbidi Bit</English>
+		<French>Washbidi Bit</French>
+		<German>Washbidi Bit</German>
+		<Italian>Washbidi Bit</Italian>
+		<Spanish>Washbidi Bit</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TS_SHID</Tag>
+		<English>Ts Shid</English>
+		<French>Ts Shid</French>
+		<German>Ts Shid</German>
+		<Italian>Ts Shid</Italian>
+		<Spanish>Ts Shid</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CH_DISCHAG</Tag>
+		<English>Ch' Disch'ag</English>
+		<French>Ch' Disch'ag</French>
+		<German>Ch' Disch'ag</German>
+		<Italian>Ch' Disch'ag</Italian>
+		<Spanish>Ch' Disch'ag</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TII_CHOGI</Tag>
+		<English>Tii Ch'ogi</English>
+		<French>Tii Ch'ogi</French>
+		<German>Tii Ch'ogi</German>
+		<Italian>Tii Ch'ogi</Italian>
+		<Spanish>Tii Ch'ogi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BIGHAN_DAISLN</Tag>
+		<English>Bighan Da'isln</English>
+		<French>Bighan Da'isln</French>
+		<German>Bighan Da'isln</German>
+		<Italian>Bighan Da'isln</Italian>
+		<Spanish>Bighan Da'isln</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BIS_BIT</Tag>
+		<English>Bis Bit</English>
+		<French>Bis Bit</French>
+		<German>Bis Bit</German>
+		<Italian>Bis Bit</Italian>
+		<Spanish>Bis Bit</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MAKA_SICA</Tag>
+		<English>Maka Sica</English>
+		<French>Maka Sica</French>
+		<German>Maka Sica</German>
+		<Italian>Maka Sica</Italian>
+		<Spanish>Maka Sica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PAHA_MATO</Tag>
+		<English>Paha Mato</English>
+		<French>Paha Mato</French>
+		<German>Paha Mato</German>
+		<Italian>Paha Mato</Italian>
+		<Spanish>Mato Paha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MAKATO_OSA_WATAPA</Tag>
+		<English>Makato Osa Watapa</English>
+		<French>Makato Osa Watapa</French>
+		<German>Makato Osa Watapa</German>
+		<Italian>Makato Osa Watapa</Italian>
+		<Spanish>Makato Osa Watapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WAKPALA_SAPA</Tag>
+		<English>Wakpala Sapa</English>
+		<French>Wakpala Sapa</French>
+		<German>Wakpala Sapa</German>
+		<Italian>Wakpala Sapa</Italian>
+		<Spanish>Wakpala Sapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MATO_TIPI</Tag>
+		<English>Mato Tipi</English>
+		<French>Mato Tipi</French>
+		<German>Mato Tipi</German>
+		<Italian>Mato Tipi</Italian>
+		<Spanish>Mato Tipi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PAHA_SAPA</Tag>
+		<English>Paha Sapa</English>
+		<French>Paha Sapa</French>
+		<German>Paha Sapa</German>
+		<Italian>Paha Sapa</Italian>
+		<Spanish>Paha Sapa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_COOSAWATIE</Tag>
+		<English>Coosawatie</English>
+		<French>Coosawatie</French>
+		<German>Coosawatie</German>
+		<Italian>Coosawatie</Italian>
+		<Spanish>Coosawatie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_QUALATCHEE</Tag>
+		<English>Qualatchee</English>
+		<French>Qualatchee</French>
+		<German>Qualatchee</German>
+		<Italian>Qualatchee</Italian>
+		<Spanish>Qualatchee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WHATAGUA</Tag>
+		<English>Whatauga</English>
+		<French>Whatauga</French>
+		<German>Whatauga</German>
+		<Italian>Whatauga</Italian>
+		<Spanish>Whatauga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHEEOHEE</Tag>
+		<English>Cheeohee</English>
+		<French>Cheeohee</French>
+		<German>Cheeohee</German>
+		<Italian>Cheeohee</Italian>
+		<Spanish>Cheeohee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OCCONEECHEE</Tag>
+		<English>Occoneechee</English>
+		<French>Occoneechee</French>
+		<German>Occoneechee</German>
+		<Italian>Occoneechee</Italian>
+		<Spanish>Occoneechee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KAWIYI</Tag>
+		<English>Kawiyi</English>
+		<French>Kawiyi</French>
+		<German>Kawiyi</German>
+		<Italian>Kawiyi</Italian>
+		<Spanish>Kawiyi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NIKWASI</Tag>
+		<English>Nikwasi</English>
+		<French>Nikwasi</French>
+		<German>Nikwasi</German>
+		<Italian>Nikwasi</Italian>
+		<Spanish>Nikwasi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ITSEYI</Tag>
+		<English>Itseyi</English>
+		<French>Itseyi</French>
+		<German>Itseyi</German>
+		<Italian>Itseyi</Italian>
+		<Spanish>Itseyi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DISTAYOHI</Tag>
+		<English>Distayohi</English>
+		<French>Distayohi</French>
+		<German>Distayohi</German>
+		<Italian>Distayohi</Italian>
+		<Spanish>Distayohi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SKAHNEHTATI</Tag>
+		<English>Skahnehtati</English>
+		<French>Skahnehtati</French>
+		<German>Skahnehtati</German>
+		<Italian>Skahnehtati</Italian>
+		<Spanish>Skahnehtati</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KANIENKE</Tag>
+		<English>Kanien'ke</English>
+		<French>Kanien'ke</French>
+		<German>Kanien'ke</German>
+		<Italian>Kanien'ke</Italian>
+		<Spanish>Kanien'ke</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ATERONTO</Tag>
+		<English>Ateronto</English>
+		<French>Ateronto</French>
+		<German>Ateronto</German>
+		<Italian>Ateronto</Italian>
+		<Spanish>Ateronto</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_AKWESASNE</Tag>
+		<English>Akwesasne</English>
+		<French>Akwesasne</French>
+		<German>Akwesasne</German>
+		<Italian>Akwesasne</Italian>
+		<Spanish>Akwesasne</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OSWEGO</Tag>
+		<English>Oswego</English>
+		<French>Oswego</French>
+		<German>Oswego</German>
+		<Italian>Oswego</Italian>
+		<Spanish>Oswego</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ONEONTA</Tag>
+		<English>Oneonta</English>
+		<French>Oneonta</French>
+		<German>Oneonta</German>
+		<Italian>Oneonta</Italian>
+		<Spanish>Oneonta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KNISTE_STOTA</Tag>
+		<English>Kniste Stota</English>
+		<French>Kniste Stota</French>
+		<German>Kniste Stota</German>
+		<Italian>Kniste Stota</Italian>
+		<Spanish>Kniste Stota</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REGULAR</Tag>
+		<English>Regular:Regulars</English>
+		<French>Soldat de m&#233;tier:Soldats de m&#233;tier</French>
+		<German>Berufssoldat:Berufssoldaten</German>
+		<Italian>Oddzia&#244; regularny</Italian>
+		<Spanish>Regular:Regulares</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY</Tag>
+		<English>Artillery:Artillery</English>
+		<French>Artillerie:Artillerie</French>
+		<German>Artillerie:Artillerien</German>
+		<Italian>Armata</Italian>
+		<Spanish>Artiller&#237;a</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_CIVIC</Tag>
+		<English>Constitution</English>
+		<French>Constitution</French>
+		<German>Verfassung</German>
+		<Italian>Konstytucja</Italian>
+		<Spanish>Constituci&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGER1</Tag>
+		<English>Ranger I</English>
+		<French>Ranger I</French>
+		<German>Ranger I</German>
+		<Italian>Zwiadowca I</Italian>
+		<Spanish>Montaraz I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGER2</Tag>
+		<English>Ranger II</English>
+		<French>Ranger II</French>
+		<German>Ranger II</German>
+		<Italian>Zwiadowca II</Italian>
+		<Spanish>Montaraz II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGER3</Tag>
+		<English>Ranger III</English>
+		<French>Ranger III</French>
+		<German>Ranger III</German>
+		<Italian>Zwiadowca III</Italian>
+		<Spanish>Montaraz III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MOUNTAINEER1</Tag>
+		<English>Mountaineer I</English>
+		<French>Alpiniste I</French>
+		<German>Gebirgsj&#228;ger I</German>
+		<Italian>G&#243;ral I</Italian>
+		<Spanish>Monta&#241;era I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MOUNTAINEER2</Tag>
+		<English>Mountaineer II</English>
+		<French>Alpiniste II</French>
+		<German>Gebirgsj&#228;ger II</German>
+		<Italian>G&#243;ral II</Italian>
+		<Spanish>Monta&#241;era II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MOUNTAINEER3</Tag>
+		<English>Mountaineer III</English>
+		<French>Alpiniste III</French>
+		<German>Gebirgsj&#228;ger III</German>
+		<Italian>G&#243;ral III</Italian>
+		<Spanish>Monta&#241;era III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SWAMP_FOX1</Tag>
+		<English>Swamp Fox I</English>
+		<French>Renard des marais I</French>
+		<German>Sumpfk&#228;mpfer I</German>
+		<Italian>Bagienny Lis I</Italian>
+		<Spanish>Raposa de los pantanos I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SWAMP_FOX2</Tag>
+		<English>Swamp Fox II</English>
+		<French>Renard des marais II</French>
+		<German>Sumpfk&#228;mpfer II</German>
+		<Italian>Bagienny Lis II</Italian>
+		<Spanish>Raposa de los pantanos I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SWAMP_FOX3</Tag>
+		<English>Swamp Fox III</English>
+		<French>Renard des marais III</French>
+		<German>Sumpfk&#228;mpfer III</German>
+		<Italian>Bagienny Lis III</Italian>
+		<Spanish>Raposa de los pantanos I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MINUTEMAN1</Tag>
+		<English>Minuteman I</English>
+		<French>Patriote I</French>
+		<German>Minuteman I</German>
+		<Italian>Obro&#241;ca I</Italian>
+		<Spanish>Miliciana I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MINUTEMAN2</Tag>
+		<English>Minuteman II</English>
+		<French>Patriote II</French>
+		<German>Minuteman II</German>
+		<Italian>Obro&#241;ca II</Italian>
+		<Spanish>Miliciana II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MINUTEMAN3</Tag>
+		<English>Minuteman III</English>
+		<French>Patriote III</French>
+		<German>Minuteman III</German>
+		<Italian>Obro&#241;ca III</Italian>
+		<Spanish>Miliciana III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SURGEON1</Tag>
+		<English>Surgeon I</English>
+		<French>Chirurgien I</French>
+		<German>Chirurg I</German>
+		<Italian>Medyk I</Italian>
+		<Spanish>Cirujana I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SURGEON2</Tag>
+		<English>Surgeon II</English>
+		<French>Chirurgien II</French>
+		<German>Chirurg II</German>
+		<Italian>Medyk II</Italian>
+		<Spanish>Cirujana II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SURGEON3</Tag>
+		<English>Surgeon III</English>
+		<French>Chirurgien III</French>
+		<German>Chirurg III</German>
+		<Italian>Medyk III</Italian>
+		<Spanish>Cirujana III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GRENADIER1</Tag>
+		<English>Grenadier I</English>
+		<French>Grenadier I</French>
+		<German>Grenadier I</German>
+		<Italian>Grenadier I</Italian>
+		<Spanish>Granadero I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GRENADIER2</Tag>
+		<English>Grenadier II</English>
+		<French>Grenadier II</French>
+		<German>Grenadier II</German>
+		<Italian>Grenadier II</Italian>
+		<Spanish>Granadero II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GRENADIER3</Tag>
+		<English>Grenadier III</English>
+		<French>Grenadier III</French>
+		<German>Grenadier III</German>
+		<Italian>Grenadier III</Italian>
+		<Spanish>Granadero III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPLORER1</Tag>
+		<English>Explorer I</English>
+		<French>Explorateur I</French>
+		<German>Kundschafter I</German>
+		<Italian>Odkrywca I</Italian>
+		<Spanish>Explorador I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPLORER2</Tag>
+		<English>Explorer II</English>
+		<French>Explorateur II</French>
+		<German>Kundschafter II</German>
+		<Italian>Odkrywca II</Italian>
+		<Spanish>Explorador II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPLORER3</Tag>
+		<English>Explorer III</English>
+		<French>Explorateur III</French>
+		<German>Kundschafter III</German>
+		<Italian>Odkrywca III</Italian>
+		<Spanish>Explorador III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_NAVIGATION3</Tag>
+		<English>Navigation III</English>
+		<French>Navigation III</French>
+		<German>Navigation III</German>
+		<Italian>Nawigacja III</Italian>
+		<Spanish>Navegaci&#243;n III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SKIRMISHER1</Tag>
+		<English>Skirmisher I</English>
+		<French>Tirailleur I</French>
+		<German>Pl&#228;nkler I</German>
+		<Italian>Harcownik I</Italian>
+		<Spanish>Hostigador I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SKIRMISHER2</Tag>
+		<English>Skirmisher II</English>
+		<French>Tirailleur II</French>
+		<German>Pl&#228;nkler II</German>
+		<Italian>Harcownik II</Italian>
+		<Spanish>Hostigador II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SKIRMISHER3</Tag>
+		<English>Skirmisher III</English>
+		<French>Tirailleur III</French>
+		<German>Pl&#228;nkler III</German>
+		<Italian>Harcownik III</Italian>
+		<Spanish>Hostigador III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SOLID_SHOTI</Tag>
+		<English>Solid Shot I</English>
+		<French>Projectile I</French>
+		<German>Solides Geschoss I</German>
+		<Italian>Pe&#244;ne kule I</Italian>
+		<Spanish>Disparo seguido I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SOLID_SHOTII</Tag>
+		<English>Solid Shot II</English>
+		<French>Projectile II</French>
+		<German>Solides Geschoss II</German>
+		<Italian>Pe&#244;ne kule II</Italian>
+		<Spanish>Disparo seguido II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SOLID_SHOTIII</Tag>
+		<English>Solid Shot III</English>
+		<French>Projectile III</French>
+		<German>Solides Geschoss III</German>
+		<Italian>Pe&#244;ne kule III</Italian>
+		<Spanish>Disparo seguido III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CANNISTER_SHOTI</Tag>
+		<English>Canister Shot I</English>
+		<French>Boulet I</French>
+		<German>B&#252;chsengeschoss I</German>
+		<Italian>Kartacze I</Italian>
+		<Spanish>Disparo de metralla I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CANNISTER_SHOTII</Tag>
+		<English>Canister Shot II</English>
+		<French>Boulet II</French>
+		<German>B&#252;chsengeschoss II</German>
+		<Italian>Kartacze II</Italian>
+		<Spanish>Disparo de metralla II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CANNISTER_SHOTIII</Tag>
+		<English>Canister Shot III</English>
+		<French>Boulet III</French>
+		<German>B&#252;chsengeschoss III</German>
+		<Italian>Kartacze III</Italian>
+		<Spanish>Disparo de metralla III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BOMBI</Tag>
+		<English>Bomb I</English>
+		<French>Bombe I</French>
+		<German>Bombe I</German>
+		<Italian>Bombardier I</Italian>
+		<Spanish>Bomba I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BOMBII</Tag>
+		<English>Bomb II</English>
+		<French>Bombe II</French>
+		<German>Bombe II</German>
+		<Italian>Bombardier II</Italian>
+		<Spanish>Bomba II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BOMBIII</Tag>
+		<English>Bomb III</English>
+		<French>Bombe III</French>
+		<German>Bombe III</German>
+		<Italian>Bombardier III</Italian>
+		<Spanish>Bomba III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN1</Tag>
+		<English>Veteran I</English>
+		<French>V&#233;t&#233;ran I</French>
+		<German>Veteran I</German>
+		<Italian>Weteran I</Italian>
+		<Spanish>Veterana I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN2</Tag>
+		<English>Veteran II</English>
+		<French>V&#233;t&#233;ran II</French>
+		<German>Veteran II</German>
+		<Italian>Weteran II</Italian>
+		<Spanish>Veterana II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN3</Tag>
+		<English>Veteran III</English>
+		<French>V&#233;t&#233;ran III</French>
+		<German>Veteran III</German>
+		<Italian>Weteran III</Italian>
+		<Spanish>Veterana I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN4</Tag>
+		<English>Veteran IV</English>
+		<French>V&#233;t&#233;ran IV</French>
+		<German>Veteran IV</German>
+		<Italian>Weteran IV</Italian>
+		<Spanish>Veterana IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN5</Tag>
+		<English>Veteran V</English>
+		<French>V&#233;t&#233;ran V</French>
+		<German>Veteran V</German>
+		<Italian>Weteran V</Italian>
+		<Spanish>Veterana V</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_VETERAN6</Tag>
+		<English>Veteran VI</English>
+		<French>V&#233;t&#233;ran VI</French>
+		<German>Veteran VI</German>
+		<Italian>Weteran VI</Italian>
+		<Spanish>Veterana VI</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GENERIC_KING</Tag>
+		<English>The King</English>
+		<French>Le Roi</French>
+		<German>Der K&#246;nig</German>
+		<Italian>Kr&#243;l</Italian>
+		<Spanish>El rey</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ST_JOHNS</Tag>
+		<English>St. John's</English>
+		<French>Saint John's</French>
+		<German>St. John's</German>
+		<Italian>St. John's</Italian>
+		<Spanish>St. John's</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TS_LTAH</Tag>
+		<English>Ts L' tah</English>
+		<French>Ts L' tah</French>
+		<German>Ts L' tah</German>
+		<Italian>Ts L' tah</Italian>
+		<Spanish>Ts L' tah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_T_YADNLIN</Tag>
+		<English>T' Yadnlin</English>
+		<French>T' Yadnlin</French>
+		<German>T' Yadnlin</German>
+		<Italian>T' Yadnlin</Italian>
+		<Spanish>T' Yadnlin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC</Tag>
+		<English>Chinese Colonies</English>
+		<French>Chinese Colonies</French>
+		<German>Chinese Colonies</German>
+		<Italian>Kolonie chi&#241;skie</Italian>
+		<Spanish>Chinese Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_ADJECTIVE</Tag>
+		<English>Chinese:Chinese</English>
+		<French>Chinese:Chinese</French>
+		<German>Chinese:Chinese</German>
+		<Italian>chi&#241;ski</Italian>
+		<Spanish>Chinese:Chinese</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SHORT_DESC</Tag>
+		<English>New China</English>
+		<French>New China</French>
+		<German>New China</German>
+		<Italian>Nowe Chiny</Italian>
+		<Spanish>New China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_DESC</Tag>
+		<English>Chinese Colonies</English>
+		<French>Chinese Colonies</French>
+		<German>Chinese Colonies</German>
+		<Italian>Kolonie osma&#241;skie</Italian>
+		<Spanish>Chinese Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_ADJECTIVE</Tag>
+		<English>Chinese:Chinese</English>
+		<French>Chinese:Chinese</French>
+		<German>Chinese:Chinese</German>
+		<Italian>osma&#241;ski</Italian>
+		<Spanish>Chinese:Chinese</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_SHORT_DESC</Tag>
+		<English>New China</English>
+		<French>New China</French>
+		<German>New China</German>
+		<Italian>Nowe Imperium osma&#241;skie</Italian>
+		<Spanish>New China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_EUROPE_DESC</Tag>
+		<English>Chinese Colonies</English>
+		<French>Chinese Colonies</French>
+		<German>Chinese Colonies</German>
+		<Italian>Imperium osma&#241;skie</Italian>
+		<Spanish>Chinese Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_EUROPE_ADJECTIVE</Tag>
+		<English>Chinese:Chinese</English>
+		<French>Chinese:Chinese</French>
+		<German>Chinese:Chinese</German>
+		<Italian>osma&#241;ski</Italian>
+		<Spanish>Chinese:Chinese</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TUR_EUROPE_SHORT_DESC</Tag>
+		<English>New China</English>
+		<French>New China</French>
+		<German>New China</German>
+		<Italian>Imperium osma&#241;skie</Italian>
+		<Spanish>New China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_DESC</Tag>
+		<English>Russian Colonies</English>
+		<French>Russian Colonies</French>
+		<German>Russian Colonies</German>
+		<Italian>Kolonie rosyjskie</Italian>
+		<Spanish>Russian Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_ADJECTIVE</Tag>
+		<English>Russian:Russian</English>
+		<French>Russian:Russian</French>
+		<German>Russian:Russian</German>
+		<Italian>rosyjski</Italian>
+		<Spanish>Russian:Russian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_DESC</Tag>
+		<English>German Colonies</English>
+		<French>Russian Colonies</French>
+		<German>Russian Colonies</German>
+		<Italian>Kolonie pruskie</Italian>
+		<Spanish>Russian Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_ADJECTIVE</Tag>
+		<English>Russian:Russian</English>
+		<French>Russian:Russian</French>
+		<German>Russian:Russian</German>
+		<Italian>pruski</Italian>
+		<Spanish>Russian:Russian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_SHORT_DESC</Tag>
+		<English>New Russia</English>
+		<French>New Russia</French>
+		<German>New Russia</German>
+		<Italian>Nowe Prusy</Italian>
+		<Spanish>New Russia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC</Tag>
+		<English>New Russia</English>
+		<French>New Russia</French>
+		<German>New Russia</German>
+		<Italian>Nowa Rosja</Italian>
+		<Spanish>New Russia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_EUROPE_DESC</Tag>
+		<English>Russian Empire</English>
+		<French>Russian Empire</French>
+		<German>Russian Empire</German>
+		<Italian>Imperium rosyjskie</Italian>
+		<Spanish>Russian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_EUROPE_ADJECTIVE</Tag>
+		<English>Russian:Russian</English>
+		<French>Russian:Russian</French>
+		<German>Russian:Russian</German>
+		<Italian>rosyjski</Italian>
+		<Spanish>Russian:Russian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_EUROPE_SHORT_DESC</Tag>
+		<English>Russia</English>
+		<French>Russia</French>
+		<German>Russia</German>
+		<Italian>Rosja</Italian>
+		<Spanish>Russia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_EUROPE_DESC</Tag>
+		<English>Germany</English>
+		<French>Russian Empire</French>
+		<German>Russian Empire</German>
+		<Italian>Kr&#243;lestwo prus</Italian>
+		<Spanish>Russian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_EUROPE_ADJECTIVE</Tag>
+		<English>German:German</English>
+		<French>Russian:Russian</French>
+		<German>Russian:Russian</German>
+		<Italian>pruski</Italian>
+		<Spanish>Russian:Russian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_EUROPE_SHORT_DESC</Tag>
+		<English>Germany</English>
+		<French>Russia</French>
+		<German>Russia</German>
+		<Italian>Prusy</Italian>
+		<Spanish>Russia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_EUROPE_DESC</Tag>
+		<English>Chinese Empire</English>
+		<French>Chinese Empire</French>
+		<German>Chinese Empire</German>
+		<Italian>Pa&#241;stwo &#166;rodka</Italian>
+		<Spanish>Chinese Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_EUROPE_ADJECTIVE</Tag>
+		<English>Chinese:Chinese</English>
+		<French>Chinese:Chinese</French>
+		<German>Chinese:Chinese</German>
+		<Italian>chi&#241;skie</Italian>
+		<Spanish>Chinese:Chinese</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_EUROPE_SHORT_DESC</Tag>
+		<English>China</English>
+		<French>China</French>
+		<German>China</German>
+		<Italian>Chiny</Italian>
+		<Spanish>China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_AGRICULTURAL</Tag>
+		<English>Agricultural</English>
+		<French>Agricultural</French>
+		<German>Agricultural</German>
+		<Italian>Rolniczy</Italian>
+		<Spanish>Agricultural</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ELDORADO</Tag>
+		<English>Eldorado</English>
+		<French>Agricultural</French>
+		<German>Agricultural</German>
+		<Italian>Poszukiwacz Eldorado</Italian>
+		<Spanish>Agricultural</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_AMBITIOUS</Tag>
+		<English>Ambitious</English>
+		<French>Ambitious</French>
+		<German>Ambitious</German>
+		<Italian>Ambitny</Italian>
+		<Spanish>Ambitious</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ZHENG_CHENGGONG</Tag>
+		<English>Zheng Chenggong</English>
+		<French>Zheng Chenggong</French>
+		<German>Zheng Chenggong</German>
+		<Italian>Zheng Chenggong</Italian>
+		<Spanish>Zheng Chenggong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GER</Tag>
+		<English>Philip von Hutten</English>
+		<French>Zheng Chenggong</French>
+		<German>Zheng Chenggong</German>
+		<Italian>Philip von Hutten</Italian>
+		<Spanish>Zheng Chenggong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KING_GER</Tag>
+		<English>Germany</English>
+		<French>Zheng Chenggong</French>
+		<German>Zheng Chenggong</German>
+		<Italian>Kr&#243;l prus</Italian>
+		<Spanish>Zheng Chenggong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHINESE_KING</Tag>
+		<English>King of China</English>
+		<French>King of China</French>
+		<German>King of China</German>
+		<Italian>Cesarz chin</Italian>
+		<Spanish>King of China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_RUS</Tag>
+		<English>Nikolai Rezanov</English>
+		<French>Zheng Chenggong</French>
+		<German>Zheng Chenggong</German>
+		<Italian>Nikolai Rezanov</Italian>
+		<Spanish>Zheng Chenggong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TZAR</Tag>
+		<English>Tzar of Russia</English>
+		<French>King of China</French>
+		<German>King of China</German>
+		<Italian>Caryca rosji</Italian>
+		<Spanish>King of China</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CZAKA</Tag>
+		<English>Chaka</English>
+		<French>Chaka</French>
+		<German>Chaka</German>
+		<Italian>Czaka</Italian>
+		<Spanish>Chaka</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BANTU</Tag>
+		<English>Bantu Chief</English>
+		<French>Bantu Chief</French>
+		<German>Bantu Chief</German>
+		<Italian>Gopalgobinda</Italian>
+		<Spanish>Bantu Chief</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ASOKA</Tag>
+		<English>Asoka</English>
+		<French>Asoka</French>
+		<German>Asoka</German>
+		<Italian>Asoka</Italian>
+		<Spanish>Asoka</Spanish>
+	</TEXT>
+	<!-- <TEXT>
+		<Tag></Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT> -->
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_DESC</Tag>
+		<English>Siberian Tribes</English>
+		<French>Siberian Tribes</French>
+		<German>Siberian Tribes</German>
+		<Italian>Plemiona Syberyjskie</Italian>
+		<Spanish>Siberian Tribes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_SHORT_DESC</Tag>
+		<English>Siberians</English>
+		<French>Siberians</French>
+		<German>Siberians</German>
+		<Italian>Syberyjczycy</Italian>
+		<Spanish>Siberians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIA_ADJECTIVE</Tag>
+		<English>Siberian</English>
+		<French>Siberian</French>
+		<German>Siberian</German>
+		<Italian>syberyjski</Italian>
+		<Spanish>Siberian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KHAN</Tag>
+		<English>Kuchum Khan</English>
+		<French>Kuchum Khan</French>
+		<German>Kuchum Khan</German>
+		<Italian>Kuchum Khan</Italian>
+		<Spanish>Kuchum Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_DESC</Tag>
+		<English>Siberian Tribes</English>
+		<French>Siberian Tribes</French>
+		<German>Siberian Tribes</German>
+		<Italian>Plemiona Indonezyjskie</Italian>
+		<Spanish>Siberian Tribes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_SHORT_DESC</Tag>
+		<English>Siberians</English>
+		<French>Siberians</French>
+		<German>Siberians</German>
+		<Italian>Indonezyjczycy</Italian>
+		<Spanish>Siberians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Tag>
+		<English>Siberian</English>
+		<French>Siberian</French>
+		<German>Siberian</German>
+		<Italian>indonezyjski</Italian>
+		<Spanish>Siberian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KHMER</Tag>
+		<English>Kuchum Khan</English>
+		<French>Kuchum Khan</French>
+		<German>Kuchum Khan</German>
+		<Italian>Gajah Mada</Italian>
+		<Spanish>Kuchum Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_DESC</Tag>
+		<English>Siberian Tribes</English>
+		<French>Siberian Tribes</French>
+		<German>Siberian Tribes</German>
+		<Italian>Plemiona Arabskie</Italian>
+		<Spanish>Siberian Tribes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_SHORT_DESC</Tag>
+		<English>Siberians</English>
+		<French>Siberians</French>
+		<German>Siberians</German>
+		<Italian>Arabia</Italian>
+		<Spanish>Siberians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_ADJECTIVE</Tag>
+		<English>Siberian</English>
+		<French>Siberian</French>
+		<German>Siberian</German>
+		<Italian>arabski</Italian>
+		<Spanish>Siberian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SALADIN</Tag>
+		<English>Kuchum Khan</English>
+		<French>Kuchum Khan</French>
+		<German>Kuchum Khan</German>
+		<Italian>Al-Walid</Italian>
+		<Spanish>Kuchum Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC</Tag>
+		<English>Siberian Tribes</English>
+		<French>Siberian Tribes</French>
+		<German>Siberian Tribes</German>
+		<Italian>Cesarstwo Japo&#241;skie</Italian>
+		<Spanish>Siberian Tribes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_SHORT_DESC</Tag>
+		<English>Siberians</English>
+		<French>Siberians</French>
+		<German>Siberians</German>
+		<Italian>Japonia</Italian>
+		<Spanish>Siberians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_ADJECTIVE</Tag>
+		<English>Siberian</English>
+		<French>Siberian</French>
+		<German>Siberian</German>
+		<Italian>japo&#241;ski</Italian>
+		<Spanish>Siberian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JAPAN</Tag>
+		<English>Kuchum Khan</English>
+		<French>Kuchum Khan</French>
+		<German>Kuchum Khan</German>
+		<Italian>Tokugawa</Italian>
+		<Spanish>Kuchum Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC</Tag>
+		<English>India</English>
+		<French>India</French>
+		<German>India</German>
+		<Italian>Kr&#243;lestwo Indii</Italian>
+		<Spanish>India</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_SHORT_DESC</Tag>
+		<English>India</English>
+		<French>India</French>
+		<German>India</German>
+		<Italian>Indie</Italian>
+		<Spanish>India</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_ADJECTIVE</Tag>
+		<English>Hindu</English>
+		<French>Hindu</French>
+		<German>Hindu</German>
+		<Italian>hinduski</Italian>
+		<Spanish>Hindu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DESC</Tag>
+		<English>Zulu</English>
+		<French>Zulu</French>
+		<German>Zulu</German>
+		<Italian>Plemi&#234; Zulus&#243;w</Italian>
+		<Spanish>Zulu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_SHORT_DESC</Tag>
+		<English>Zulu</English>
+		<French>Zulu</French>
+		<German>Zulu</German>
+		<Italian>Zulusi</Italian>
+		<Spanish>Zulu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
+		<English>Zulu</English>
+		<French>Zulu</French>
+		<German>Zulu</German>
+		<Italian>zuluski</Italian>
+		<Spanish>Zulu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_DESC</Tag>
+		<English>Bantu</English>
+		<French>Bantu</French>
+		<German>Bantu</German>
+		<Italian>Plemiona Bantu</Italian>
+		<Spanish>Zulu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_SHORT_DESC</Tag>
+		<English>Bantu</English>
+		<French>Bantu</French>
+		<German>Bantu</German>
+		<Italian>Bantu</Italian>
+		<Spanish>Bantu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BANTU_ADJECTIVE</Tag>
+		<English>Bantu</English>
+		<French>Bantu</French>
+		<German>Bantu</German>
+		<Italian>bantu</Italian>
+		<Spanish>Bantu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DESC</Tag>
+		<English>Ethiopian Empire</English>
+		<French>Ethiopian Empire</French>
+		<German>Ethiopian Empire</German>
+		<Italian>Cesarstwo Etiopskie</Italian>
+		<Spanish>Ethiopian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_SHORT_DESC</Tag>
+		<English>Ethiopia</English>
+		<French>Ethiopia</French>
+		<German>Ethiopia</German>
+		<Italian>Etiopia</Italian>
+		<Spanish>Ethiopia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_ADJECTIVE</Tag>
+		<English>Ethiopian</English>
+		<French>Ethiopian</French>
+		<German>Ethiopian</German>
+		<Italian>Etiopski</Italian>
+		<Spanish>Ethiopian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ZARA</Tag>
+		<English>Zara Yaqob</English>
+		<French>Zara Yaqob</French>
+		<German>Zara Yaqob</German>
+		<Italian>Zara Yaqob</Italian>
+		<Spanish>Zara Yaqob</Spanish>
+	</TEXT>
+</Civ4GameText>

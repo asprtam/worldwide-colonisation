@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jason Winokur (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HUAYNA_CAPAC</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,5,2</Button>
+			<NIF>art/LeaderHeads/Huayna_Capac/huayna_capac.nif</NIF>
+			<KFM>art/LeaderHeads/Huayna_Capac/huayna_capac.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Huayna_Capac/huayna_capac_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CUNHAMBEBE</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,3,4</Button>
+			<NIF>Art/LeaderHeads/Cunhambebe/Cunhambebe.nif</NIF>
+			<KFM>Art/LeaderHeads/Cunhambebe/Cunhambebe.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/Cunhambebe/Cunhambebe_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MONTEZUMA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,5,3</Button>
+			<NIF>art/LeaderHeads/Montezuma/montezuma.nif</NIF>
+			<KFM>art/LeaderHeads/Montezuma/montezuma.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Montezuma/montezuma_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_WASHINGTON</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,4,2</Button>
+			<NIF>art/LeaderHeads/George_Washington/george_washington.nif</NIF>
+			<KFM>art/LeaderHeads/George_Washington/george_washington.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/George_Washington/George_Washington_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SITTING_BULL</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,8,3</Button>
+			<NIF>art/LeaderHeads/Sitting Bull/Sitting Bull.nif</NIF>
+			<KFM>art/LeaderHeads/Sitting Bull/Sitting Bull.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Sitting Bull/Sitting Bull_02_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OCONOSTOTA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,3,2</Button>
+			<NIF>art/LeaderHeads/Cunne_Shote/Cunne_Shote.nif</NIF>
+			<KFM>art/LeaderHeads/Cunne_Shote/Cunne_Shote.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/Cunne_Shote/Cunne_Shote_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MANGAS_COLORADAS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,2,2</Button>
+			<NIF>art/LeaderHeads/Cochise/Cochise.nif</NIF>
+			<KFM>art/LeaderHeads/Cochise/Cochise.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Cochise/Cochise_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LOGAN</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,1,4</Button>
+			<NIF>art/LeaderHeads/Tachnechobrus/Tachnechobrus.nif</NIF>
+			<KFM>art/LeaderHeads/Tachnechobrus/Tachnechobrus.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Tachnechobrus/Tachnechobrus_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AGUEYBANA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,1,2</Button>
+			<NIF>art/LeaderHeads/Arawak/Arawak.nif</NIF>
+			<KFM>art/LeaderHeads/Arawak/Arawak.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Arawak/Arawak_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ADAMS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,6,2</Button>
+			<NIF>art/LeaderHeads/John_Adams/John_Adams.nif</NIF>
+			<KFM>art/LeaderHeads/John_Adams/John_Adams.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/John_Adams/John_Adams_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BOLIVAR</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,7,3</Button>
+			<NIF>art/LeaderHeads/SimonBolivar/SimonBolivar.nif</NIF>
+			<KFM>art/LeaderHeads/SimonBolivar/SimonBolivar.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/SimonBolivar/SimonBolivar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SAN_MARTIN</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,7,2</Button>
+			<NIF>Art/LeaderHeads/Jose_SanMartin/Jose_SanMartin.nif</NIF>
+			<KFM>Art/LeaderHeads/Jose_SanMartin/Jose_SanMartin.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/Jose_SanMartin/Jose_SanMartin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHAMPLAIN</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,6,3</Button>
+			<NIF>art/LeaderHeads/Samuel_de_Champlain/Samuel_de_Champlain.nif</NIF>
+			<KFM>art/LeaderHeads/Samuel_de_Champlain/Samuel_de_Champlain.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Samuel_de_Champlain/Samuel_de_Champlain_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_STUYVESANT</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,4,4</Button>
+			<NIF>Art/LeaderHeads/Stuyvesant/Stuyvesant.nif</NIF>
+			<KFM>Art/LeaderHeads/Stuyvesant/Stuyvesant.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/Stuyvesant/Stuyvesant_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_FRONTENAC</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,4,3</Button>
+			<NIF>art/Leaderheads/Louis_de_Frontenac/Louis_de_Frontenac.nif</NIF>
+			<KFM>art/Leaderheads/Louis_de_Frontenac/Louis_de_Frontenac.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/Louis_de_Frontenac/Louis_de_Frontenac_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DONCK</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,2,4</Button>
+			<NIF>art/Leaderheads/VanDerDonck/VanDerDonk.nif</NIF>
+			<KFM>art/Leaderheads/VanDerDonck/VanDerDonk.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/VanDerDonck/VanDerDonk_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ENGLISH_KING</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,1,3</Button>
+			<NIF>art/LeaderHeads/King_English/King_English.nif</NIF>
+			<KFM>art/LeaderHeads/King_English/King_English.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/King_English/King_English_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_FRENCH_KING</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,2,3</Button>
+			<NIF>art/LeaderHeads/King_French/King_French.nif</NIF>
+			<KFM>art/LeaderHeads/King_French/King_French.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/King_French/King_French_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SPANISH_KING</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,3,3</Button>
+			<NIF>art/LeaderHeads/King_Spanish/King_Spanish.nif</NIF>
+			<KFM>art/LeaderHeads/King_Spanish/King_Spanish.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/King_Spanish/King_Spanish_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DUTCH_KING</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Colonization_Civilizations_Leaders.dds,8,2</Button>
+			<NIF>art/LeaderHeads/King_Dutch/King_Dutch.nif</NIF>
+			<KFM>art/LeaderHeads/King_Dutch/King_Dutch.kfm</KFM>
+			<BackgroundKFM>Art/LeaderHeads/King_Dutch/King_Dutch_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		
+		<!-- Added for new china mod. BEGIN. YounFlancy -->
+		
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ZHENG_CHENGGONG</Type>
+			<Button>art/Interface/Buttons/Civilizations/Chinese_King.dds</Button>
+			<NIF>art/LeaderHeads/Taizong/mao_tse_tung.nif</NIF>
+			<KFM>art/LeaderHeads/Taizong/mao_tse_tung.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Taizong/mao_tse_tung_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHINESE_KING</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,4,13</Button>
+			<NIF>art/LeaderHeads/kublai_khan/kublai_khan.nif</NIF>
+			<KFM>art/LeaderHeads/kublai_khan/kublai_khan.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/kublai_khan/qin_shi_huang_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TZAR</Type>
+			<Button>art/Interface/Buttons/Civilizations/tzar.dds</Button>
+			<NIF>art/LeaderHeads/catherine/catherine.nif</NIF>
+			<KFM>art/LeaderHeads/catherine/catherine.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/catherine/Catherine_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_RUS</Type>
+			<Button>art/Interface/Buttons/Civilizations/ger.dds</Button>
+			<NIF>art/Leaderheads/Peter_the_Great/peter.nif</NIF>
+			<KFM>art/Leaderheads/Peter_the_Great/peter.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Peter_the_Great/peter_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GER</Type>
+			<Button>art/Interface/Buttons/Civilizations/ger1.dds</Button>
+			<NIF>art/Leaderheads/John II/John II.nif</NIF>
+			<KFM>art/Leaderheads/John II/John II.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/John II/JohnII_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KING_GER</Type>
+			<Button>art/Interface/Buttons/Civilizations/russ1.dds</Button>
+			<NIF>art/LeaderHeads/Frederick_the_Great/frederick_the_great.nif</NIF>
+			<KFM>art/LeaderHeads/Frederick_the_Great/frederick_the_great.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Frederick_the_Great/frederick_the_great_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TUR</Type>
+			<Button>,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,2</Button>
+			<NIF>art/LeaderHeads/Suleiman/Suleiman.nif</NIF>
+			<KFM>art/LeaderHeads/Suleiman/Suleiman.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Suleiman/Suleiman_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SULTAN</Type>
+			<Button>,Art/Interface/Buttons/Warlords_Atlas_2.dds,2,8</Button>
+			<NIF>art/LeaderHeads/MehmedII/mehmed.nif</NIF>
+			<KFM>art/LeaderHeads/MehmedII/mehmed.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/MehmedII/MehmedII_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CZAKA</Type>
+			<Button>,Art/Interface/Buttons/Warlords_Atlas_2.dds,3,7</Button>
+			<NIF>art/LeaderHeads/Shaka/shaka.nif</NIF>
+			<KFM>art/LeaderHeads/Shaka/shaka.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Shaka/Shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ZARA</Type>
+			<Button>,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,2</Button>
+			<NIF>art/LeaderHeads/Zara Yaqob/Zara Yaqob.nif</NIF>
+			<KFM>art/LeaderHeads/Zara Yaqob/Zara Yaqob.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Zara Yaqob/Zara Yaqob_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BANTU</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,7,13</Button>
+			<NIF>art/LeaderHeads/Mansa_Musa/mansa_musa.nif</NIF>
+			<KFM>art/LeaderHeads/Mansa_Musa/mansa_musa.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Mansa_Musa/Mansa_Musa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ASOKA</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,7,12</Button>
+			<NIF>art/LeaderHeads/Asoka/asoka.nif</NIF>
+			<KFM>art/LeaderHeads/Asoka/asoka.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Asoka/Asoka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KHAN</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,3,13</Button>
+			<NIF>art/LeaderHeads/Kublai_Khan/qin_shi_huang.nif</NIF>
+			<KFM>art/LeaderHeads/Kublai_Khan/qin_shi_huang.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Kublai_Khan/qin_shi_huang_bg.kfm</BackgroundKFM>	
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KHMER</Type>
+			<Button>,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,2</Button>
+			<NIF>art/LeaderHeads/Suryavarman/Suryavarman.nif</NIF>
+			<KFM>art/LeaderHeads/Suryavarman/Suryavarman.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Suryavarman/Suryavarman_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SALADIN</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,6,11</Button>
+			<NIF>art/LeaderHeads/Saladin/saladin.nif</NIF>
+			<KFM>art/LeaderHeads/Saladin/saladin.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Saladin/saladin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_JAPAN</Type>
+			<Button>,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,4,12</Button>
+			<NIF>art/LeaderHeads/Tokugawa/tokugawa.nif</NIF>
+			<KFM>art/LeaderHeads/Tokugawa/tokugawa.kfm</KFM>
+			<BackgroundKFM>art/LeaderHeads/Tokugawa/tokugawa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+
+		
+		<!-- Added for new china mod. END. YounFlancy -->
+		
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>
